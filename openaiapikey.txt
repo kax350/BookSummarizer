@@ -1,1 +1,1 @@
-“your api here”
+“your api key here”
