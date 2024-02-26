@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+that you are studious. If you go to the gym even when its snowing, you have evidence that you are committed to fitness. The more evidence you have for a belief, the more strongly you will believe it. For most of my early life, I didnt consider myself a writer. If you were to ask any of my high school teachers or college professors, they would tell you I was an average writer at best: certainly not a standout. When I began my writing career, I published a new article every Monday and Thursday for the first few years. As the evidence grew, so did my identity as a writer. I didnt start out as a writer. I became one through my habits.     Of course, your habits are not the only actions that influence your identity, but by virtue of their frequency they are usually the most important ones. Each experience in life modifies your self-image, but its unlikely you would consider yourself a soccer player because you kicked a ball once or an artist because you scribbled a picture. As you repeat these actions, however, the evidence accumulates and your selfimage begins to change. The effect of one-off experiences tends to fade away while the effect of habits gets reinforced with time, which means your habits contribute most of the evidence that shapes your identity. In this way, the process of building habits is actually the process of becoming yourself. This is a gradual evolution. We do not change by snapping our fingers and deciding to be someone entirely new. We change bit by bit, day by day, habit by habit. We are continually undergoing microevolutions of the self. Each habit is like a suggestion: Hey, maybe this is who I am. If you finish a book, then perhaps you are the type of person who likes reading. If you go to the gym, then perhaps you are the type of person who likes exercise. If you practice playing the guitar, perhaps you are the type of person who likes music. Every action you take is a vote for the type of person you wish to become. No single instance
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the relationship between habits and identity. It suggests that our self-perception is shaped by the habits we form and the actions we repeatedly take. For instance, if we consistently engage in writing, we start to identify as a writer. While all experiences can modify our self-image, it's the repeated actions or habits that have the most significant impact due to their frequency. The process of habit formation is thus seen as a gradual evolution of self, with each habit acting as a suggestion of who we are. Every action we take is a vote for the person we aspire to be.

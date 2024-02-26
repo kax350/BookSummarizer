@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+in the same order each time.     First, there is the cue. The cue triggers your brain to initiate a behavior. It is a bit of information that predicts a reward. Our prehistoric ancestors were paying attention to cues that signaled the location of primary rewards like food, water, and sex. Today, we spend most of our time learning cues that predict secondary rewards like money and fame, power and status, praise and approval, love and friendship, or a sense of personal satisfaction. (Of course, these pursuits also indirectly improve our odds of survival and reproduction, which is the deeper motive behind everything we do.) Your mind is continuously analyzing your internal and external environment for hints of where rewards are located. Because the cue is the first indication that were close to a reward, it naturally leads to a craving. Cravings are the second step, and they are the motivational force behind every habit. Without some level of motivation or desire without craving a changewe have no reason to act. What you crave is not the habit itself but the change in state it delivers. You do not crave smoking a cigarette, you crave the feeling of relief it provides. You are not motivated by brushing your teeth but rather by the feeling of a clean mouth. You do not want to turn on the television, you want to be entertained. Every craving is linked to a desire to change your internal state. This is an important point that we will discuss in detail later. Cravings differ from person to person. In theory, any piece of information could trigger a craving, but in practice, people are not motivated by the same cues. For a gambler, the sound of slot machines can be a potent trigger that sparks an intense wave of desire. For someone who rarely gambles, the jingles and chimes of the casino are just background noise. Cues are meaningless until they are interpreted. The thoughts, feelings, and emotions of the observer are what transform a cue into a craving. The third step is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the process of habit formation, starting with a cue that triggers a behavior. This cue is often linked to a reward, which in modern times can be secondary rewards like money, fame, or personal satisfaction. The cue leads to a craving, which is the motivational force behind every habit. The craving is not for the habit itself, but for the change in state it delivers, such as relief or entertainment. Cravings differ among individuals, as they are based on personal interpretations of cues. The text suggests that understanding this process is key to understanding human behavior.

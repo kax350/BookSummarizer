@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+have some popcorn. The brilliance of this strategy is that ABC was associating the thing they needed viewers to do (watch their shows) with activities their viewers already wanted to do (relax, drink wine, and eat popcorn). Over time, people began to connect watching ABC with feeling relaxed and entertained. If you drink red wine and eat popcorn at 8 p.m. every Thursday, then eventually 8 p.m. on Thursday means relaxation and entertainment. The reward gets associated with the cue, and the habit of turning on the television becomes more attractive. Youre more likely to find a behavior attractive if you get to do one of your favorite things at the same time. Perhaps you want to hear about the latest celebrity gossip, but you need to get in shape. Using temptation bundling, you could only read the tabloids and watch reality shows at the gym. Maybe you want to get a pedicure, but you need to clean out your email inbox. Solution: only get a pedicure while processing overdue work emails. Temptation bundling is one way to apply a psychology theory known as Premacks Principle. Named after the work of professor David Premack, the principle states that more probable behaviors will reinforce less probable behaviors. In other words, even if you dont really want to process overdue work emails, youll become conditioned to do it if it means you get to do something you really want to do along the way.     You can even combine temptation bundling with the habit stacking strategy we discussed in Chapter 5 to create a set of rules to guide your behavior. The habit stacking + temptation bundling formula is: 1. After [CURRENT HABIT], I will [HABIT I NEED]. 2. After [HABIT I NEED], I will [HABIT I WANT]. If you want to read the news, but you need to express more gratitude: 1. After I get my morning coffee, I will say one thing Im grateful for that happened yesterday (need). 2. After I say one thing Im grateful for, I will read the news (want). If you want to watch sports, but
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of "temptation bundling," a strategy that combines an activity one needs to do with an activity one wants to do, thereby making the necessary task more attractive. This approach is based on Premack's Principle, which suggests that more probable behaviors can reinforce less probable ones. An example of temptation bundling is only allowing oneself to read celebrity gossip at the gym, thus associating the enjoyable activity with the necessary one. The text also introduces the idea of combining temptation bundling with "habit stacking," a method of creating a set of rules to guide behavior by linking habits together.

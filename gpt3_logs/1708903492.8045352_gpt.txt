@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+said, Sustaining an effort is the most important thing for any enterprise. The way to be successful is to learn how to do things right, then do them the same way every time.     The CBE program is a prime example of the power of reflection and review. The Lakers were already talented. CBE helped them get the most out of what they had, and made sure their habits improved rather than declined. Reflection and review enables the long-term improvement of all habits because it makes you aware of your mistakes and helps you consider possible paths for improvement. Without reflection, we can make excuses, create rationalizations, and lie to ourselves. We have no process for determining whether we are performing better or worse compared to yesterday. Top performers in all fields engage in various types of reflection and review, and the process doesnt have to be complex. Kenyan runner Eliud Kipchoge is one of the greatest marathoners of all time and an Olympic gold medalist. He still takes notes after every practice in which he reviews his training for the day and searches for areas that can be improved. Similarly, gold medal swimmer Katie Ledecky records her wellness on a scale of 1 to 10 and includes notes on her nutrition and how well she slept. She also records the times posted by other swimmers. At the end of each week, her coach goes over her notes and adds his thoughts. Its not just athletes, either. When comedian Chris Rock is preparing fresh material, he will first appear at small nightclubs dozens of times and test hundreds of jokes. He brings a notepad on stage and records which bits go over well and where he needs to make adjustments. The few killer lines that survive will form the backbone of his new show. I know of executives and investors who keep a decision journal in which they record the major decisions they make each week, why they made them, and what they expect the outcome to be. They review their choices at the end of each month or year to see
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text emphasizes the importance of sustained effort, reflection, and review in achieving success in any enterprise. It uses examples from various fields, including sports and comedy, to illustrate how top performers consistently review their performance and seek areas for improvement. The text highlights the practice of keeping a record of activities, decisions, and outcomes as a common strategy among successful individuals. This process of reflection and review helps in identifying mistakes, avoiding self-deception, and charting paths for improvement.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+example. Nearly everyone can benefit from getting their thoughts out of their head and onto paper, but most people give up after a few days or avoid it entirely because journaling feels like a chore.* The secret is to always stay below the point where it feels like work. Greg McKeown, a leadership consultant from the United Kingdom, built a daily journaling habit by specifically writing less than he felt like. He always stopped journaling before it seemed like a hassle. Ernest Hemingway believed in similar advice for any kind of writing. The best way is to always stop when you are going good, he said. Strategies like this work for another reason, too: they reinforce the identity you want to build. If you show up at the gym five days in a row even if its just for two minutesyou are casting votes for your new identity. Youre not worried about getting in shape. Youre focused on becoming the type of person who doesnt miss workouts. Youre taking the smallest action that confirms the type of person you want to be. We rarely think about change this way because everyone is consumed by the end goal. But one push-up is better than not exercising. One minute of guitar practice is better than none at all. One minute of reading is better than never picking up a book. Its better to do less than you hoped than to do nothing at all. At some point, once youve established the habit and youre showing up each day, you can combine the Two-Minute Rule with a technique we call habit shaping to scale your habit back up toward your ultimate goal. Start by mastering the first two minutes of the smallest version of the behavior. Then, advance to an intermediate step and repeat the processfocusing on just the first two minutes and mastering that stage before moving on to the next level. Eventually, youll end up with     the habit you had originally hoped to build while still keeping your focus where it should be: on the first two minutes of the behavior. EXAMPLES OF HABIT SHAPING
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of building habits by starting small and focusing on consistency rather than the end goal. It suggests that tasks, such as journaling or exercising, should be done in small amounts to avoid feeling like a chore. This approach, known as the Two-Minute Rule, helps reinforce the identity one wants to build. For instance, doing a short workout every day helps establish the identity of a person who doesn't miss workouts. The text also introduces the concept of habit shaping, which involves mastering the first two minutes of a behavior, then gradually advancing to more complex stages. This method allows for the development of a desired habit while keeping the focus on the initial stages of the behavior.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Yearbook of Pediatrics 2009 (2009), doi:10.1016/s0084 3954(08)791346. if one person in a relationship lost weight: Amy A. Gorin et al., Randomized Controlled Trial Examining the Ripple Effect of a Nationally Available Weight Management Program on Untreated Spouses, Obesity 26, no. 3 (2018), doi:10.1002/oby.22098.  Of the ten people in the class, four became astronauts: Mike Massimino, Finding the Difference Between Improbable and Impossible, interview by James Altucher, The James Altucher Show, January 2017, https://jamesaltucher.com/2017/01/mikemassimino-i-am-not-good-enough. the higher your best friends IQ at age eleven or twelve: Ryan Meldrum, Nicholas Kavish, and Brian Boutwell, On the Longitudinal Association Between Peer and Adolescent Intelligence: Can Our Friends Make Us Smarter?, PsyArXiv, February 10, 2018, doi:10.17605/OSF.IO/TVJ9Z. Solomon Asch conducted a series of experiments: Harold Steere Guetzkow, Groups, Leadership and Men: Research in Human Relations (Pittsburgh, PA: Carnegie Press, 1951), 177190. By the end of the experiment, nearly 75 percent of the subjects: Follow-up studies show that if there was just one actor in the group who disagreed with the group, then the subject was far more likely to state their true belief that the lines were different lengths. When you have an opinion that dissents from the tribe, it is much easier to stand by it if you have an ally. When you need the strength to stand up to the social norm, find a partner. For more, see Solomon E. Asch, Opinions and Social Pressure, Scientific American 193, no. 5 (1955), doi:10.1038/scientificamerican115531; and William N.     Morris and Robert S. Miller, The Effects of Consensus-Breaking and ConsensusPreempting Partners on Reduction of Conformity, Journal of Experimental Social Psychology 11, no. 3 (1975), doi:10.1016/s00221031(75)800230. Nearly 75 percent of subjects made the incorrect choice at least once. However, considering the total number of responses
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various studies related to human behavior and social influence. One study by Amy A. Gorin et al. shows that weight loss in one person in a relationship can influence the other partner. Another study by Mike Massimino indicates that out of ten people, four became astronauts. A study by Ryan Meldrum, Nicholas Kavish, and Brian Boutwell suggests that a friend's IQ at age eleven or twelve can influence an individual's intelligence. Solomon Asch's experiments reveal that nearly 75% of subjects conformed to a group's incorrect choice, but the presence of a dissenting actor in the group made subjects more likely to state their true belief. The studies collectively suggest the significant impact of social and relational factors on individual behaviors and decisions.

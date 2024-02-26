@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+farmerseven across hundreds or thousands of yearswas constrained by the amount of friction in the environment.  By comparison, the climate varies greatly when traveling from north to south. Just imagine how different the weather is in Florida compared to Canada. You can be the most talented farmer in the world, but it wont help you grow Florida oranges in the Canadian winter. Snow is a poor substitute for soil. In order to spread crops along north-south routes, farmers would need to find and domesticate new plants whenever the climate changed. As a result, agriculture spread two to three times faster across Asia and Europe than it did up and down the Americas. Over the span of centuries, this small difference had a very big impact. Increased food production allowed for more rapid population growth. With more people, these cultures were able to build stronger armies and were better equipped to develop new technologies. The changes started out     smalla crop that spread slightly farther, a population that grew slightly fasterbut compounded into substantial differences over time. The spread of agriculture provides an example of the 3rd Law of Behavior Change on a global scale. Conventional wisdom holds that motivation is the key to habit change. Maybe if you really wanted it, youd actually do it. But the truth is, our real motivation is to be lazy and to do what is convenient. And despite what the latest productivity best seller will tell you, this is a smart strategy, not a dumb one. Energy is precious, and the brain is wired to conserve it whenever possible. It is human nature to follow the Law of Least Effort, which states that when deciding between two similar options, people will naturally gravitate toward the option that requires the least amount of work.* For example, expanding your farm to the east where you can grow the same crops rather than heading north where the climate is different. Out of all the possible actions we could take, the one that is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the impact of environmental constraints on the spread of agriculture, using the example of the difference in climate between Florida and Canada. Despite the skill of the farmer, the climate dictates what can be grown and where. This led to agriculture spreading faster across Asia and Europe than in the Americas, where the climate varies greatly from north to south. Over time, this difference in agricultural spread led to increased food production, population growth, stronger armies, and technological development in Asia and Europe. The text also introduces the 3rd Law of Behavior Change, suggesting that humans naturally choose the path of least effort, a strategy that conserves energy and is therefore not a sign of laziness but a smart survival strategy.

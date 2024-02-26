@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+him. In the mid-1800s, employee theft was a common problem. Receipts were kept in an open drawer and could easily be altered or discarded. There were no video cameras to review behavior and no software to track transactions. Unless you were willing to hover over your employees every minute of the day, or to manage all transactions yourself, it was difficult to prevent theft. As Patterson mulled over his predicament, he came across an advertisement for a new invention called Rittys Incorruptible Cashier. Designed by fellow Dayton resident James Ritty, it was the first cash register. The machine automatically locked the cash and receipts inside after each transaction. Patterson bought two for fifty dollars each. Employee theft at his store vanished overnight. In the next six months, Pattersons business went from losing money to making $5,000 in profitthe equivalent of more than $100,000 today. Patterson was so impressed with the machine that he changed businesses. He bought the rights to Rittys invention and opened the National Cash Register Company. Ten years later, National Cash Register had over one thousand employees and was on its way to becoming one of the most successful businesses of its time. The best way to break a bad habit is to make it impractical to do. Increase the friction until you dont even have the option to act. The brilliance of the cash register was that it automated ethical behavior by making stealing practically impossible. Rather than trying to change the employees, it made the preferred behavior automatic. Some actionslike installing a cash registerpay off again and again. These onetime choices require a little bit of effort up front but create increasing value over time. Im fascinated by the idea that a single choice can deliver returns again and again, and I surveyed my readers on their favorite onetime actions that lead to better long-term habits. The table on the following page shares some of the most popular answers. Id wager
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In the mid-1800s, employee theft was a significant issue due to the lack of surveillance and transaction tracking. However, the invention of the first cash register, Rittys Incorruptible Cashier, revolutionized this situation. The machine, which locked cash and receipts after each transaction, was purchased by a businessman named Patterson, leading to the elimination of theft in his store and a significant increase in profit. Impressed by the invention, Patterson bought the rights to it and established the National Cash Register Company, which became highly successful. The cash register exemplifies how making a bad habit impractical can effectively eliminate it, and how one-time choices can yield long-term benefits.

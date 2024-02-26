@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+overwhelming portion of who you are. In the words of investor Paul Graham, keep your identity small. The more you let a single belief define you, the less capable you are of adapting when life challenges you. If you tie everything up in being the point guard or the partner at the firm or whatever else, then the loss of that facet of your life will wreck you. If youre a vegan and then develop a health condition that forces you to change your diet, youll have an identity crisis on your hands. When you cling too tightly to one identity, you become brittle. Lose that one thing and you lose yourself. For most of my young life, being an athlete was a major part of my identity. After my baseball career ended, I struggled to find myself.     When you spend your whole life defining yourself in one way and that disappears, who are you now? Military veterans and former entrepreneurs report similar feelings. If your identity is wrapped up in a belief like Im a great soldier, what happens when your period of service ends? For many business owners, their identity is something along the lines of Im the CEO or Im the founder. If you have spent every waking moment working on your business, how will you feel after you sell the company? The key to mitigating these losses of identity is to redefine yourself such that you get to keep important aspects of your identity even if your particular role changes. Im an athlete becomes Im the type of person who is mentally tough and loves a physical challenge. Im a great soldier transforms into Im the type of person who is disciplined, reliable, and great on a team. Im the CEO translates to Im the type of person who builds and creates things. When chosen effectively, an identity can be flexible rather than brittle. Like water flowing around an obstacle, your identity works with the changing circumstances rather than against them. The following quote from the Tao Te Ching encapsulates the ideas perfectly:    Men are
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the dangers of tying one's identity too closely to a single belief or role, as it can lead to an identity crisis when that role is lost or changes. It uses examples such as athletes, military veterans, and entrepreneurs to illustrate the point. The text suggests that the key to avoiding such crises is to redefine one's identity in a more flexible way, focusing on personal qualities rather than specific roles. For instance, "I'm an athlete" could become "I'm the type of person who is mentally tough and loves a physical challenge." This approach allows one's identity to adapt to changing circumstances, rather than being shattered by them.

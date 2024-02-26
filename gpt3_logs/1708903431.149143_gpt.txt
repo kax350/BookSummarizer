@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+And because it suited meI was only taking the courses I was interested instudying felt like less of a chore. It was also easier to avoid the trap of comparing myself to everyone else. After all, nobody else was taking the same combination of classes, so who could say if they were better or worse? Specialization is a powerful way to overcome the accident of bad genetics. The more you master a specific skill, the harder it becomes for others to compete with you. Many bodybuilders are stronger than the average arm wrestler, but even a massive bodybuilder may lose at arm wrestling because the arm wrestling champ has very specific strength. Even if youre not the most naturally gifted, you can often win by being the best in a very narrow category. Boiling water will soften a potato but harden an egg. You cant control whether youre a potato or an egg, but you can decide to play a game where its better to be hard or soft. If you can find a more favorable environment, you can transform the situation from one where the odds are against you to one where they are in your favor.  HOW TO GET THE MOST OUT OF YOUR GENES Our genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard on. Once we realize our strengths, we know where to spend our time and energy. We know which types of     opportunities to look for and which types of challenges to avoid. The better we understand our nature, the better our strategy can be. Biological differences matter. Even so, its more productive to focus on whether you are fulfilling your own potential than comparing yourself to someone else. The fact that you have a natural limit to any specific ability has nothing to do with whether you are reaching the ceiling of your capabilities. People get so caught up in the fact that they have limits that they rarely exert the effort required to get close to them. Furthermore, genes cant make you successful if youre not doing the work. Yes, its possible that the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text emphasizes the importance of specialization and understanding one's genetic strengths for personal success. It suggests that focusing on areas of interest and honing specific skills can help individuals excel, even if they are not naturally gifted in a broad sense. The text also highlights that genetic predispositions do not eliminate the need for hard work, but rather guide where efforts should be concentrated. It encourages individuals to focus on fulfilling their own potential rather than comparing themselves to others, and to find environments that favor their unique strengths. The text concludes by stating that while genes can influence abilities, they cannot guarantee success without effort.

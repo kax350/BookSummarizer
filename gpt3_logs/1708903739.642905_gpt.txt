@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+19192 benefits of, 4647, 239 breaking bad habits (table), 97, 137, 179, 213 in the business world, 265 changing your mind-set about, 13031 creating good habits (table), 96, 136, 178, 212 downside of, 23940 effect on the rest of your day, 160, 162 eliminating bad habits, 9495 as the embodiment of identity, 3638 formation of, 4446, 14547 four-step process of building a habit, 4753, 25964 gateway habit, 163  identity-based, 31, 3940 imitation of others habits the close, 11618  the many, 11821 the powerful, 12122 importance of, 4041 outcome-based, 31 and parenting, 267 reframing habits to highlight their benefits, 13132 short-term and long-term consequences of, 18890 sticking with, 23031 suitability for your personality, 22122 Two-Minute Rule, 16267 using implementation intention to start, 7172 Habits Academy, 8 habit shaping, 16567 Habits Scorecard, 6466 habit stacking    combining temptation bundling with, 11011   explained, 7479 habit tracking, 196200, 202204 handwashing in Pakistan example of a satisfying behavior change, 18485  happiness as the absence of desire, 25960 and goals, 26 relativity of, 263 Harris, Bryan, 208209 Hebb, Donald, 143 Hebbs Law, 143 herring gulls and supernormal stimuli, 101102 hope, 264  Hreha, Jason, 45 Hugo, Victor, 16970 The Hunchback of Notre Dame (Hugo), 16970  hyperbolic discounting (time inconsistency), 18889 identity accepting blanket personal statements as facts, 35 and behavior change, 2932, 3436 behavior that is at odds with the self, 3233  habits as the embodiment of, 3638, 24749 identity-based habits, 31, 3940 letting a single belief define you, 24749 pride in a particular aspect of ones identity, 3334 reinforcing your desired identity by using the Two-Minute Rule, 165 two-step process of changing your identity, 3940  implementation intention, 6972 improvements, making small, 23132, 233, 253 instant gratification, 18893 Johnson, Magic, 24344 journaling, 165 Jung, Carl, 62 Kamb,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of habits in various aspects of life, including business and parenting. It explores the formation and elimination of habits, their effects on daily life, and the concept of identity-based habits. The text also introduces strategies for creating good habits and breaking bad ones, such as the four-step process of building a habit, the Two-Minute Rule, and using implementation intention. Other concepts discussed include habit stacking, habit tracking, and the short-term and long-term consequences of habits. The text also touches on the role of habits in shaping one's identity and the importance of aligning habits with personal identity.

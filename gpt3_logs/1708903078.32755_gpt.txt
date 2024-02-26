@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+found that a persons chances of becoming obese increased by 57 percent if he or she had a friend who became obese. It works the other way, too. Another study found that if one person in a relationship lost weight, the other partner would also slim down about one third of the time. Our friends and family provide a sort of invisible peer pressure that pulls us in their direction. Of course, peer pressure is bad only if youre surrounded by bad influences. When astronaut Mike Massimino was a graduate student at MIT, he took a small robotics class. Of the ten people in the class, four became astronauts. If your goal was to make it into space, then that room was about the best culture you could ask for. Similarly, one study found that the higher your best friends IQ at age eleven or twelve, the higher your IQ would be at age fifteen, even after controlling for natural levels of intelligence. We soak up the qualities and practices of those around us. One of the most effective things you can do to build better habits is to join a culture where your desired behavior is the normal behavior. New habits seem achievable when you see others doing them every day. If you are surrounded by fit people, youre more likely to consider working out to be a common habit. If youre surrounded by jazz lovers, youre more likely to believe its reasonable to play jazz every day. Your culture sets your expectation for what is normal. Surround yourself with people who have the habits you want to have yourself. Youll rise together. To make your habits even more attractive, you can take this strategy one step further.     Join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group. Steve Kamb, an entrepreneur in New York City, runs a company called Nerd Fitness, which helps nerds, misfits, and mutants lose weight, get strong, and get healthy. His clients include video game lovers, movie fanatics, and average Joes who
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the influence of peer pressure and social environment on personal habits and behaviors. It suggests that a person's likelihood of becoming obese increases by 57% if a friend becomes obese, while weight loss in one partner can lead to weight loss in the other. The text also highlights the impact of being in a high-achieving environment, such as a class where multiple students become astronauts, or having a high-IQ friend at a young age. The author suggests that joining a culture where your desired behavior is the norm can help in building better habits. The text also mentions the strategy of joining a group where you share common interests, using the example of Nerd Fitness, a company that helps nerds and misfits get healthy.

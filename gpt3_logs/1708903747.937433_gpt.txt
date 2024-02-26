@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+The Power of Habit (Duhigg), 9, 47n  predictions, making after perceiving cues, 12829 the human brain as a prediction machine, 6061  Premack, David, 110 Premacks Principle, 110 pride manicure example, 33 in a particular aspect of ones identity, 3334 priming your environment to make the next action easy, 15658 problem phase of a habit loop, 5153 process and behavior change, 3031     professionals vs. amateurs, 236 progress, 262 proximitys effect on behavior, 11618 quitting smoking, 32, 12526 reading resources Atomic Habits newsletter, 257 business applications of habit strategies, 265 parenting applications of habit strategies, 267 recovering when habits break down, 200202 reflection and review authors Annual Review and Integrity Report, 24546 benefits of, 24647 Career Best Effort program (CBE) example, 24244  Chris Rock example, 245 Eliud Kipchoge example, 24445 flexibility and adaptation, 24749  importance of, 24445 Katie Ledecky example, 245 reframing habits to highlight their benefits, 13132 reinforcement, 19193 repetition as active practice of a new habit, 144  automaticity, 14446 to master a habit, 143 photography class example of active practice, 14142, 144 responding to things based on emotions, 26162 rewards after sacrifice, 262 immediate vs. delayed, 18790 purpose of, 49  reinforcement, 19193 training yourself to delay gratification, 19093 variable rewards, 235  wanting vs. liking, 106108, 263 Riis, Jacob, 21 Riley, Michael, 60 Riley, Pat, 24244 Ritty, James, 17172     Robins, Lee, 9192 sacrifice, 262 satisfaction as the completion of the habit loop, 186 and expectations, 26263  pleasurable sensory experiences, 18486 2nd Law of Behavior Change (Make It Attractive) ABC Thursday night TV lineup example, 109 desire for approval, respect, and praise, 12122 habit tracking, 198 highly engineered versions of reality, 104 making the cues of bad habits unattractive, 126 supernormal stimuli, 102 temptation bundling, 10811
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+"The Power of Habit" by Duhigg discusses the human brain as a prediction machine, making predictions after perceiving cues. The book explores the concept of habit loops, the difference between professionals and amateurs, and the impact of proximity on behavior. It also delves into strategies for quitting smoking and the importance of reflection and review in habit formation. The author emphasizes the role of reinforcement, repetition, and rewards in mastering a habit, and the need for reframing habits to highlight their benefits. The book also discusses the concept of satisfaction as the completion of the habit loop, the 2nd Law of Behavior Change (Make It Attractive), and the technique of temptation bundling.

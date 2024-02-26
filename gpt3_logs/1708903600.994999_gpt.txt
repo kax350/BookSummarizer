@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+produceaisle.html?_r=0. People drink Bud Light because: The more exposure people have to food, the more likely they are to purchase it and eat it. T. Burgoine et al., Associations between Exposure to Takeaway Food Outlets, Takeaway Food Consumption, and Body Weight in Cambridgeshire, UK: Population Based, Cross Sectional Study, British Medical Journal 348, no. 5 (2014), doi:10.1136/bmj.g1464. The human body has about eleven million sensory receptors: Timothy D. Wilson, Strangers to Ourselves: Discovering the Adaptive Unconscious (Cambridge, MA: Belknap Press, 2004), 24.  half of the brains resources are used on vision: B. R. Sheth et al., Orientation Maps of Subjective Contours in Visual Cortex, Science 274, no. 5295 (1996), doi:10.1126/science.274.5295.2110. When their energy use was obvious and easy to track: This story was told to Donella Meadows at a conference in Kollekolle, Denmark, in 1973. For more, see Donella Meadows and Diana Wright, Thinking in Systems: A Primer (White River Junction, VT: Chelsea Green, 2015), 109. the stickers cut bathroom cleaning costs: The actual estimate was 8 percent, but given the variables used, anywhere between 5 percent and 10 percent savings annually is a reasonable guess. Blake Evans-Pritchard, Aiming to Reduce Cleaning Costs, Works That Work, Winter 2013, https://worksthatwork.com/1/urinal-fly. sleeping . . . was the only action that happened in that room: Techniques involving stimulus control have even been successfully used to help people with insomnia. In short, those who had trouble falling asleep were told to only go to their room and lie in their bed when they were tired. If they couldnt fall asleep, they were told to get up and change rooms. Strange advice, but over time, researchers found that by associating the bed with Its time to go to sleep and not with other activities (reading a book, just lying     there, etc.), participants were eventually able to quickly fall asleep due to the repeated process:
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the impact of exposure and association on human behavior and decision-making. It suggests that increased exposure to food increases the likelihood of its consumption, as seen in a study on takeaway food in Cambridgeshire, UK. The text also highlights the importance of sensory receptors, particularly vision, in human perception. It shares an anecdote about energy use tracking leading to cost savings in bathroom cleaning. Lastly, it discusses the use of stimulus control techniques to treat insomnia, by associating the bed strictly with sleep, thereby improving sleep onset over time.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Behavior Change.     Once a habit has been established, however, its important to continue to advance in small ways. These little improvements and new challenges keep you engaged. And if you hit the Goldilocks Zone just right, you can achieve a flow state.* A flow state is the experience of being in the zone and fully immersed in an activity. Scientists have tried to quantify this feeling. They found that to achieve a state of flow, a task must be roughly 4 percent beyond your current ability. In real life its typically not feasible to quantify the difficulty of an action in this way, but the core idea of the Goldilocks Rule remains: working on challenges of just manageable difficultysomething on the perimeter of your ability seems crucial for maintaining motivation. Improvement requires a delicate balance. You need to regularly search for challenges that push you to your edge while continuing to make enough progress to stay motivated. Behaviors need to remain novel in order for them to stay attractive and satisfying. Without variety, we get bored. And boredom is perhaps the greatest villain on the quest for self-improvement.  HOW TO STAY FOCUSED WHEN YOU GET BORED WORKING ON YOUR GOALS After my baseball career ended, I was looking for a new sport. I joined a weightlifting team and one day an elite coach visited our gym. He had worked with thousands of athletes during his long career, including a few Olympians. I introduced myself and we began talking about the process of improvement. Whats the difference between the best athletes and everyone else? I asked. What do the really successful people do that most dont? He mentioned the factors you might expect: genetics, luck, talent. But then he said something I wasnt expecting: At some point it comes down to who can handle the boredom of training every day, doing the same lifts over and over and over. His answer surprised me because its a different way of thinking about work ethic. People talk about
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of continuous improvement and maintaining motivation in the process of self-improvement. It introduces the concept of the 'Goldilocks Zone', where a task must be just beyond one's current ability to achieve a state of flow, which is a state of full immersion in an activity. The text emphasizes the need for a balance between challenging oneself and making enough progress to stay motivated. It also highlights the importance of novelty in behaviors to prevent boredom, which is considered a major obstacle in self-improvement. The text concludes with an anecdote from an elite coach who suggests that the ability to handle the monotony of repetitive training separates successful athletes from the rest.

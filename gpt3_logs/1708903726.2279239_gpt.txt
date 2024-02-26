@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+24445   handling the boredom of training, 23334 Los Angeles Lakers example of reflection and review, 24244 use of motivation rituals, 13233 atomic habits cumulative effect of stacking, 25152  defined, 27 automaticity, 14446 automating a habit cash register example, 17172 table of onetime actions that lock in good habits, 173 Thomas Frank example of automating a habit contract, 210 using technology, 17375 awareness Habits Scorecard, 6466 of nonconscious habits, 62  Pointing-and-Calling subway safety system, 6263 bad habits breaking (table), 97, 137, 179, 213 reducing exposure to the cues that cause them, 9495 behavior change Cardinal Rule of Behavior Change, 186, 189 four laws of, 5355, 186, 25253 (see also specific numbered laws) learning curves, 14546 three layers of, 2931 benefits of habits, 4647, 239 Better All the Time (article), 154  biological considerations Big Five personality traits, 22022 genes, 21821, 22627 boredom, 23336 Brailsford, Dave, 1314 the brain    career choices and brain differences, 14344 dopamine-driven feedback loops, 105108 evolutionary similarity of, 187 as habits are created, 4546 Hebbs Law, 143 inaccurate perceptions of threats, 189n   long-term potentiation, 143 physical changes in the brain due to repetition, 14344 System 1 vs. System 2 thinking, 232n, 261 wanting vs. liking rewards, 106108, 263 breakthrough moments ice cube melting example, 2021 British Cycling, 1315, 25, 243 Budris, Caed, 260 building a habit four-step process 1. cue, 4748  2. craving, 48 3. response, 4849 4. reward, 49  problem phase and solution phase, 5153 lessons from, 25964 business applications of habit strategies, 265 Byrne, Ronan, 108109 cash register example of automating a habit, 17172  cat escape study, 4344 changing your mind-set from have to to get to, 13031 Cho, Margaret, 210 choosing the right opportunities combining your skills to reduce the competition, 22526 explore/exploit trade-off, 22325
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various aspects of habit formation and behavior change, including the boredom of training, the use of motivation rituals, and the cumulative effect of atomic habits. It also explores the concept of automaticity and provides examples of automating habits. The text highlights the importance of awareness in habit formation and suggests strategies for breaking bad habits. It introduces the Cardinal Rule of Behavior Change and the four laws of behavior change. The benefits of habits, biological considerations in habit formation, and the role of the brain in habit formation are also discussed. The text also provides a four-step process for building a habit and discusses the application of habit strategies in business. Finally, it suggests strategies for choosing the right opportunities and changing one's mindset.

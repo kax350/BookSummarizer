@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+researchers also explained to the group how exercise could reduce the risk of coronary heart disease and improve heart health. Finally, there was the third group. These subjects received the same presentation as the second group, which ensured that they had equal levels of motivation. However, they were also asked to formulate a plan for when and where they would exercise over the following week. Specifically, each member of the third group completed the following sentence: During the next week, I will partake in at least 20 minutes of vigorous exercise on [DAY] at [TIME] in [PLACE]. In the first and second groups, 35 to 38 percent of people exercised at least once per week. (Interestingly, the motivational presentation given to the second group seemed to have no meaningful impact on behavior.) But 91 percent of the third group exercised at least once per weekmore than double the normal rate. The sentence they filled out is what researchers refer to as an implementation intention, which is a plan you make beforehand about     when and where to act. That is, how you intend to implement a particular habit. The cues that can trigger a habit come in a wide range of formsthe feel of your phone buzzing in your pocket, the smell of chocolate chip cookies, the sound of ambulance sirensbut the two most common cues are time and location. Implementation intentions leverage both of these cues. Broadly speaking, the format for creating an implementation intention is: When situation X arises, I will perform response Y. Hundreds of studies have shown that implementation intentions are effective for sticking to our goals, whether its writing down the exact time and date of when you will get a flu shot or recording the time of your colonoscopy appointment. They increase the odds that people will stick with habits like recycling, studying, going to sleep early, and stopping smoking. Researchers have even found that voter turnout increases when people are forced to create
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Researchers have found that creating an "implementation intention," a specific plan for when and where to act, significantly increases the likelihood of individuals sticking to their goals. In a study, 91% of participants who formulated a plan for when and where they would exercise did so at least once per week, more than double the rate of those who did not make such a plan. Implementation intentions, which often leverage time and location cues, have been shown to be effective in a variety of contexts, from health-related habits like getting vaccinations and quitting smoking, to civic duties like voting.

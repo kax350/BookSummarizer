@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Mercifully, by the next morning my breathing had rebounded to the point where the doctors felt comfortable releasing me from the coma. When I finally regained consciousness, I discovered that I had lost my ability to smell. As a test, a nurse asked me to blow my nose and sniff an apple juice box. My sense of smell returned, butto everyones surprisethe act of blowing my nose forced air through the fractures in my eye socket and pushed my left eye outward. My eyeball bulged out of the socket, held precariously in place by my eyelid and the optic nerve attaching my eye to my brain. The ophthalmologist said my eye would gradually slide back into place as the air seeped out, but it was hard to tell how long this would take. I was scheduled for surgery one week later, which would allow me some additional time to heal. I looked like I had been on the wrong end of a boxing match, but I was cleared to leave the hospital. I returned home with a broken nose, half a dozen facial fractures, and a bulging left eye. The following months were hard. It felt like everything in my life was on pause. I had double vision for weeks; I literally couldnt see straight. It took more than a month, but my eyeball did eventually return to its normal location. Between the seizures and my vision     problems, it was eight months before I could drive a car again. At physical therapy, I practiced basic motor patterns like walking in a straight line. I was determined not to let my injury get me down, but there were more than a few moments when I felt depressed and overwhelmed. I became painfully aware of how far I had to go when I returned to the baseball field one year later. Baseball had always been a major part of my life. My dad had played minor league baseball for the St. Louis Cardinals, and I had a dream of playing professionally, too. After months of rehabilitation, what I wanted more than anything was to get back on the field. But my return to baseball was not smooth. When the season
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The author recounts their experience of waking from a coma to find they had lost their sense of smell and had a bulging left eye due to fractures in their eye socket. Despite the initial shock and discomfort, they were released from the hospital with a broken nose, multiple facial fractures, and the promise of surgery a week later. The following months were challenging, marked by double vision, seizures, and physical therapy. It took eight months before they could drive again and a year before they could return to baseball, a sport they loved and aspired to play professionally. Their return to the field was fraught with difficulties, indicating a long road to full recovery.

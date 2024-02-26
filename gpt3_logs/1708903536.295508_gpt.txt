@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+really want it. Its time to have an honest conversation with yourself. Your actions reveal your true motivations.     Reward is on the other side of sacrifice. Response (sacrifice of energy) always precedes reward (the collection of resources). The runners high only comes after the hard run. The reward only comes after the energy is spent. Self-control is difficult because it is not satisfying. A reward is an outcome that satisfies your craving. This makes self-control ineffective because inhibiting our desires does not usually resolve them. Resisting temptation does not satisfy your craving; it just ignores it. It creates space for the craving to pass. Self-control requires you to release a desire rather than satisfy it. Our expectations determine our satisfaction. The gap between our cravings and our rewards determines how satisfied we feel after taking action. If the mismatch between expectations and outcomes is positive (surprise and delight), then we are more likely to repeat a behavior in the future. If the mismatch is negative (disappointment and frustration), then we are less likely to do so. For example, if you expect to get $10 and get $100, you feel great. If you expect to get $100 and get $10, you feel disappointed. Your expectation changes your satisfaction. An average experience preceded by high expectations is a disappointment. An average experience preceded by low expectations is a delight. When liking and wanting are approximately the same, you feel satisfied. Satisfaction = Liking  Wanting This is the wisdom behind Senecas famous quote, Being poor is not having too little, it is wanting more. If your wants outpace your likes, youll always be unsatisfied. Youre perpetually putting more weight on the problem than the solution. Happiness is relative. When I first began sharing my writing publicly it took me three months to get one thousand subscribers. When I hit that milestone, I told my parents and my girlfriend. We celebrated. I felt
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the relationship between actions, motivations, rewards, and satisfaction. It suggests that rewards come after sacrifices, and self-control is challenging because it involves suppressing desires rather than satisfying them. The level of satisfaction we feel is determined by the gap between our expectations and the actual outcome. If the outcome exceeds expectations, we are likely to repeat the behavior, but if it falls short, we are less likely to do so. The text also suggests that satisfaction is achieved when our desires and likes are balanced, and that happiness is relative, influenced by our expectations.

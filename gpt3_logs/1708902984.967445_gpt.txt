@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+things in your bedroom. Our behavior is not defined by the objects in the environment but by our relationship to them. In fact, this is a useful way to think about the influence of the environment on your behavior. Stop thinking about your environment as filled with objects. Start thinking about it as filled with relationships. Think in terms of how you interact with the spaces around you. For one person, her couch is the place where she reads for an hour each night. For someone else, the couch is where he watches television and eats a bowl of ice cream after work. Different people can have different memoriesand thus different habitsassociated with the same place. The good news? You can train yourself to link a particular habit with a particular context. In one study, scientists instructed insomniacs to get into bed only when they were tired. If they couldnt fall asleep, they were told to sit in a different room until they became sleepy. Over time, subjects began     to associate the context of their bed with the action of sleeping, and it became easier to quickly fall asleep when they climbed in bed. Their brains learned that sleepingnot browsing on their phones, not watching television, not staring at the clockwas the only action that happened in that room. The power of context also reveals an important strategy: habits can be easier to change in a new environment. It helps to escape the subtle triggers and cues that nudge you toward your current habits. Go to a new placea different coffee shop, a bench in the park, a corner of your room you seldom useand create a new routine there. It is easier to associate a new habit with a new context than to build a new habit in the face of competing cues. It can be difficult to go to bed early if you watch television in your bedroom each night. It can be hard to study in the living room without getting distracted if thats where you always play video games. But when you step outside your normal environment, you leave
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the influence of environment on behavior, emphasizing that our interactions with objects and spaces shape our habits. Different people can associate different habits with the same place. The text suggests that one can train oneself to link specific habits with particular contexts, as demonstrated in a study where insomniacs were trained to associate their beds with sleep. The text also highlights that changing habits can be easier in a new environment, as it helps to avoid triggers associated with old habits. Therefore, creating new routines in new places can facilitate the development of new habits.

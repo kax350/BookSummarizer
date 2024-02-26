@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+satisfaction only comes afterward. This is what the Austrian neurologist Victor Frankl meant when he said that happiness cannot be pursued, it must ensue. Desire is pursued. Pleasure ensues from action. Peace occurs when you dont turn your observations into problems. The first step in any behavior is observation. You notice a cue, a bit of information, an event. If you do not desire to act on what you observe, then you are at peace. Craving is about wanting to fix everything. Observation without craving is the realization that you do not need to fix anything. Your desires are not running rampant. You do not crave a change in state. Your mind does not generate a problem for you to solve. Youre simply observing and existing. With a big enough why you can overcome any how. Friedrich Nietzsche, the German philosopher and poet, famously wrote, He who has a why to live for can bear almost any how. This phrase harbors an important truth about human behavior. If your motivation and desire are great enough (that is, why are you are acting), youll take action even when it is quite difficult. Great craving can power great actioneven when friction is high. Being curious is better than being smart. Being motivated and curious counts for more than being smart because it leads to action. Being smart will never deliver results on its own because it doesnt get you to act. It is desire, not intelligence, that prompts behavior. As Naval Ravikant says, The trick to doing anything is first cultivating a desire for it. Emotions drive behavior. Every decision is an emotional decision at some level. Whatever your logical reasons are for taking action, you only feel compelled to act on them because of emotion. In fact, people with damage to emotional centers of the brain can list many reasons for taking action but still will not act because they do not     have emotions to drive them. This is why craving comes before response. The feeling comes first, and then the behavior. We can
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the nature of desire, observation, motivation, and emotion in human behavior. It suggests that happiness is a result of action, not a pursuit, and peace is achieved when observations are not turned into problems. Craving, or the desire to fix everything, can lead to unrest. However, if the motivation is strong enough, it can drive action even in difficult circumstances. The text also emphasizes that curiosity and motivation are more important than intelligence in prompting action, as they lead to action, while intelligence alone does not. Finally, it asserts that emotions are the driving force behind every decision, as they compel action even when logical reasons are present.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+slide off track.  HOW TO RECOVER QUICKLY WHEN YOUR HABITS BREAK DOWN No matter how consistent you are with your habits, it is inevitable that life will interrupt you at some point. Perfection is not possible. Before long, an emergency will pop upyou get sick or you have to travel for work or your family needs a little more of your time. Whenever this happens to me, I try to remind myself of a simple rule: never miss twice.     If I miss one day, I try to get back into it as quickly as possible. Missing one workout happens, but Im not going to miss two in a row. Maybe Ill eat an entire pizza, but Ill follow it up with a healthy meal. I cant be perfect, but I can avoid a second lapse. As soon as one streak ends, I get started on the next one. The first mistake is never the one that ruins you. It is the spiral of repeated mistakes that follows. Missing once is an accident. Missing twice is the start of a new habit. This is a distinguishing feature between winners and losers. Anyone can have a bad performance, a bad workout, or a bad day at work. But when successful people fail, they rebound quickly. The breaking of a habit doesnt matter if the reclaiming of it is fast. I think this principle is so important that Ill stick to it even if I cant do a habit as well or as completely as I would like. Too often, we fall into an all-or-nothing cycle with our habits. The problem is not slipping up; the problem is thinking that if you cant do something perfectly, then you shouldnt do it at all. You dont realize how valuable it is to just show up on your bad (or busy) days. Lost days hurt you more than successful days help you. If you start with $100, then a 50 percent gain will take you to $150. But you only need a 33 percent loss to take you back to $100. In other words, avoiding a 33 percent loss is just as valuable as achieving a 50 percent gain. As Charlie Munger says, The first rule of compounding: Never interrupt it unnecessarily. This is why the bad
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of maintaining consistency in habits, even when life's interruptions cause temporary lapses. The author emphasizes the rule of "never miss twice," suggesting that while missing a habit once is inevitable, it's crucial to avoid missing it a second time to prevent the formation of a new, negative habit. The author also highlights the importance of rebounding quickly after a lapse, a characteristic of successful individuals. The text criticizes the all-or-nothing approach to habits, arguing that showing up, even imperfectly, is more beneficial than not showing up at all. The author uses a financial analogy to illustrate that avoiding losses (or missed habits) is as valuable as making gains (or maintaining habits).

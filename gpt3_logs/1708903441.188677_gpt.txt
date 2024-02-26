@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+literally delivered his stand-up routine to an empty club. It wasnt glamorous work, but there was no doubt he was getting better. His first routines would only last one or two minutes. By high school, his material had expanded to include a five-minute act and, a few years later, a ten-minute show. At nineteen, he was performing weekly for twenty minutes at a time. He had to read three poems during the show just to make the routine long enough, but his skills continued to progress. He spent another decade experimenting, adjusting, and practicing. He took a job as a television writer and, gradually, he was able to land     his own appearances on talk shows. By the mid-1970s, he had worked his way into being a regular guest on The Tonight Show and Saturday Night Live. Finally, after nearly fifteen years of work, the young man rose to fame. He toured sixty cities in sixty-three days. Then seventy-two cities in eighty days. Then eighty-five cities in ninety days. He had 18,695 people attend one show in Ohio. Another 45,000 tickets were sold for his three-day show in New York. He catapulted to the top of his genre and became one of the most successful comedians of his time. His name is Steve Martin. Martins story offers a fascinating perspective on what it takes to stick with habits for the long run. Comedy is not for the timid. It is hard to imagine a situation that would strike fear into the hearts of more people than performing alone on stage and failing to get a single laugh. And yet Steve Martin faced this fear every week for eighteen years. In his words, 10 years spent learning, 4 years spent refining, and 4 years as a wild success. Why is it that some people, like Martin, stick with their habits whether practicing jokes or drawing cartoons or playing guitarwhile most of us struggle to stay motivated? How do we design habits that pull us in rather than ones that fade away? Scientists have been studying this question for many years. While there is still much to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the career progression of comedian Steve Martin, who started performing stand-up routines in an empty club and gradually honed his skills over a decade. He expanded his act from a few minutes to twenty minutes, eventually incorporating poetry to lengthen his routine. Martin transitioned into television writing and made appearances on talk shows, becoming a regular guest on The Tonight Show and Saturday Night Live by the mid-1970s. After nearly fifteen years, he achieved fame, touring extensively and drawing large audiences. His journey illustrates the importance of persistence and continuous improvement in developing successful habits. The text also raises questions about why some people, like Martin, can maintain their habits while others struggle, a topic that scientists have been studying for years.

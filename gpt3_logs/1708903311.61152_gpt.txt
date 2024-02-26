@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+from one container to another whenever she wrote a page of her book. Another man moved a marble from one bin to the next after each set of push-ups. Making progress is satisfying, and visual measureslike moving paper clips or hairpins or marblesprovide clear evidence of your progress. As a result, they reinforce your behavior and add a little bit of immediate satisfaction to any activity. Visual measurement comes in     many forms: food journals, workout logs, loyalty punch cards, the progress bar on a software download, even the page numbers in a book. But perhaps the best way to measure your progress is with a habit tracker.  HOW TO KEEP YOUR HABITS ON TRACK A habit tracker is a simple way to measure whether you did a habit. The most basic format is to get a calendar and cross off each day you stick with your routine. For example, if you meditate on Monday, Wednesday, and Friday, each of those dates gets an X. As time rolls by, the calendar becomes a record of your habit streak. Countless people have tracked their habits, but perhaps the most famous was Benjamin Franklin. Beginning at age twenty, Franklin carried a small booklet everywhere he went and used it to track thirteen personal virtues. This list included goals like Lose no time. Be always employed in something useful and Avoid trifling conversation. At the end of each day, Franklin would open his booklet and record his progress. Jerry Seinfeld reportedly uses a habit tracker to stick with his streak of writing jokes. In the documentary Comedian, he explains that his goal is simply to never break the chain of writing jokes every day. In other words, he is not focused on how good or bad a particular joke is or how inspired he feels. He is simply focused on showing up and adding to his streak. Dont break the chain is a powerful mantra. Dont break the chain of sales calls and youll build a successful book of business. Dont break the chain of workouts and youll get fit faster than youd expect.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of visual measures and habit trackers in maintaining and reinforcing positive habits. Visual measures, such as moving objects from one container to another or marking off days on a calendar, provide tangible evidence of progress and add immediate satisfaction to any activity. Habit trackers, which can be as simple as a calendar marking off each day a habit is performed, serve as a record of consistency. The text cites Benjamin Franklin and Jerry Seinfeld as famous examples of individuals who have successfully used habit trackers to maintain their routines and achieve their goals. The mantra "Don't break the chain" is emphasized as a powerful motivator in maintaining consistency in habits.

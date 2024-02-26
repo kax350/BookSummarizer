@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Restraint System Usage in the Traffic Population, Journal of Safety Research 17, no. 2 (1986), doi:10.1016/0022 4375(86)901076. wearing a seat belt is enforceable by law: New Hampshire is the lone exception, where seat belts are only required for children. New Hampshire, Governors Highway Safety Association, https://www.ghsa.org/state-laws/states/new%20hampshire, accessed June 8, 2016. over 88 percent of Americans buckled up: Seat Belt Use in U.S. Reaches Historic 90 Percent, National Highway Traffic Safety Administration, November 21, 2016, https://www.nhtsa.gov/press-releases/seat-belt-use-us-reaches-historic-90-percent. Bryan Harris: Bryan Harris, email conversation with author, October 24, 2017. She does the song a day challenge: Courtney Shea, Comedian Margaret Chos Tips for Success: If Youre Funny, Dont Do Comedy, Globe and Mail, July 1, 2013, https://www.theglobeandmail.com/life/comedian-margaret-chos-tips-for-success-ifyoure-funny-dont-do-comedy/article12902304/?service=mobile. Thomas Frank, an entrepreneur in Boulder, Colorado: Thomas Frank, How Buffer Forces Me to Wake Up at 5:55 AM Every Day, College Info Geek, July 2, 2014, https://collegeinfogeek.com/early-waking-with-buffer/.    CHAPTER 18   Phelps has won more Olympic medals: Michael Phelps Biography, Biography, https://www.biography.com/people/michael-phelps-345192, last modified March 29, 2018. El Guerrouj: Doug Gillan, El Guerrouj: The Greatest of All Time, IAFF, November 15, 2004, https://www.iaaf.org/news/news/el-guerrouj-the-greatest-of-all-time. they differ significantly in height: Heights and weights for Michael Phelps and Hicham El Guerrouj were pulled from their athlete profiles during the 2008 Summer Olympics. Michael Phelps, ESPN, 2008, http://www.espn.com/olympics/summer08/fanguide/athlete?athlete=29547l; Hicham El Guerrouj, ESPN, 2008, http://www.espn.com/oly/summer08/fanguide/athlete?athlete=29886. same length inseam on their pants: David Epstein, The Sports
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various topics including seat belt usage, a song challenge by a comedian, and the achievements of athletes. It mentions that seat belt usage is legally enforced in all U.S. states except New Hampshire, where it's only required for children. The National Highway Traffic Safety Administration reports that over 88% of Americans use seat belts. Comedian Margaret Cho participates in a daily song challenge. The text also refers to the accomplishments of Michael Phelps, who has won numerous Olympic medals, and Hicham El Guerrouj, considered one of the greatest athletes of all time. Despite their different heights, both athletes have the same inseam length.

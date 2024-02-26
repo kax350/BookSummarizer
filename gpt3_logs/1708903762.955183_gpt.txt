@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+awareness or thought. Even in academic circles, these words are often used interchangeably without much nitpicking (for once). Nonconscious is the term Im going to use because it is broad enough to encompass both the processes of the mind we could never consciously access and the moments when we are simply not paying attention to what surrounds us. Nonconscious is a description of anything you are not consciously thinking about.     * Certainly, there are some aspects of your identity that tend to remain unchanged over timelike identifying as someone who is tall or short. But even for more fixed qualities and characteristics, whether you view them in a positive or negative light is determined by your experiences throughout life.     * Readers of The Power of Habit by Charles Duhigg will recognize these terms. Duhigg wrote a great book and my intention is to pick up where he left off by integrating these stages into four simple laws you can apply to build better habits in life and work.     * Charles Duhigg and Nir Eyal deserve special recognition for their influence on this image. This representation of the habit loop is a combination of language that was popularized by Duhiggs book, The Power of Habit, and a design that was popularized by Eyals book, Hooked.     * When I visited Japan, I saw this strategy save a womans life. Her young son stepped onto the Shinkansen, one of Japans famous bullet trains that travel at over two hundred miles per hour, just as the doors were closing. She was left outside on the platform and jammed her arm through the door to grab him. With her arm stuck in the door, the train was about to take off, but right before it pulled away an employee performed a safety check by Pointing-and-Calling up and down the platform. In less than five seconds, he noticed the woman and managed to stop the train from leaving. The door opened, the womannow in tearsran to her son, and a minute later the train departed safely.     * Interested readers
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of nonconscious thinking, which includes both inaccessible mental processes and moments of inattention. It also touches on the fluidity of identity, which can be influenced by life experiences. The author mentions Charles Duhigg's book "The Power of Habit" and Nir Eyal's "Hooked", both of which have influenced his understanding of habit formation. The text also shares an anecdote from Japan, where a safety strategy involving a method called Pointing-and-Calling prevented a potential accident on a bullet train.

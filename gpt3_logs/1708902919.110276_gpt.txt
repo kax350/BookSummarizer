@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+habit but notice yourself grabbing another cookie, say out loud, Im about to eat this cookie, but I dont need it. Eating it will cause me to gain weight and hurt my health. Hearing your bad habits spoken aloud makes the consequences seem more real. It adds weight to the action rather than letting yourself mindlessly slip into an old routine. This approach is useful even if youre simply trying to remember a task on your to-do list. Just saying out loud, Tomorrow, I need to go to the post office after lunch, increases the odds that youll actually do it. Youre getting yourself to acknowledge the need for actionand that can make all the difference. The process of behavior change always starts with awareness. Strategies like Pointing-and-Calling and the Habits Scorecard are focused on getting you to recognize your habits and acknowledge the cues that trigger them, which makes it possible to respond in a way that benefits you.    Chapter Summary With enough practice, your brain will pick up on the cues that predict certain outcomes without consciously thinking about it.     Once our habits become automatic, we stop paying attention to what we are doing. The process of behavior change always starts with awareness. You need to be aware of your habits before you can change them. Pointing-and-Calling raises your level of awareness from a nonconscious habit to a more conscious level by verbalizing your actions. The Habits Scorecard is a simple exercise you can use to become more aware of your behavior.   5 The Best Way to Start a New Habit  I  N 2001, RESEARCHERS in Great Britain began working with 248 people  to build better exercise habits over the course of two weeks. The subjects were divided into three groups. The first group was the control group. They were simply asked to track how often they exercised. The second group was the motivation group. They were asked not only to track their workouts but also to read some material on the benefits of exercise. The
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of awareness in changing habits. It suggests that verbalizing actions, such as stating out loud that you're about to engage in a bad habit, can make the consequences seem more real and help break the cycle. This method, known as Pointing-and-Calling, can also be used to remember tasks. Another strategy is the Habits Scorecard, an exercise to increase awareness of one's behavior. The text emphasizes that habits become automatic over time, and to change them, one must first be aware of them. It also mentions a study on building better exercise habits, but does not provide the results.

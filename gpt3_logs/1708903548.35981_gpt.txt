@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+this book but also for believing in me no matter what project I happen to be working on. I have benefited from many years of support from my parents, grandparents, and siblings. In particular, I want my mom and dad to know that I love them. It is a special feeling to know that your parents are your greatest fans. Third, to my assistant, Lyndsey Nuckols. At this point, her job defies description as she has been asked to do nearly everything one could imagine for a small business. Thankfully, her skills and talents are more powerful than my questionable management style. Some sections of this book are as much hers as they are mine. I am deeply grateful for her help. As for the content and writing of the book, I have a long list of people to thank. To start, there are a few people from whom I have learned so much that it would be a crime to not mention them by name. Leo Babauta, Charles Duhigg, Nir Eyal, and BJ Fogg have each influenced my thoughts on habits in meaningful ways. Their work and ideas can be found sprinkled throughout this text. If you enjoyed this book, Id encourage you to read their writing as well. At various stages of writing, I benefited from the guidance of many fine editors. Thanks to Peter Guzzardi for walking me through the early stages of the writing process and for a kick in the pants when I really needed it. I am indebted to Blake Atwood and Robin Dellabough for transforming my ugly and insanely long first drafts into a tight,     readable manuscript. And I am thankful to Anne Barngrover for her ability to add a little class and poetic style to my writing. Id like to thank the many people who read early versions of the manuscript, including Bruce Ammons, Darcey Ansell, Tim Ballard, Vishal Bhardwaj, Charlotte Blank, Jerome Burt, Sim Campbell, Al Carlos, Nicky Case, Julie Chang, Jason Collins, Debra Croy, Roger Dooley, Tiago Forte, Matt Gartland, Andrew Gierer, Randy Giffen, Jon Giganti, Adam Gilbert, Stephan Guyenet, Jeremy Hendon, Jane
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The author expresses gratitude towards family, colleagues, and mentors who have supported them throughout the writing process of their book. They highlight the significant role of their assistant, Lyndsey Nuckols, whose contributions have been instrumental in managing their small business and in the creation of the book. The author also acknowledges the influence of Leo Babauta, Charles Duhigg, Nir Eyal, and BJ Fogg on their thoughts about habits, which are reflected in the book. They appreciate the editors, particularly Peter Guzzardi, Blake Atwood, and Robin Dellabough, who helped refine the manuscript, and Anne Barngrover for enhancing the writing style. The author also thanks those who read early versions of the manuscript.

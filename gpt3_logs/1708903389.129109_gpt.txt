@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+was a fantastic athlete in his own right. El Guerrouj is a Moroccan runner who holds two Olympic gold medals and is one of the greatest middledistance runners of all time. For many years, he held the world record in the mile, 1,500-meter, and 2,000-meter races. At the Olympic Games in Athens, Greece, in 2004, he won gold in the 1,500-meter and 5,000-meter races. These two athletes are wildly different in many ways. (For starters, one competed on land and the other in water.) But most notably, they differ significantly in height. El Guerrouj is five feet, nine inches tall. Phelps is six feet, four inches tall. Despite this seven-inch difference in height, the two men are identical in one respect: Michael Phelps and Hicham El Guerrouj wear the same length inseam on their pants. How is this possible? Phelps has relatively short legs for his height and a very long torso, the perfect build for swimming. El Guerrouj has incredibly long legs and a short upper body, an ideal frame for distance running. Now, imagine if these world-class athletes were to switch sports. Given his remarkable athleticism, could Michael Phelps become an Olympic-caliber distance runner with enough training? Its unlikely. At     peak fitness, Phelps weighed 194 pounds, which is 40 percent heavier than El Guerrouj, who competed at an ultralight 138 pounds. Taller runners are heavier runners, and every extra pound is a curse when it comes to distance running. Against elite competition, Phelps would be doomed from the start. Similarly, El Guerrouj might be one of the best runners in history, but its doubtful he would ever qualify for the Olympics as a swimmer. Since 1976, the average height of Olympic gold medalists in the mens 1,500-meter run is five feet, ten inches. In comparison, the average height of Olympic gold medalists in the mens 100-meter freestyle swim is six feet, four inches. Swimmers tend to be tall and have long backs and arms, which are ideal for pulling through the water. El
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Hicham El Guerrouj and Michael Phelps are two renowned athletes, known for their achievements in middle-distance running and swimming respectively. Despite their differing heights, with Phelps being seven inches taller, they both wear the same inseam length due to Phelps' short legs and long torso, and El Guerrouj's long legs and short upper body. These physical attributes are ideal for their respective sports. However, if they were to switch sports, their success is unlikely due to the specific physical requirements of each sport. Phelps' heavier weight would hinder his performance in distance running, while El Guerrouj's shorter height and lack of long arms and back would be a disadvantage in swimming.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+had also stopped riding. Decades later, she hopped on a horse     again and found herself craving a cigarette for the first time in forever. The cues were still internalized; she just hadnt been exposed to them in a long time. Once a habit has been encoded, the urge to act follows whenever the environmental cues reappear. This is one reason behavior change techniques can backfire. Shaming obese people with weight-loss presentations can make them feel stressed, and as a result many people return to their favorite coping strategy: overeating. Showing pictures of blackened lungs to smokers leads to higher levels of anxiety, which drives many people to reach for a cigarette. If youre not careful about cues, you can cause the very behavior you want to stop. Bad habits are autocatalytic: the process feeds itself. They foster the feelings they try to numb. You feel bad, so you eat junk food. Because you eat junk food, you feel bad. Watching television makes you feel sluggish, so you watch more television because you dont have the energy to do anything else. Worrying about your health makes you feel anxious, which causes you to smoke to ease your anxiety, which makes your health even worse and soon youre feeling more anxious. Its a downward spiral, a runaway train of bad habits. Researchers refer to this phenomenon as cue-induced wanting: an external trigger causes a compulsive craving to repeat a bad habit. Once you notice something, you begin to want it. This process is happening all the timeoften without us realizing it. Scientists have found that showing addicts a picture of cocaine for just thirty-three milliseconds stimulates the reward pathway in the brain and sparks desire. This speed is too fast for the brain to consciously registerthe addicts couldnt even tell you what they had seenbut they craved the drug all the same. Heres the punch line: You can break a habit, but youre unlikely to forget it. Once the mental grooves of habit have been carved into
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the enduring nature of habits and their triggers, explaining that once a habit is formed, the urge to act on it can be triggered by environmental cues, even after a long period of inactivity. This can lead to a self-perpetuating cycle of negative behavior, referred to as 'cue-induced wanting', where an external trigger causes a compulsive craving to repeat a bad habit. This process often occurs subconsciously, as demonstrated by research showing that addicts exposed to a brief image of cocaine experienced a stimulated reward pathway in the brain and subsequent craving. The text concludes by stating that while habits can be broken, they are unlikely to be forgotten due to the deep mental grooves they carve.

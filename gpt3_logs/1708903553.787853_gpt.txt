@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Horvath, Joakim Jansson, Josh Kaufman, Anne Kavanagh, Chris Klaus, Zeke Lopez, Cady Macon, Cyd Madsen, Kiera McGrath, Amy Mitchell, Anna Moise, Stacey Morris, Tara-Nicholle Nelson, Taylor Pearson, Max Shank, Trey Shelton, Jason Shen, Jacob Zangelidis, and Ari Zelmanow. The book benefited greatly from your feedback. To the team at Avery and Penguin Random House who made this book a reality, thank you. I owe a debt of special thanks to my publisher, Megan Newman, for her endless patience as I continually pushed back deadlines. She gave me the space I needed to create a book I was proud of and championed my ideas at every step. To Nina, for her ability to transform my writing while still retaining my original message. To Lindsay, Farin, Casey, and the rest of the PRH team for spreading the message of this book to more people than I could ever reach on my own. To Pete Garceau, for designing a beautiful cover for this book. And to my agent, Lisa DiMona, for her guidance and insight at every step of the publishing process. To the many friends and family members who asked Hows the book going? and offered a word of encouragement when I inevitably replied Slowlythank you. Every author faces a few dark moments when writing a book, and one kind word can be enough to get you to show up again the next day. I am sure there are people I have forgotten, but I keep an updated list of anyone who has influenced my thinking in meaningful ways at jamesclear.com/thanks. And finally, to you. Life is short and you have shared some of your precious time with me by reading this book. Thank you.    May 2018   Notes  I  N THIS SECTION, I have included a detailed list of notes, references, and  citations for each chapter in the book. I trust that most readers will find this list to be sufficient. However, I also realize that scientific literature changes over time and the references for this book may need to be updated. Furthermore, I fully expect that I have made a mistake somewhere in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The author expresses gratitude to various individuals and teams who contributed to the creation and publication of his book. Special thanks are given to his publisher, Megan Newman, for her patience and support, and to Nina for her editing skills. The author also appreciates the PRH team for their promotional efforts, Pete Garceau for the book cover design, and his agent, Lisa DiMona, for her guidance. Friends and family members who offered encouragement during the writing process are also acknowledged. The author notes that an updated list of influential people can be found on his website. Lastly, he thanks the readers for their time. The author also mentions a detailed list of notes, references, and citations included in the book, acknowledging that these may need updates over time due to changes in scientific literature.

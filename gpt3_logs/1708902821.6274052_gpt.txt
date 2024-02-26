@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+happened was the manicure made my fingers look really nice for the first time. The manicurist even said thatother than the chewingI had really healthy, attractive nails. Suddenly, I was proud of my fingernails. And even though thats something I had never aspired to, it made all the difference. Ive never chewed my nails since; not even a     single close call. And its because I now take pride in properly caring for them. The ultimate form of intrinsic motivation is when a habit becomes part of your identity. Its one thing to say Im the type of person who wants this. Its something very different to say Im the type of person who is this. The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it. If youre proud of how your hair looks, youll develop all sorts of habits to care for and maintain it. If youre proud of the size of your biceps, youll make sure you never skip an upper-body workout. If youre proud of the scarves you knit, youll be more likely to spend hours knitting each week. Once your pride gets involved, youll fight tooth and nail to maintain your habits. True behavior change is identity change. You might start a habit because of motivation, but the only reason youll stick with one is that it becomes part of your identity. Anyone can convince themselves to visit the gym or eat healthy once or twice, but if you dont shift the belief behind the behavior, then it is hard to stick with long-term changes. Improvements are only temporary until they become part of who you are. The goal is not to read a book, the goal is to become a reader. The goal is not to run a marathon, the goal is to become a runner. The goal is not to learn an instrument, the goal is to become a musician. Your behaviors are usually a reflection of your identity. What you do is an indication of the type of person you believe that you areeither consciously or nonconsciously.* Research has shown
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of identity change as a key factor in maintaining habits and achieving long-term behavior change. It suggests that intrinsic motivation and pride in a particular aspect of one's identity can lead to the development and maintenance of associated habits. The text emphasizes that temporary improvements become permanent only when they become part of one's identity. It underscores the idea that the goal is not to perform an action but to become the type of person who would perform that action regularly. The text concludes by stating that behaviors are usually a reflection of one's identity.

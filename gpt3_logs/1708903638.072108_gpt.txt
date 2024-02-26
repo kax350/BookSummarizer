@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+st=izmz9pks&sh=059312db. Im getting an adrenaline rush to help me concentrate: Alison Wood Brooks, Get Excited: Reappraising Pre-Performance Anxiety as Excitement with Minimal Cues, PsycEXTRA Dataset, June 2014, doi:10.1037/e578192014321; Caroline Webb, How to Have a Good Day (London: Pan Books, 2017), 238. Wendy Berry Mendes and Jeremy Jamieson have conducted a number of studies [that] show that people perform better when they decide to interpret their fast heartbeat and breathing as a resource that aids performance.  Ed Latimore, a boxer and writer: Ed Latimore (@EdLatimore), Odd realization: My focus and concentration goes up just by putting my headphones [on] while writing. I dont even have to play any music, Twitter, May 7, 2018, https://twitter.com/EdLatimore/status/993496493171662849. CHAPTER 11 In the end, they had little to show for their efforts: This story comes from page 29 of Art & Fear by David Bayles and Ted Orland. In an email conversation with Orland on October 18, 2016, he explained the origins of the story. Yes, the ceramics story in Art     & Fear is indeed true, allowing for some literary license in the retelling. Its real-world origin was as a gambit employed by photographer Jerry Uelsmann to motivate his Beginning Photography students at the University of Florida. As retold in Art & Fear it faithfully captures the scene as Jerry told it to meexcept I replaced photography with ceramics as the medium being explored. Admittedly, it wouldve been easier to retain photography as the art medium being discussed, but David Bayles (co-author) & I are both photographers ourselves, and at the time we were consciously trying to broaden the range of media being referenced in the text. The intriguing thing to me is that it hardly matters what art form was invokedthe moral of the story appears to hold equally true straight across the whole art spectrum (and even outside the arts, for that matter). Later in that same email, Orland said,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of using physiological responses, such as a fast heartbeat and rapid breathing, as a resource to enhance performance. This idea is supported by studies conducted by Wendy Berry Mendes and Jeremy Jamieson, and personal experiences shared by individuals like Alison Wood Brooks and Ed Latimore. The text also references a story from the book "Art & Fear" by David Bayles and Ted Orland, which emphasizes the universality of the moral, regardless of the art form or medium being discussed.

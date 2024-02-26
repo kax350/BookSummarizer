@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks. Despite their efficiency, some people still wonder about the benefits of habits. The argument goes like this: Will habits make my life dull? I dont want to pigeonhole myself into a lifestyle I dont enjoy. Doesnt     so much routine take away the vibrancy and spontaneity of life? Hardly. Such questions set up a false dichotomy. They make you think that you have to choose between building habits and attaining freedom. In reality, the two complement each other. Habits do not restrict freedom. They create it. In fact, the people who dont have their habits handled are often the ones with the least amount of freedom. Without good financial habits, you will always be struggling for the next dollar. Without good health habits, you will always seem to be short on energy. Without good learning habits, you will always feel like youre behind the curve. If youre always being forced to make decisions about simple taskswhen should I work out, where do I go to write, when do I pay the billsthen you have less time for freedom. Its only by making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity. Conversely, when you have your habits dialed in and the basics of life are handled and done, your mind is free to focus on new challenges and master the next set of problems. Building habits in the present allows you to do more of what you want in the future.  THE SCIENCE OF HOW HABITS WORK The process of building a habit can be divided into four simple steps: cue, craving, response, and reward.* Breaking it down into these fundamental parts can help us understand what a habit is, how it works, and how to improve it.  FIGURE 5: All habits proceed through four stages in the same order: cue, craving, response, and reward.  This four-step pattern is the backbone of every habit, and your brain runs through these steps
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Habits are efficient tools that reduce cognitive load, freeing up mental capacity for other tasks. Contrary to the belief that habits make life dull and restrict freedom, they actually create freedom. People without good habits in areas like finance, health, and learning often have less freedom as they constantly struggle with basic tasks. By making life's fundamentals easier, habits provide the mental space needed for creativity and free thinking. The process of building a habit can be divided into four steps: cue, craving, response, and reward. Understanding this pattern can help improve habits, allowing individuals to focus on new challenges and future goals.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+  The Fundamentals Why Tiny Changes Make a Big Difference 1 The Surprising Power of Atomic Habits 2 How Your Habits Shape Your Identity (and Vice Versa) 3 How to Build Better Habits in 4 Simple Steps The 1st Law Make It Obvious 4 The Man Who Didnt Look Right 5 The Best Way to Start a New Habit 6 Motivation Is Overrated; Environment Often Matters More 7 The Secret to Self-Control The 2nd Law Make It Attractive 8 How to Make a Habit Irresistible 9 The Role of Family and Friends in Shaping Your Habits 10 How to Find and Fix the Causes of Your Bad Habits The 3rd Law Make It Easy 11 Walk Slowly, but Never Backward 12 The Law of Least Effort 13 How to Stop Procrastinating by Using the Two-Minute Rule 14 How to Make Good Habits Inevitable and Bad Habits Impossible The 4th Law Make It Satisfying 15 The Cardinal Rule of Behavior Change 16 How to Stick with Good Habits Every Day 17 How an Accountability Partner Can Change Everything     Advanced Tactics How to Go from Being Merely Good to Being Truly Great 18 The Truth About Talent (When Genes Matter and When They Dont) 19 The Goldilocks Rule: How to Stay Motivated in Life and Work 20 The Downside of Creating Good Habits Conclusion: The Secret to Results That Last    Appendix What Should You Read Next? Little Lessons from the Four Laws  How to Apply These Ideas to Business How to Apply These Ideas to Parenting Acknowledgments  Notes Index About the Author   Introduction My Story  O  N THE FINAL day of my sophomore year of high school, I was hit in  the face with a baseball bat. As my classmate took a full swing, the bat slipped out of his hands and came flying toward me before striking me directly between the eyes. I have no memory of the moment of impact. The bat smashed into my face with such force that it crushed my nose into a distorted U-shape. The collision sent the soft tissue of my brain slamming into the inside of my skull. Immediately, a wave of swelling surged throughout my head. In a fraction of a second, I had
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the power of atomic habits and how they shape one's identity. It provides a four-step guide to building better habits: making them obvious, attractive, easy, and satisfying. The text emphasizes the importance of environment over motivation, the role of family and friends in habit formation, and the use of the two-minute rule to combat procrastination. It also discusses the concept of an accountability partner and advanced tactics to transition from being good to great. The text concludes with the application of these ideas to business and parenting. The introduction shares a personal story of the author's traumatic experience of being hit in the face with a baseball bat.

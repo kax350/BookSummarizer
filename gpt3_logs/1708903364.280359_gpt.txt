@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+to use as he sees fit if he misses one day of logging food. At the bottom of the page, Harris, his wife, and his trainer all signed the contract. My initial reaction was that a contract like this seemed overly formal and unnecessary, especially the signatures. But Harris convinced me that signing the contract was an indication of seriousness. Anytime I skip this part, he said, I start slacking almost immediately. Three months later, after hitting his targets for Q1, Harris upgraded his goals. The consequences escalated, too. If he missed his carbohydrate and protein targets, he had to pay his trainer $100. And if he failed to weigh himself, he had to give his wife $500 to use as she saw fit. Perhaps most painfully, if he forgot to run sprints, he had to dress up for work every day and wear an Alabama hat the rest of the quarterthe bitter rival of his beloved Auburn team. The strategy worked. With his wife and trainer acting as accountability partners and with the habit contract clarifying exactly     what to do each day, Harris lost the weight.* To make bad habits unsatisfying, your best option is to make them painful in the moment. Creating a habit contract is a straightforward way to do exactly that. Even if you dont want to create a full-blown habit contract, simply having an accountability partner is useful. The comedian Margaret Cho writes a joke or song every day. She does the song a day challenge with a friend, which helps them both stay accountable. Knowing that someone is watching can be a powerful motivator. You are less likely to procrastinate or give up because there is an immediate cost. If you dont follow through, perhaps theyll see you as untrustworthy or lazy. Suddenly, you are not only failing to uphold your promises to yourself, but also failing to uphold your promises to others. You can even automate this process. Thomas Frank, an entrepreneur in Boulder, Colorado, wakes up at 5:55 each morning. And if he doesnt, he has a tweet
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of a "habit contract" as a tool for maintaining discipline and achieving personal goals. The example given is of a man named Harris who, with the help of his wife and trainer, created a contract with specific goals and penalties for not meeting them. The penalties ranged from monetary fines to wearing the hat of a rival sports team. The contract and the accountability it provided helped Harris lose weight. The text suggests that making bad habits unsatisfying or painful in the moment can help break them. It also highlights the importance of having an accountability partner, as the fear of being seen as untrustworthy or lazy can be a powerful motivator. The text also mentions the possibility of automating this process.

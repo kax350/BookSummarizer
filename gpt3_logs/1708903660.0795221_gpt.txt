@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+spends over two hours per day on social media: GWI Social, GlobalWebIndex, 2017, Q3, https://cdn2.hubspot.net/hubfs/304927/Downloads/GWI%20Social%20Summary%20Q3%202017.pd CHAPTER 15  over nine million people called it home: Population Size and Growth of Major Cities, 1998 Census, Population Census Organization, http://www.pbs.gov.pk/sites/default/files//tables/POPULATION%20SIZE%20AND%20GROWTH%20 Over 60 percent of Karachis residents: Sabiah Askari, Studies on Karachi: Papers Presented at the Karachi Conference 2013 (Newcastle upon Tyne, UK: Cambridge Scholars, 2015). It was this public health crisis that had brought Stephen Luby to Pakistan: Atul Gawande, The Checklist Manifesto: How to Get Things Right (Gurgaon, India: Penguin Random House, 2014).  In Pakistan, Safeguard was a premium soap: All quotes in this section are from an email conversation with Stephen Luby on May 28, 2018. The rate of diarrhea fell by 52 percent: Stephen P. Luby et al., Effect of Handwashing on Child Health: A Randomised Controlled Trial, Lancet 366, no. 9481 (2005),     doi:10.1016/s01406736(05)669127. Over 95 percent of households: Anna Bowen, Mubina Agboatwalla, Tracy Ayers, Timothy Tobery, Maria Tariq, and Stephen P. Luby. Sustained improvements in handwashing indicators more than 5 years after a clusterrandomised, community based trial of handwashing promotion in Karachi, Pakistan, Tropical Medicine & International Health 18, no. 3 (2013): 259267. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4626884/ Chewing gum had been sold commercially throughout the 1800s: Mary Bellis, How We Have Bubble Gum Today, ThoughtCo, October 16, 2017, https://www.thoughtco.com/history-of-bubble-and-chewing-gum-1991856. Wrigley revolutionized the industry: Jennifer P. Mathews, Chicle: The Chewing Gum of the Americas, from the Ancient Maya to William Wrigley (Tucson: University of Arizona Press, 2009), 4446. Wrigley became the largest chewing gum company: William Wrigley, Jr.,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the public health crisis in Karachi, Pakistan, where over nine million people live and the average person spends over two hours per day on social media. This crisis led Stephen Luby to Pakistan, where he promoted Safeguard, a premium soap brand. His efforts resulted in a 52% decrease in diarrhea rates and sustained improvements in handwashing in over 95% of households. The text also mentions the history of commercial chewing gum, highlighting how Wrigley revolutionized the industry in the 1800s and became the largest chewing gum company.

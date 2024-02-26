@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+unjust, or selfish, you see those kind of people everywhere. Outrage compounds. Riots, protests, and mass movements are rarely the result of a single event. Instead, a long series of microaggressions and daily aggravations slowly multiply until one event tips the scales and outrage spreads like wildfire.     WHAT PROGRESS IS REALLY LIKE Imagine that you have an ice cube sitting on the table in front of you. The room is cold and you can see your breath. It is currently twentyfive degrees. Ever so slowly, the room begins to heat up. Twenty-six degrees. Twenty-seven. Twenty-eight. The ice cube is still sitting on the table in front of you. Twenty-nine degrees. Thirty. Thirty-one. Still, nothing has happened. Then, thirty-two degrees. The ice begins to melt. A one-degree shift, seemingly no different from the temperature increases before it, has unlocked a huge change. Breakthrough moments are often the result of many previous actions, which build up the potential required to unleash a major change. This pattern shows up everywhere. Cancer spends 80 percent of its life undetectable, then takes over the body in months. Bamboo can barely be seen for the first five years as it builds extensive root systems underground before exploding ninety feet into the air within six weeks. Similarly, habits often appear to make no difference until you cross a critical threshold and unlock a new level of performance. In the early and middle stages of any quest, there is often a Valley of Disappointment. You expect to make progress in a linear fashion and its frustrating how ineffective changes can seem during the first days, weeks, and even months. It doesnt feel like you are going anywhere. Its a hallmark of any compounding process: the most powerful outcomes are delayed. This is one of the core reasons why it is so hard to build habits that last. People make a few small changes, fail to see a tangible result, and decide to stop. You think, Ive been running every day for a month,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Outrage, progress, and habit formation often follow a similar pattern, where a series of small, seemingly insignificant events or actions build up over time until a critical threshold is crossed, leading to significant change. This process can be likened to an ice cube melting at thirty-two degrees after a gradual increase in temperature. This pattern is evident in various scenarios, such as the growth of cancer cells, the development of bamboo, and the formation of habits. However, this process often involves a "Valley of Disappointment," where initial changes seem ineffective, leading many to abandon their efforts prematurely. The most powerful outcomes are often delayed, making it challenging to build lasting habits.

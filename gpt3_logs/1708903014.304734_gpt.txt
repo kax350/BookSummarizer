@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+your brain, they are nearly impossible to remove entirelyeven if they go unused for quite a while. And that means that simply resisting temptation is an ineffective strategy. It is hard to maintain a Zen attitude in a life filled with interruptions. It takes too much energy. In the short-run, you can choose to overpower temptation. In the longrun, we become a product of the environment that we live in. To put it bluntly, I have never seen someone consistently stick to positive habits in a negative environment.     A more reliable approach is to cut bad habits off at the source. One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it. If you cant seem to get any work done, leave your phone in another room for a few hours. If youre continually feeling like youre not enough, stop following social media accounts that trigger jealousy and envy. If youre wasting too much time watching television, move the TV out of the bedroom.  If youre spending too much money on electronics, quit reading reviews of the latest tech gear. If youre playing too many video games, unplug the console and put it in a closet after each use. This practice is an inversion of the 1st Law of Behavior Change. Rather than make it obvious, you can make it invisible. Im often surprised by how effective simple changes like these can be. Remove a single cue and the entire habit often fades away. Self-control is a short-term strategy, not a long-term one. You may be able to resist temptation once or twice, but its unlikely you can muster the willpower to override your desires every time. Instead of summoning a new dose of willpower whenever you want to do the right thing, your energy would be better spent optimizing your environment. This is the secret to self-control. Make the cues of your good habits obvious and the cues of your bad habits invisible.    Chapter Summary The inversion of the 1st Law of Behavior Change is make it invisible. Once a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the difficulty of resisting temptation and maintaining positive habits in a negative environment. It suggests that the most effective way to eliminate bad habits is to reduce exposure to the cues that trigger them. This could involve leaving your phone in another room to increase productivity, or unfollowing social media accounts that cause feelings of inadequacy. The text emphasizes that self-control is a short-term strategy, and that long-term change is better achieved by optimizing your environment to make good habit cues obvious and bad habit cues invisible. This is referred to as the inversion of the 1st Law of Behavior Change.

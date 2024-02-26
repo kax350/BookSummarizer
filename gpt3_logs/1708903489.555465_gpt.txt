@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+hes guarding has surged past him, and other unsung hero deeds. As an example, lets say that Magic Johnsonthe Lakers star player at the timehad 11 points, 8 rebounds, 12 assists, 2 steals, and 5 turnovers in a game. Magic also got credit for an unsung hero deed by diving after a loose ball (+1). Finally, he played a total of 33 minutes in this imaginary game. The positive numbers (11 + 8 + 12 + 2 + 1) add up to 34. Then, we subtract the 5 turnovers (345) to get 29. Finally, we divide 29 by 33 minutes played. 29/33 = 0.879 Magics CBE number here would be 879. This number was calculated for all of a players games, and it was the average CBE that a player was asked to improve by 1 percent over the season. Riley compared each players current CBE to not only their past performances but also those of other players in the league. As Riley put it, We rank team members alongside league opponents who play the same position and have similar role definitions. Sportswriter Jackie MacMullan noted, Riley trumpeted the top performers in the league in bold lettering on the blackboard each week and measured them against the corresponding players on his own roster. Solid, reliable players generally rated a score in the 600s, while elite players scored at least 800. Magic Johnson, who submitted 138 triple-doubles in his career, often scored over 1,000. The Lakers also emphasized year-over-year progress by making historical comparisons of CBE data. Riley said, We stacked the month of November 1986, next to November 1985, and showed the players whether they were doing better or worse than at the same point last season. Then we showed them how their performance figures for December 1986, stacked up against Novembers. The Lakers rolled out CBE in October 1986. Eight months later, they were NBA champions. The following year, Pat Riley led his team to another title as the Lakers became the first team in twenty years to win back-to-back NBA championships. Afterward, he
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses a performance metric called CBE, used by the Lakers' coach Pat Riley to measure and improve player performance. The CBE is calculated by adding up a player's positive contributions (points, rebounds, assists, steals, and unsung hero deeds), subtracting turnovers, and dividing by minutes played. This number is compared to past performances and those of other players in the league. Players are encouraged to improve their average CBE by 1% over the season. The Lakers also used historical CBE data to track year-over-year progress. After implementing the CBE system in October 1986, the Lakers won the NBA championship eight months later and again the following year, becoming the first team in twenty years to win back-to-back NBA championships.

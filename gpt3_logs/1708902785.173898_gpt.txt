@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+progress to be linear. At the very least, we hope it will come quickly. In reality, the results of our efforts are often delayed. It is not until months or years later that we realize the true value of the previous work we have done. This can result in a valley of disappointment where people feel discouraged after putting in weeks or months of hard work without experiencing any results. However, this work was not wasted. It was simply being stored. It is not until much later that the full value of previous efforts is revealed.  All big things come from small beginnings. The seed of every habit is a single, tiny decision. But as that decision is repeated, a habit sprouts and grows stronger. Roots entrench themselves and branches grow. The task of breaking a bad habit is like uprooting a powerful oak within us. And the task of building a good habit is like cultivating a delicate flower one day at a time. But what determines whether we stick with a habit long enough to survive the Plateau of Latent Potential and break through to the other side? What is it that causes some people to slide into unwanted habits and enables others to enjoy the compounding effects of good ones?  FORGET ABOUT GOALS, FOCUS ON SYSTEMS INSTEAD Prevailing wisdom claims that the best way to achieve what we want in lifegetting into better shape, building a successful business, relaxing more and worrying less, spending more time with friends and family is to set specific, actionable goals.     For many years, this was how I approached my habits, too. Each one was a goal to be reached. I set goals for the grades I wanted to get in school, for the weights I wanted to lift in the gym, for the profits I wanted to earn in business. I succeeded at a few, but I failed at a lot of them. Eventually, I began to realize that my results had very little to do with the goals I set and nearly everything to do with the systems I followed. Whats the difference between systems and goals? Its a distinction I
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of progress, emphasizing that it often appears delayed, leading to a "valley of disappointment" where people feel discouraged due to lack of immediate results. However, it argues that this work is not wasted, but stored, and its value is revealed later. It likens the formation of habits to the growth of a plant, with small decisions acting as seeds. The text also challenges the conventional wisdom of setting goals, suggesting instead to focus on systems. It argues that success is less about the goals set and more about the systems followed, based on the author's personal experiences.

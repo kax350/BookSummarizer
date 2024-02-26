@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the art of showing up, the first two minutes simply become a ritual at the beginning of a larger routine. This is not merely a hack to make habits easier but actually the ideal way to master a difficult skill. The more you ritualize the beginning of a process, the more likely it becomes that you can slip into the state of deep focus that is required to do great things. By doing the same warm-up before every workout, you make it easier to get into a state of peak performance. By following the same creative ritual, you make it easier to get into the hard work of creating. By developing a consistent power-down habit, you make it easier to get to bed at a reasonable time each night. You may not be able to automate the whole process, but you can make the first action mindless. Make it easy to start and the rest will follow. The Two-Minute Rule can seem like a trick to some people. You know that the real goal is to do more than just two minutes, so it may feel like youre trying to fool yourself. Nobody is actually aspiring to read one page or do one push-up or open their notes. And if you know its a mental trick, why would you fall for it? If the Two-Minute Rule feels forced, try this: do it for two minutes and then stop. Go for a run, but you must stop after two minutes. Start meditating, but you must stop after two minutes. Study Arabic, but you     must stop after two minutes. Its not a strategy for starting, its the whole thing. Your habit can only last one hundred and twenty seconds. One of my readers used this strategy to lose over one hundred pounds. In the beginning, he went to the gym each day, but he told himself he wasnt allowed to stay for more than five minutes. He would go to the gym, exercise for five minutes, and leave as soon as his time was up. After a few weeks, he looked around and thought, Well, Im always coming here anyway. I might as well start staying a little longer. A few years later, the weight was gone. Journaling provides another
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of establishing rituals at the beginning of a process to master a difficult skill or habit. This technique, known as the Two-Minute Rule, involves performing a simple, mindless action to initiate a larger routine, which can help individuals slip into a state of deep focus required for peak performance. The rule can be applied to various activities, such as working out, creating, or even sleeping. While it may seem like a trick, the strategy has proven effective, with one example being a reader who lost over a hundred pounds by initially limiting his gym time to five minutes a day.

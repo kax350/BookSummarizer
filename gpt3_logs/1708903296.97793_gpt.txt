@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+definition, that it becomes easier to exercise for its own sake. In the beginning, you need a reason to stay on track. This is why immediate rewards are essential. They keep you excited while the delayed rewards accumulate in the background. What were really talking about herewhen were discussing immediate rewardsis the ending of a behavior. The ending of any experience is vital because we tend to remember it more than other phases. You want the ending of your habit to be satisfying. The best approach is to use reinforcement, which refers to the process of using an immediate reward to increase the rate of a behavior. Habit stacking, which we covered in Chapter 5, ties your habit to an immediate cue, which makes it obvious when to start. Reinforcement ties your habit to an immediate reward, which makes it satisfying when you finish. Immediate reinforcement can be especially helpful when dealing with habits of avoidance, which are behaviors you want to stop doing. It can be challenging to stick with habits like no frivolous purchases or no alcohol this month because nothing happens when you skip happy hour drinks or dont buy that pair of shoes. It can be hard to feel satisfied when there is no action in the first place. All youre doing is resisting temptation, and there isnt much satisfying about that. One solution is to turn the situation on its head. You want to make avoidance visible. Open a savings account and label it for something you wantmaybe Leather Jacket. Whenever you pass on a purchase, put the same amount of money in the account. Skip your morning     latte? Transfer $5. Pass on another month of Netflix? Move $10 over. Its like creating a loyalty program for yourself. The immediate reward of seeing yourself save money toward the leather jacket feels a lot better than being deprived. You are making it satisfying to do nothing. One of my readers and his wife used a similar setup. They wanted to stop eating out so much and start cooking
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of immediate rewards in habit formation and maintenance, particularly for habits of avoidance. Immediate rewards make the end of a behavior satisfying, increasing the likelihood of the behavior's repetition. The concept of reinforcement is introduced, which involves tying a habit to an immediate reward, making it satisfying upon completion. The text suggests a strategy for habits of avoidance, such as refraining from unnecessary purchases or alcohol, by making avoidance visible. For instance, transferring the amount of money saved from avoiding a purchase into a savings account can serve as an immediate reward, making the act of avoidance satisfying.

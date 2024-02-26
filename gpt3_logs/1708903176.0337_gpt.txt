@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+For instance, when he finishes watching television, he places the remote back on the TV stand, arranges the pillows on the couch, and folds the blanket. When he leaves his car, he throws any trash away. Whenever he takes a shower, he wipes down the toilet while the shower is warming up. (As he notes,     the perfect time to clean the toilet is right before you wash yourself in the shower anyway.) The purpose of resetting each room is not simply to clean up after the last action, but to prepare for the next action. When I walk into a room everything is in its right place, Nuckols wrote. Because I do this every day in every room, stuff always stays in good shape. . . . People think I work hard but Im actually really lazy. Im just proactively lazy. It gives you so much time back. Whenever you organize a space for its intended purpose, you are priming it to make the next action easy. For instance, my wife keeps a box of greeting cards that are presorted by occasionbirthday, sympathy, wedding, graduation, and more. Whenever necessary, she grabs an appropriate card and sends it off. She is incredibly good at remembering to send cards because she has reduced the friction of doing so. For years, I was the opposite. Someone would have a baby and I would think, I should send a card. But then weeks would pass and by the time I remembered to pick one up at the store, it was too late. The habit wasnt easy. There are many ways to prime your environment so its ready for immediate use. If you want to cook a healthy breakfast, place the skillet on the stove, set the cooking spray on the counter, and lay out any plates and utensils youll need the night before. When you wake up, making breakfast will be easy. Want to draw more? Put your pencils, pens, notebooks, and drawing tools on top of your desk, within easy reach. Want to exercise? Set out your workout clothes, shoes, gym bag, and water bottle ahead of time. Want to improve your diet? Chop up a ton of fruits and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of "resetting" each room or space after use, not just to clean up, but to prepare for the next action. This proactive approach to organization can make tasks easier and save time. Examples include keeping a box of pre-sorted greeting cards for different occasions, setting up cooking utensils the night before to make breakfast preparation easier, and arranging workout gear in advance to encourage exercise. The idea is to reduce friction for tasks by priming the environment for immediate use, thereby making habits easier to maintain.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Fogg uses the term anchoring to describe this approach because your old habit acts as an anchor that keeps the new one in place. No matter what term you prefer, I believe it is a very effective strategy. You can learn more about Foggs work and his Tiny Habits Method at https://www.tinyhabits.com. One in, one out: Dev Basu (@devbasu), Have a one-in-one-out policy when buying things, Twitter, February 11, 2018,     https://twitter.com/devbasu/status/962778141965000704. CHAPTER 6 Anne Thorndike: Anne N. Thorndike et al., A 2-Phase Labeling and Choice Architecture Intervention to Improve Healthy Food and Beverage Choices, American Journal of Public Health 102, no. 3 (2012), doi:10.2105/ajph.2011.300391. choose products not because of what they are: Multiple research studies have shown that the mere sight of food can make us feel hungry even when we dont have actual physiological hunger. According to one researcher, dietary behaviors are, in large part, the consequence of automatic responses to contextual food cues. For more, see D. A. Cohen and S. H. Babey, Contextual Influences on Eating Behaviours: Heuristic Processing and Dietary Choices, Obesity Reviews 13, no. 9 (2012), doi:10.1111/j.1467 789x.2012.01001.x; and Andrew J. Hill, Lynn D. Magson, and John E. Blundell, Hunger and Palatability: Tracking Ratings of Subjective Experience Before, during and after the Consumption of Preferred and Less Preferred Food, Appetite 5, no. 4 (1984), doi:10.1016/s01956663(84)800082. Behavior is a function of the Person in their Environment: Kurt Lewin, Principles of Topological Psychology (New York: McGraw-Hill, 1936). Suggestion Impulse Buying: Hawkins Stern, The Significance of Impulse Buying Today, Journal of Marketing 26, no. 2 (1962), doi:10.2307/1248439. 45 percent of Coca-Cola sales: Michael Moss, Nudged to the Produce Aisle by a Look in the Mirror, New York Times, August 27, 2013, https://www.nytimes.com/2013/08/28/dining/wooing-us-down-the-
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of anchoring, a strategy where an old habit acts as a foundation for a new one, as proposed by Fogg. It also mentions Dev Basu's one-in-one-out policy for purchasing items. The text further explores the influence of visual cues on dietary behaviors, suggesting that the sight of food can trigger hunger and influence our food choices, even without physiological hunger. It references Kurt Lewin's principle that behavior is a function of a person in their environment and discusses the significance of impulse buying. Lastly, it notes that 45% of Coca-Cola sales are impulse purchases.

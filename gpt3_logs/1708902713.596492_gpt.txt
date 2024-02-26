@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+before, climbed into the helicopter beside me. I remained unconscious and unable to breathe on my own as she held my hand during the flight. While my mother rode with me in the helicopter, my father went home to check on my brother and sister and break the news to them. He choked back tears as he explained to my sister that he would miss her eighth-grade graduation ceremony that night. After passing my siblings off to family and friends, he drove to Cincinnati to meet my mother. When my mom and I landed on the roof of the hospital, a team of nearly twenty doctors and nurses sprinted onto the helipad and wheeled me into the trauma unit. By this time, the swelling in my brain had become so severe that I was having repeated post-traumatic seizures. My broken bones needed to be fixed, but I was in no condition to undergo surgery. After yet another seizuremy third of the dayI was put into a medically induced coma and placed on a ventilator. My parents were no strangers to this hospital. Ten years earlier, they had entered the same building on the ground floor after my sister     was diagnosed with leukemia at age three. I was five at the time. My brother was just six months old. After two and a half years of chemotherapy treatments, spinal taps, and bone marrow biopsies, my little sister finally walked out of the hospital happy, healthy, and cancer free. And now, after ten years of normal life, my parents found themselves back in the same place with a different child. While I slipped into a coma, the hospital sent a priest and a social worker to comfort my parents. It was the same priest who had met with them a decade earlier on the evening they found out my sister had cancer. As day faded into night, a series of machines kept me alive. My parents slept restlessly on a hospital mattressone moment they would collapse from fatigue, the next they would be wide awake with worry. My mother would tell me later, It was one of the worst nights Ive ever had.  MY RECOVERY
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text describes a traumatic event where the narrator was airlifted to a hospital due to severe injuries and brain swelling, leading to multiple seizures. Unable to undergo surgery, they were put into a medically induced coma. The parents, familiar with the hospital from their daughter's successful leukemia treatment a decade earlier, were supported by a priest and a social worker. The parents alternated between exhaustion and worry as they spent a restless night in the hospital.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+primary refrigerators, but water was now available at all drink locations. Over the next three months, the number of soda sales at the hospital dropped by 11.4 percent. Meanwhile, sales of bottled water increased by 25.8 percent. They made similar adjustmentsand saw similar resultswith the food in the cafeteria. Nobody had said a word to anyone eating there.    BEFORE  AFTER   FIGURE 8: Here is a representation of what the cafeteria looked like before the environment design changes were made (left) and after (right). The shaded boxes indicate areas where bottled water was available in each instance. Because the amount of water in the environment was increased, behavior shifted naturally and without additional motivation.  People often choose products not because of what they are, but because of where they are. If I walk into the kitchen and see a plate of cookies on the counter, Ill pick up half a dozen and start eating, even if I hadnt been thinking about them beforehand and didnt necessarily feel hungry. If the communal table at the office is always filled with doughnuts and bagels, its going to be hard not to grab one every now and then. Your habits change depending on the room you are in and the cues in front of you. Environment is the invisible hand that shapes human behavior. Despite our unique personalities, certain behaviors tend to arise again and again under certain environmental conditions. In church, people tend to talk in whispers. On a dark street, people act wary and guarded. In this way, the most common form of change is not internal, but external: we are changed by the world around us. Every habit is context dependent. In 1936, psychologist Kurt Lewin wrote a simple equation that makes a powerful statement: Behavior is a function of the Person in their Environment, or B = f (P,E).     It didnt take long for Lewins Equation to be tested in business. In 1952, the economist Hawkins Stern described a phenomenon he called Suggestion Impulse
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the impact of environmental changes on human behavior, particularly in relation to food and drink choices. By increasing the availability of water in a hospital, soda sales dropped by 11.4% while water sales increased by 25.8% over three months. Similar results were observed with food in the cafeteria. The text suggests that people often choose products based on their location rather than their inherent qualities. It emphasizes that environment is a significant factor in shaping human behavior and habits, and that these are context-dependent. The text also references psychologist Kurt Lewin's equation, which states that behavior is a function of the person in their environment.

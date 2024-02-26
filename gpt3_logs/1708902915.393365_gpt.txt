@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+habit. It all depends on what youre working toward.* Scoring your habits can be a bit more complex for another reason as well. The labels good habit and bad habit are slightly inaccurate. There are no good habits or bad habits. There are only effective habits. That is, effective at solving problems. All habits serve you in some way even the bad oneswhich is why you repeat them. For this exercise, categorize your habits by how they will benefit you in the long run. Generally speaking, good habits will have net positive outcomes. Bad habits have net negative outcomes. Smoking a cigarette may reduce stress right now (thats how its serving you), but its not a healthy long-term behavior. If youre still having trouble determining how to rate a particular habit, here is a question I like to use: Does this behavior help me become the type of person I wish to be? Does this habit cast a vote for     or against my desired identity? Habits that reinforce your desired identity are usually good. Habits that conflict with your desired identity are usually bad. As you create your Habits Scorecard, there is no need to change anything at first. The goal is to simply notice what is actually going on. Observe your thoughts and actions without judgment or internal criticism. Dont blame yourself for your faults. Dont praise yourself for your successes. If you eat a chocolate bar every morning, acknowledge it, almost as if you were watching someone else. Oh, how interesting that they would do such a thing. If you binge-eat, simply notice that you are eating more calories than you should. If you waste time online, notice that you are spending your life in a way that you do not want to. The first step to changing bad habits is to be on the lookout for them. If you feel like you need extra help, then you can try Pointingand-Calling in your own life. Say out loud the action that you are thinking of taking and what the outcome will be. If you want to cut back on your junk food
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of habits, emphasizing that there are no inherently good or bad habits, but rather effective habits that solve problems. Habits can be categorized based on their long-term benefits, with those that have net positive outcomes considered good and those with net negative outcomes considered bad. The author suggests evaluating habits based on whether they align with one's desired identity. The first step to changing undesirable habits is to observe them without judgment. The author also recommends a technique called Pointing-and-Calling, where one verbalizes the action they are about to take and its potential outcome, as a method to control habits.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+overlooking all of the people who had the same objective but didnt succeed. Every Olympian wants to win a gold medal. Every candidate wants to get the job. And if successful and unsuccessful people share the same goals, then the goal cannot be what differentiates the winners from the losers. It wasnt the goal of winning the Tour de France that propelled the British cyclists to the top of the sport. Presumably, they had wanted to win the race every year beforejust like every other professional team. The goal had always been there. It was only when they implemented a system of continuous small improvements that they achieved a different outcome.  Problem #2: Achieving a goal is only a momentary change. Imagine you have a messy room and you set a goal to clean it. If you summon the energy to tidy up, then you will have a clean roomfor now. But if you maintain the same sloppy, pack-rat habits that led to a messy room in the first place, soon youll be looking at a new pile of clutter and hoping for another burst of motivation. Youre left chasing the same outcome because you never changed the system behind it. You treated a symptom without addressing the cause. Achieving a goal only changes your life for the moment. Thats the counterintuitive thing about improvement. We think we need to change our results, but the results are not the problem. What we really need to change are the systems that cause those results. When you solve problems at the results level, you only solve them temporarily. In order to improve for good, you need to solve problems at the systems level. Fix the inputs and the outputs will fix themselves.     Problem #3: Goals restrict your happiness. The implicit assumption behind any goal is this: Once I reach my goal, then Ill be happy. The problem with a goals-first mentality is that youre continually putting happiness off until the next milestone. Ive slipped into this trap so many times Ive lost count. For years, happiness was always
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the limitations of goal-oriented thinking, arguing that it's not the goals themselves that differentiate successful people from unsuccessful ones, but the systems they implement to achieve those goals. The author suggests that focusing solely on goals can lead to temporary success, but without changing the underlying systems or habits, the same problems will reoccur. Furthermore, the goal-first mentality can restrict happiness, as it continually defers contentment to future milestones. Instead, the author advocates for a focus on improving systems for lasting change and satisfaction.

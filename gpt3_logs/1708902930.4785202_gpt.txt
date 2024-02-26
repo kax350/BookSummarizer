@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+of the week, month, or year. People are more likely to take action at those times because hope is usually higher. If we have hope, we have a reason to take action. A fresh start feels motivating. There is another benefit to implementation intentions. Being specific about what you want and how you will achieve it helps you say no to things that derail progress, distract your attention, and pull you off course. We often say yes to little requests because we are not clear enough about what we need to be doing instead. When your dreams are vague, its easy to rationalize little exceptions all day long and never get around to the specific things you need to do to succeed. Give your habits a time and a space to live in the world. The goal is to make the time and location so obvious that, with enough repetition, you get an urge to do the right thing at the right time, even if you cant say why. As the writer Jason Zweig noted, Obviously youre never going to just work out without conscious thought. But like a dog salivating at a bell, maybe you start to get antsy around the time of day you normally work out. There are many ways to use implementation intentions in your life and work. My favorite approach is one I learned from Stanford professor BJ Fogg and it is a strategy I refer to as habit stacking.     HABIT STACKING: A SIMPLE PLAN TO OVERHAUL YOUR HABITS The French philosopher Denis Diderot lived nearly his entire life in poverty, but that all changed one day in 1765. Diderots daughter was about to be married and he could not afford to pay for the wedding. Despite his lack of wealth, Diderot was well known for his role as the co-founder and writer of Encyclopdie, one of the most comprehensive encyclopedias of the time. When Catherine the Great, the Empress of Russia, heard of Diderots financial troubles, her heart went out to him. She was a book lover and greatly enjoyed his encyclopedia. She offered to buy Diderots personal library for 1,000 more than $150,000
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of implementation intentions and habit stacking as strategies for achieving goals. Implementation intentions involve being specific about what you want and how you will achieve it, which helps in avoiding distractions and staying on course. Habit stacking, a strategy learned from Stanford professor BJ Fogg, is another effective way to implement intentions. The text also highlights the importance of timing in taking action, suggesting that people are more likely to act when hope is high, such as at the start of a week, month, or year. The story of French philosopher Denis Diderot is introduced, but the text ends before explaining its relevance to the discussed concepts.

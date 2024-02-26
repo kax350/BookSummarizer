@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+so why cant I see any change in my body? Once this kind of thinking     takes over, its easy to let good habits fall by the wayside. But in order to make a meaningful difference, habits need to persist long enough to break through this plateauwhat I call the Plateau of Latent Potential. If you find yourself struggling to build a good habit or break a bad one, it is not because you have lost your ability to improve. It is often because you have not yet crossed the Plateau of Latent Potential. Complaining about not achieving success despite working hard is like complaining about an ice cube not melting when you heated it from twenty-five to thirty-one degrees. Your work was not wasted; it is just being stored. All the action happens at thirty-two degrees. When you finally break through the Plateau of Latent Potential, people will call it an overnight success. The outside world only sees the most dramatic event rather than all that preceded it. But you know that its the work you did long agowhen it seemed that you werent making any progressthat makes the jump today possible. It is the human equivalent of geological pressure. Two tectonic plates can grind against one another for millions of years, the tension slowly building all the while. Then, one day, they rub each other once again, in the same fashion they have for ages, but this time the tension is too great. An earthquake erupts. Change can take yearsbefore it happens all at once. Mastery requires patience. The San Antonio Spurs, one of the most successful teams in NBA history, have a quote from social reformer Jacob Riis hanging in their locker room: When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did itbut all that had gone before.    THE PLATEAU OF LATENT POTENTIAL   FIGURE 2: We often expect
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of the "Plateau of Latent Potential," a phase in habit formation or skill acquisition where progress seems stagnant. It argues that the lack of visible change does not mean the absence of improvement. Instead, it suggests that the effort being put in is being stored and will eventually lead to a breakthrough, likened to an ice cube melting at thirty-two degrees or an earthquake resulting from years of tectonic tension. The text emphasizes that mastery requires patience and consistent effort, even when progress is not immediately apparent. It uses the example of a stonecutter whose repeated blows eventually split a rock, not due to the final blow, but because of all the preceding ones.

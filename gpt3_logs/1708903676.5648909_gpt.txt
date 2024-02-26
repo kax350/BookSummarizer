@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+line is paraphrased from Greg McKeown, who wrote, Research has shown that of all forms of human motivation the most effective one is progress. Greg McKeown, Essentialism: The Disciplined Pursuit of Less (Currency, 2014). The first mistake is never the one that ruins you: In fact, research has shown that missing a habit once has virtually no impact on the odds of developing a habit over the long-term, regardless of when the mistake occurs. As long as you get back on track, youre fine. See: Phillippa Lally et al., How Are Habits Formed: Modelling Habit Formation in the Real World, European Journal of Social Psychology 40, no. 6 (2009), doi:10.1002/ejsp.674. Missing once is an accident: Missing once is an accident. Missing twice is the start of a new habit. I swear I read this line somewhere or perhaps paraphrased it from something similar, but despite my best efforts all of my searches for a source are coming up empty. Maybe I came up with it, but my best guess is it belongs to an unidentified genius instead. When a measure becomes a target: This definition of Goodharts Law was actually formulated by the British anthropologist Marilyn Strathern. Improving Ratings: Audit in the British University System, European Review 5 (1997): 305321, https://www.cambridge.org/core/journals/european-review/article/improving-ratingsaudit-in-the-british-university-system/FC2EE640C0C44E3DB87C29FB666E9AAB. Goodhart himself reportedly advanced the idea sometime around 1975 and put it formally into writing in 1981. Charles Goodhart, Problems of Monetary Management: The U.K. Experience, in Anthony S. Courakis (ed.), Inflation, Depression, and Economic Policy in the West (London: Rowman and Littlefield, 1981), 111146. CHAPTER 17 When I suggested this to friends in the Pentagon: Roger Fisher, Preventing Nuclear War, Bulletin of the Atomic Scientists 37, no. 3 (1981), doi:10.1080/00963402.1981.11458828. The first seat belt law: Michael Goryl and Michael Cynecki,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of progress as a form of human motivation, as suggested by Greg McKeown. It emphasizes that missing a habit once doesn't impact long-term habit formation, but missing it twice can lead to a new habit. The text also mentions Goodhart's Law, formulated by Marilyn Strathern, which suggests that when a measure becomes a target, it ceases to be a good measure. The text also references Roger Fisher's work on preventing nuclear war and the introduction of the first seat belt law.

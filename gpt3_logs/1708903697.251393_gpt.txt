@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+1996); Robert Plomin, Why Were Different, Edge, June 29, 2016, https://soundcloud.com/edgefoundationinc/edge2016-robert-plomin. Theres a strong genetic component: Daniel Goleman, Major Personality Study Finds That Traits Are Mostly Inherited, New York Times, December 2, 1986, http://www.nytimes.com/1986/12/02/science/major-personality-study-finds-thattraits-are-mostly-inherited.html?pagewanted=all. Robert Plomin: Robert Plomin, phone call with the author, August 9, 2016. more likely to become introverts: Jerome Kagan et al., Reactivity in Infants: A CrossNational Comparison, Developmental Psychology 30, no. 3 (1994), doi:10.1037//00121649.30.3.342; Michael V. Ellis and Erica S. Robbins, In Celebration of Nature: A Dialogue with Jerome Kagan, Journal of Counseling and     Development 68, no. 6 (1990), doi:10.1002/j.15566676.1990.tb01426.x; Brian R. Little, Me, Myself, and Us: The Science of Personality and the Art of Well-Being (New York: Public Affairs, 2016); Susan Cain, Quiet: The Power of Introverts in a World That Cant Stop Talking (London: Penguin, 2013), 99100. People who are high in agreeableness: W. G. Graziano and R. M. Tobin, The Cognitive and Motivational Foundations Underlying Agreeableness, in M. D. Robinson, E. Watkins, and E. Harmon-Jones, eds., Handbook of Cognition and Emotion (New York: Guilford, 2013), 347364. They also tend to have higher natural oxytocin levels: Mitsuhiro Matsuzaki et al., Oxytocin: A Therapeutic Target for Mental Disorders, Journal of Physiological Sciences 62, no. 6 (2012), doi:10.1007/s1257601202329; Angeliki Theodoridou et al., Oxytocin and Social Perception: Oxytocin Increases Perceived Facial Trustworthiness and Attractiveness, Hormones and Behavior 56, no. 1 (2009), doi:10.1016/j.yhbeh.2009.03.019; Anthony Lane et al., Oxytocin Increases Willingness to Socially Share Ones Emotions, International Journal of Psychology 48, no. 4 (2013), doi:10.1080/00207594.2012.677540; Christopher Cardoso et al.,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the significant role of genetics in personality traits, as highlighted by Robert Plomin and Daniel Goleman. It also mentions that certain traits, such as introversion, can be influenced by factors like reactivity in infancy. The text further discusses the trait of agreeableness, suggesting that individuals high in this trait often have higher natural oxytocin levels, which can influence social perception and emotional sharing.

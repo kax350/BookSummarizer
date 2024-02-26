@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+any field. His mantra was A genius is not born, but is educated and trained. Laszlo believed in this idea so strongly that he wanted to test it with his own childrenand he was writing to Klara because he needed a wife willing to jump on board. Klara was a teacher and, although she may not have been as adamant as Laszlo, she also believed that with proper instruction, anyone could advance their skills. Laszlo decided chess would be a suitable field for the experiment, and he laid out a plan to raise his children to become chess prodigies. The kids would be home-schooled, a rarity in Hungary at the time. The house would be filled with chess books and pictures of famous chess players. The children would play against each other constantly and compete in the best tournaments they could find. The family would keep a meticulous file system of the tournament history of every competitor the children faced. Their lives would be dedicated to chess. Laszlo successfully courted Klara, and within a few years, the Polgars were parents to three young girls: Susan, Sofia, and Judit. Susan, the oldest, began playing chess when she was four years old. Within six months, she was defeating adults.     Sofia, the middle child, did even better. By fourteen, she was a world champion, and a few years later, she became a grandmaster. Judit, the youngest, was the best of all. By age five, she could beat her father. At twelve, she was the youngest player ever listed among the top one hundred chess players in the world. At fifteen years and four months old, she became the youngest grandmaster of all time younger than Bobby Fischer, the previous record holder. For twentyseven years, she was the number-one-ranked female chess player in the world. The childhood of the Polgar sisters was atypical, to say the least. And yet, if you ask them about it, they claim their lifestyle was attractive, even enjoyable. In interviews, the sisters talk about their childhood as entertaining rather than
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Laszlo Polgar, a Hungarian educational psychologist, believed that geniuses are made, not born. To test this theory, he and his wife Klara, a teacher, decided to raise their children to be chess prodigies. They home-schooled their three daughters, Susan, Sofia, and Judit, in an environment saturated with chess-related materials and rigorous practice. The Polgar sisters exceeded expectations, with Susan defeating adults at chess by age four, Sofia becoming a world champion and grandmaster in her teens, and Judit becoming the youngest grandmaster ever at age 15. Judit also held the title of the top-ranked female chess player in the world for 27 years. Despite their unusual upbringing, the sisters reported enjoying their childhood.

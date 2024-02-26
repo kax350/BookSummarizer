@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+feel like quitting. When you start a business, there will be days when you dont feel like showing up. When youre at the gym, there will be sets that you dont feel like finishing. When its time to write, there will be days that you dont feel like typing. But stepping up when its annoying or painful or draining to do so, thats what makes the difference between a professional and an amateur. Professionals stick to the schedule; amateurs let life get in the way. Professionals know what is important to them and work toward it with purpose; amateurs get pulled off course by the urgencies of life. David Cain, an author and meditation teacher, encourages his students to avoid being fair-weather meditators. Similarly, you dont want to be a fair-weather athlete or a fair-weather writer or a fairweather anything. When a habit is truly important to you, you have to be willing to stick to it in any mood. Professionals take action even     when the mood isnt right. They might not enjoy it, but they find a way to put the reps in. There have been a lot of sets that I havent felt like finishing, but Ive never regretted doing the workout. There have been a lot of articles I havent felt like writing, but Ive never regretted publishing on schedule. There have been a lot of days Ive felt like relaxing, but Ive never regretted showing up and working on something that was important to me. The only way to become excellent is to be endlessly fascinated by doing the same thing over and over. You have to fall in love with boredom.    Chapter Summary The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. The greatest threat to success is not failure but boredom. As habits become routine, they become less interesting and less satisfying. We get bored.  Anyone can work hard when they feel motivated. Its the ability to keep going when work isnt exciting that makes the difference.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text emphasizes the importance of consistency and discipline in achieving success, particularly in professional endeavors. It highlights that professionals distinguish themselves by sticking to their schedules and goals, even when they don't feel like it, while amateurs allow life's urgencies to derail them. The author encourages readers to avoid being "fair-weather" in their pursuits, emphasizing that true commitment involves sticking to habits regardless of mood or circumstance. The text also introduces the "Goldilocks Rule," which suggests that peak motivation occurs when working on tasks that challenge current abilities. The greatest threat to success, it argues, is not failure but boredom, and the ability to persist even when work becomes routine and less exciting is what truly makes the difference.

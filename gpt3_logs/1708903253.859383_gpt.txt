@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+of Omaha, Nebraska, and bought a one-way ticket to Karachi, Pakistan. Karachi was one of the most populous cities in the world. By 1998, over nine million people called it home. It was the economic center of Pakistan and a transportation hub, with some of the most active airports and seaports in the region. In the commercial parts of town, you could find all of the standard urban amenities and bustling downtown streets. But Karachi was also one of the least livable cities in the world. Over 60 percent of Karachis residents lived in squatter settlements and slums. These densely packed neighborhoods were filled with makeshift houses cobbled together from old boards, cinder blocks, and other discarded materials. There was no waste removal system, no electricity grid, no clean water supply. When dry, the streets were a combination of dust and trash. When wet, they became a muddy pit of sewage. Mosquito colonies thrived in pools of stagnant water, and children played among the garbage. The unsanitary conditions lead to widespread illness and disease. Contaminated water sources caused epidemics of diarrhea, vomiting, and abdominal pain. Nearly one third of the children living there were malnourished. With so many people crammed into such a small space, viruses and bacterial infections spread rapidly. It was this public health crisis that had brought Stephen Luby to Pakistan. Luby and his team realized that in an environment with poor sanitation, the simple habit of washing your hands could make a real     difference in the health of the residents. But they soon discovered that many people were already aware that handwashing was important. And yet, despite this knowledge, many residents were washing their hands in a haphazard fashion. Some people would just run their hands under the water quickly. Others would only wash one hand. Many would simply forget to wash their hands before preparing food. Everyone said handwashing was important, but few people made a habit out of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Karachi, Pakistan, one of the world's most populous cities, is also one of the least livable due to poor living conditions. Over 60% of its residents live in slums with no waste removal system, electricity grid, or clean water supply, leading to widespread illness and disease. Contaminated water sources cause epidemics, and nearly a third of the children are malnourished. Stephen Luby and his team came to Karachi to address this public health crisis, focusing on the importance of handwashing. Despite residents' awareness of handwashing's importance, it was often done haphazardly or forgotten, indicating a need for better hygiene practices.

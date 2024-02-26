@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+her packing list. Ive got my keys. Ive got my wallet. Ive got my glasses. Ive got my husband.     The more automatic a behavior becomes, the less likely we are to consciously think about it. And when weve done something a thousand times before, we begin to overlook things. We assume that the next time will be just like the last. Were so used to doing what weve always done that we dont stop to question whether its the right thing to do at all. Many of our failures in performance are largely attributable to a lack of self-awareness. One of our greatest challenges in changing habits is maintaining awareness of what we are actually doing. This helps explain why the consequences of bad habits can sneak up on us. We need a point-andcall system for our personal lives. Thats the origin of the Habits Scorecard, which is a simple exercise you can use to become more aware of your behavior. To create your own, make a list of your daily habits. Heres a sample of where your list might start: Wake up Turn off alarm Check my phone  Go to the bathroom Weigh myself Take a shower Brush my teeth Floss my teeth Put on deodorant Hang up towel to dry Get dressed  Make a cup of tea . . . and so on. Once you have a full list, look at each behavior, and ask yourself, Is this a good habit, a bad habit, or a neutral habit? If it is a good habit, write + next to it. If it is a bad habit, write . If it is a neutral habit, write =.     For example, the list above might look like this: Wake up = Turn off alarm = Check my phone   Go to the bathroom = Weigh myself + Take a shower + Brush my teeth + Floss my teeth + Put on deodorant + Hang up towel to dry = Get dressed =  Make a cup of tea + The marks you give to a particular habit will depend on your situation and your goals. For someone who is trying to lose weight, eating a bagel with peanut butter every morning might be a bad habit. For someone who is trying to bulk up and add muscle, the same behavior might be a good
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of automatic behaviors and how they can lead to a lack of self-awareness, potentially resulting in negative habits. To combat this, the author suggests using a Habits Scorecard, a tool to increase awareness of daily behaviors. This involves listing daily habits and categorizing them as good, bad, or neutral based on personal goals and situations. This method can help individuals identify and change their habits, improving their overall performance and achieving their goals.

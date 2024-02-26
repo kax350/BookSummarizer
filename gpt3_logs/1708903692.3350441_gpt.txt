@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Gene: Inside the Science of Extraordinary Athletic Performance (St. Louis, MO: Turtleback Books, 2014). average height of Olympic gold medalists in the mens 1,500-meter run: Alex Hutchinson, The Incredible Shrinking Marathoner, Runners World, November 12, 2013, https://www.runnersworld.com/sweat-science/the-incredible-shrinkingmarathoner. average height of Olympic gold medalists in the mens 100-meter: Alvin Chang, Want to Win Olympic Gold? Heres How Tall You Should Be for Archery, Swimming, and More, Vox, August 9, 2016, http://www.vox.com/2016/8/9/12387684/olympicheights. Genes can predispose, but they dont predetermine: Gabor Mat, Dr. Gabor Mat New Paradigms, Ayahuasca, and Redefining Addiction, The Tim Ferriss Show, February 20, 2018, https://tim.blog/2018/02/20/gabor-mate/. Genes have been shown to influence everything: All traits are heritable is a bit of an exaggeration, but not by much. Concrete behavioral traits that patently depend on content provided by the home or culture are, of course, not heritable at all; which language you speak, which religion you worship in, which political party you belong to. But behavioral traits that reflect the underlying talents and temperaments are heritable: how proficient with language you are, how religious, how liberal or conservative. General intelligence is heritable, and so are the five major ways in which personality can vary . . . openness to experience, conscientiousness, extroversion-introversion, antagonism-agreeableness, and neuroticism. And traits that are surprisingly specific turn out to be heritable, too, such as dependence on nicotine or alcohol, number of hours of television watched, and likelihood of divorcing. Thomas J. Bouchard, Genetic Influence on Human Psychological Traits, Current Directions in Psychological Science 13, no. 4 (2004), doi:10.1111/j.09637214.2004.00295.x; Robert Plomin, Nature and Nurture: An Introduction to Human Behavioral Genetics (Stamford, CT: Wadsworth,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The book "Gene: Inside the Science of Extraordinary Athletic Performance" discusses the role of genetics in athletic performance, citing the average height of Olympic gold medalists in men's 1,500-meter run and 100-meter events. The book argues that while genes can predispose individuals to certain traits, they do not predetermine outcomes. This concept extends beyond athletics to behavioral traits, which can be influenced by both genetic and environmental factors. Traits such as language proficiency, religiousness, political leanings, general intelligence, personality variations, and even specific tendencies like nicotine or alcohol dependence, television watching habits, and likelihood of divorce, can all be heritable. However, these traits can also be shaped by home environment and culture.

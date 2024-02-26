@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Becoming an Early Riser Phase 1: Be home by 10 p.m. every night. Phase 2: Have all devices (TV, phone, etc.) turned off by 10 p.m. every night. Phase 3: Be in bed by 10 p.m. every night (reading a book, talking with your partner). Phase 4: Lights off by 10 p.m. every night. Phase 5: Wake up at 6 a.m. every day. Becoming Vegan Phase 1: Start eating vegetables at each meal. Phase 2: Stop eating animals with four legs (cow, pig, lamb, etc.). Phase 3: Stop eating animals with two legs (chicken, turkey, etc.). Phase 4: Stop eating animals with no legs (fish, clams, scallops, etc.). Phase 5: Stop eating all animal products (eggs, milk, cheese). Starting to Exercise Phase 1: Change into workout clothes. Phase 2: Step out the door (try taking a walk). Phase 3: Drive to the gym, exercise for five minutes, and leave. Phase 4: Exercise for fifteen minutes at least once per week. Phase 5: Exercise three times per week.  Nearly any larger life goal can be transformed into a two-minute behavior. I want to live a healthy and long life > I need to stay in shape > I need to exercise > I need to change into my workout clothes. I want to have a happy marriage > I need to be a good partner > I should do something each day to make my partners life easier > I should meal plan for next week. Whenever you are struggling to stick with a habit, you can employ the Two-Minute Rule. Its a simple way to make your habits easy.    Chapter Summary Habits can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward. Many habits occur at decisive momentschoices that are like a fork in the roadand either send you in the direction of a     productive day or an unproductive one. The Two-Minute Rule states, When you start a new habit, it should take less than two minutes to do. The more you ritualize the beginning of a process, the more likely it becomes that you can slip into the state of deep focus that is required to do great things. Standardize before
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text outlines strategies for achieving larger life goals by breaking them down into smaller, manageable habits that can be completed in two minutes or less, known as the "Two-Minute Rule". This approach is demonstrated through examples of becoming an early riser, adopting a vegan diet, and starting to exercise. Each goal is divided into phases, gradually progressing towards the ultimate objective. The text emphasizes that these small habits, though quickly completed, can significantly influence behavior and productivity. The more these habits are ritualized, the easier it becomes to achieve deep focus and accomplish great things.

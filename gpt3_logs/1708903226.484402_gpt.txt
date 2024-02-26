@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+that if the average person were to simply do half of the onetime actions on this listeven if they didnt give another thought to     their habitsmost would find themselves living a better life a year from now. These onetime actions are a straightforward way to employ the 3rd Law of Behavior Change. They make it easier to sleep well, eat healthy, be productive, save money, and generally live better. ONETIME ACTIONS THAT LOCK IN GOOD HABITS Nutrition Buy a water filter to clean your drinking water. Use smaller plates to reduce caloric intake. Sleep Buy a good mattress. Get blackout curtains. Remove your television from your bedroom. Productivity Unsubscribe from emails. Turn off notifications and mute group chats. Set your phone to silent. Use email filters to clear up your inbox. Delete games and social media apps on your phone. Happiness Get a dog. Move to a friendly, social neighborhood. General Health Get vaccinated. Buy good shoes to avoid back pain. Buy a supportive chair or standing desk. Finance Enroll in an automatic savings plan. Set up automatic bill pay. Cut cable service. Ask service providers to lower your bills.  Of course, there are many ways to automate good habits and eliminate bad ones. Typically, they involve putting technology to work for you. Technology can transform actions that were once hard, annoying, and complicated into behaviors that are easy, painless, and simple. It is the most reliable and effective way to guarantee the right behavior.     This is particularly useful for behaviors that happen too infrequently to become habitual. Things you have to do monthly or yearlylike rebalancing your investment portfolioare never repeated frequently enough to become a habit, so they benefit in particular from technology remembering to do them for you. Other examples include: Medicine: Prescriptions can be automatically refilled. Personal finance: Employees can save for retirement with an automatic wage deduction. Cooking: Meal-delivery
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the benefits of one-time actions that can lead to improved habits and overall better living. These actions, which align with the 3rd Law of Behavior Change, include purchasing a water filter, using smaller plates, buying a good mattress, unsubscribing from emails, getting a dog, getting vaccinated, and enrolling in an automatic savings plan. The text emphasizes the role of technology in automating these good habits, making them easier and more efficient. This is particularly useful for infrequent behaviors, such as rebalancing an investment portfolio, which can be automated to ensure they are performed regularly.

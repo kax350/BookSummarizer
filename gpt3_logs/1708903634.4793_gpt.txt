@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+throughout the experiment, about two thirds were correct. Either way, the point stands: group pressure can significantly alter our ability to make accurate decisions. a chimpanzee learns an effective way: Lydia V. Luncz, Giulia Sirianni, Roger Mundry, and Christophe Boesch. Costly culture: differences in nut-cracking efficiency between wild chimpanzee groups. Animal Behaviour 137 (2018): 6373. CHAPTER 10 I wouldnt say, Because I need food to survive: I heard a similar example from the Twitter account, simpolism (@simpolism), Lets extend this metaphor. If society is a human body, then the state is the brain. Humans are unaware of their motives. If asked why do you eat? you might say bc food tastes good and not bc I need food to survive. What might a states food be? (hint: are pills food?), Twitter, May 7, 2018, https://twitter.com/simpolism/status/993632142700826624. when emotions and feelings are impaired: Antoine Bechara et al., Insensitivity to Future Consequences following Damage to Human Prefrontal Cortex, Cognition 50, no. 13 (1994), doi:10.1016/00100277(94)900183.  As the neuroscientist Antonio Damasio: When Emotions Make Better Decisions Antonio Damasio, August 11, 2009. https://www.youtube.com/watch? v=1wup_K2WN0I You dont have to. You get to: I am indebted to my college strength and conditioning coach, Mark Watts, who originally shared this simple mind-set shift with me.  Im not confined to my wheelchair: RedheadBanshee, What Is Something Someone Said That Forever Changed Your Way of Thinking, Reddit, October 22, 2014, https://www.reddit.com/r/AskReddit/comments/2jzn0j/what_is_something_someone_said_that_for  Its time to build endurance and get fast: WingedAdventurer, Instead of Thinking Go Run in the Morning, Think Go Build Endurance and Get Fast. Make Your Habit a Benefit, Not a Task, Reddit, January 19, 2017, https://www.reddit.com/r/selfimprovement/comments/5ovrqf/instead_of_thinking_go_run_in_the_
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the influence of group pressure on decision-making accuracy, citing an experiment where two-thirds of decisions were correct. It also references a study on chimpanzee behavior, suggesting learning effective methods can be costly. The text further explores the concept of societal motives, comparing society to a human body with the state as the brain. It mentions a Twitter post questioning what a state's 'food' might be, hinting at underlying motivations. The text also discusses the role of emotions and feelings in decision-making, referencing a study on the impact of damage to the human prefrontal cortex. It concludes with the idea of mindset shifts, using examples from Reddit posts about changing perspectives on tasks and challenges.

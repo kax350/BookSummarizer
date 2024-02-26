@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+prepares his to-do list for the next day, and says shutdown     complete to end work for the day. For more, see Cal Newport, Deep Work (Boston: Little, Brown, 2016). He always stopped journaling before it seemed like a hassle: Greg McKeown, Essentialism: The Disciplined Pursuit of Less (New York: Crown, 2014), 78. habit shaping: Gail B. Peterson, A Day of Great Illumination: B. F. Skinners Discovery of Shaping, Journal of the Experimental Analysis of Behavior 82, no. 3 (2004), doi:10.1901/jeab.2004.82317. CHAPTER 14 he remained in his study and wrote furiously: Adle Hugo and Charles E. Wilbour, Victor Hugo, by a Witness of His Life (New York: Carleton, 1864). A commitment device is a choice you make in the present: Gharad Bryan, Dean Karlan, and Scott Nelson, Commitment Devices, Annual Review of Economics 2, no. 1 (2010), doi:10.1146/annurev.economics.102308.124324.  outlet timer cuts off the power to the router: Nir Eyal: Addictive Tech, Killing Bad Habits & Apps for Life Hacking#260, interview by Dave Asprey, Bulletproof, November 13, 2015, https://blog.bulletproof.com/nir-eyal-life-hacking-260/. This is also referred to as a Ulysses pact: Peter Ubel, The Ulysses Strategy, The New Yorker, December 11, 2014, https://www.newyorker.com/business/currency/ulyssesstrategy-self-control. Pattersons business went from losing money to making $5,000 in profit: John H. PattersonRinging Up Success with the Incorruptible Cashier, Dayton Innovation Legacy, http://www.daytoninnovationlegacy.org/patterson.html, accessed June 8, 2016. onetime actions that lead to better long-term habits: James Clear (@james_clear), What are one-time actions that pay off again and again in the future? Twitter, February 11, 2018, https://twitter.com/james_clear/status/962694722702790659  Civilization advances by extending the number of operations: Alfred North Whitehead, Introduction to Mathematics (Cambridge, UK: Cambridge University Press, 1911), 166.  The average person
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various strategies for productivity and habit formation. It mentions the practice of preparing a to-do list for the next day and ending work with a shutdown routine. The importance of stopping tasks before they become a hassle is highlighted, as is the concept of habit shaping. The text also discusses the use of commitment devices, choices made in the present to control future actions. An example of such a device is an outlet timer that cuts off power to a router. This is also referred to as a Ulysses pact. The text further discusses the impact of one-time actions that lead to better long-term habits, and how civilization advances by extending the number of operations we can perform without thinking about them.

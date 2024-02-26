@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+better each day, youll end up with results that are nearly 37 times better after one year.  Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest, the effects of your habits multiply as you repeat them. They seem to make little difference on any given day and yet the impact they deliver over the months and years can be enormous. It is only when looking back two, five, or perhaps ten years later that the value of good habits and the cost of bad ones becomes strikingly apparent. This can be a difficult concept to appreciate in daily life. We often dismiss small changes because they dont seem to matter very much in the moment. If you save a little money now, youre still not a millionaire. If you go to the gym three days in a row, youre still out of shape. If you study Mandarin for an hour tonight, you still havent learned the language. We make a few changes, but the results never seem to come quickly and so we slide back into our previous routines. Unfortunately, the slow pace of transformation also makes it easy to let a bad habit slide. If you eat an unhealthy meal today, the scale doesnt move much. If you work late tonight and ignore your family,     they will forgive you. If you procrastinate and put your project off until tomorrow, there will usually be time to finish it later. A single decision is easy to dismiss. But when we repeat 1 percent errors, day after day, by replicating poor decisions, duplicating tiny mistakes, and rationalizing little excuses, our small choices compound into toxic results. Its the accumulation of many misstepsa 1 percent decline here and there that eventually leads to a problem. The impact created by a change in your habits is similar to the effect of shifting the route of an airplane by just a few degrees. Imagine you are flying from Los Angeles to New York City. If a pilot leaving from LAX adjusts the heading just 3.5 degrees south, you will land in Washington,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Habits, both good and bad, have a compound effect on self-improvement over time, similar to how compound interest works with money. Small changes may seem insignificant in the moment, but their impact over months and years can be substantial. This concept is often overlooked in daily life, as immediate results are not always visible. However, consistently repeating small errors or poor decisions can lead to significant negative outcomes over time. The impact of changing habits is likened to the effect of slightly altering an airplane's route, which can lead to a completely different destination over time.

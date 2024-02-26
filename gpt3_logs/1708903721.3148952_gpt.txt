@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Levy, The Twilight of the Idols (Edinburgh: Foulis, 1909). The feeling comes first (System 1): Daniel Kahneman, Thinking, Fast and Slow (New York: Farrar, Straus and Giroux, 2015). appealing to emotion is typically more powerful than appealing to reason: If you wish to persuade, appeal to interest, rather than reason (Benjamin Franklin).  Satisfaction = Liking  Wanting: This is similar to David Meisters fifth law of service businesses: Satisfaction = perception  expectation. Being poor is not having too little, it is wanting more: Lucius Annaeus Seneca and Anna Lydia Motto, Moral Epistles (Chico, CA: Scholars Press, 1985). As Aristotle noted: It is debated whether Aristotle actually said this. The quote has been attributed to him for centuries, but I could find no primary source for the phrase.     ABCDEFGHIJKLMNOPQRSTUVWXYZ  Index The page numbers in this index refer to the printed version of this book. The link provided will take you to the beginning of that print page. You may need to scroll forward from that location to find the corresponding reference on your e-reader. accepting that you have particular abilities, 21819 accountability, 20910 action vs. motion, 14243 Adams, Scott, 23, 225  addiction effect of environment on readdiction, 92 smoking, 12526  Vietnam War heroin problem, 9192 addition by subtraction strategy, 154 the aggregation of marginal gains, 1314 agricultural expansion example of doing that which requires the least effort, 14951 Allen Carrs Easy Way to Stop Smoking (Carr), 12526 amateurs vs. professionals, 236 animal behavior within an immediate-return environment, 187 cat escape study, 4344 greylag geese and supernormal stimuli, 102 herring gulls and supernormal stimuli, 101102 methods for sensing and understanding the world, 84 Art & Fear (Bayles and Orland), 142n Asch, Solomon, 11820 athletes    Career Best Effort program (CBE), 24244 comparing champions of different sports, 21718 examples of reflection and review,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various concepts related to human behavior, decision-making, and persuasion. It references Daniel Kahneman's work, "Thinking, Fast and Slow", emphasizing that emotions often precede rational thought and are more effective in persuasion. It also cites Benjamin Franklin's advice to appeal to interest over reason. The text further explores the concept of satisfaction, comparing it to the balance between perception and expectation. It touches on the idea of poverty as a state of wanting more, not having less. The text also mentions various other topics such as accountability, the difference between action and motion, the impact of environment on addiction, and the importance of understanding one's abilities. It concludes with a discussion on athletes and the Career Best Effort program.

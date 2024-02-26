@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+next to my desk. Ambiguity gone. Habits like read more or eat better are worthy causes, but these goals do not provide instruction on how and when to act. Be specific and clear: After I close the door. After I brush my teeth. After I sit down at the table. The specificity is important. The more tightly bound your new habit is to a specific cue, the better the odds are that you will notice when the time comes to act. The 1st Law of Behavior Change is to make it obvious. Strategies like implementation intentions and habit stacking are among the most practical ways to create obvious cues for your habits and design a clear plan for when and where to take action.    Chapter Summary The 1st Law of Behavior Change is make it obvious.     The two most common cues are time and location. Creating an implementation intention is a strategy you can use to pair a new habit with a specific time and location. The implementation intention formula is: I will [BEHAVIOR] at [TIME] in [LOCATION]. Habit stacking is a strategy you can use to pair a new habit with a current habit.  The habit stacking formula is: After [CURRENT HABIT], I will [NEW HABIT].   6 Motivation Is Overrated; Environment Often Matters More ANNE THORNDIKE, A primary care physician at Massachusetts General Hospital in Boston, had a crazy idea. She believed she could improve the eating habits of thousands of hospital staff and visitors without changing their willpower or motivation in the slightest way. In fact, she didnt plan on talking to them at all. Thorndike and her colleagues designed a six-month study to alter the choice architecture of the hospital cafeteria. They started by changing how drinks were arranged in the room. Originally, the refrigerators located next to the cash registers in the cafeteria were filled with only soda. The researchers added water as an option to each one. Additionally, they placed baskets of bottled water next to the food stations throughout the room. Soda was still in the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of clear and specific cues in habit formation, emphasizing the 1st Law of Behavior Change: make it obvious. Two common cues are time and location, and strategies like implementation intentions and habit stacking can help create these cues. Implementation intentions involve pairing a new habit with a specific time and location, while habit stacking involves pairing a new habit with a current one. The text also mentions a study by Anne Thorndike, a primary care physician, who aimed to improve eating habits in a hospital by altering the choice architecture of the cafeteria, demonstrating the influence of environment on behavior.

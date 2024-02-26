@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the reward is experienced for the first time. The next time around (B), dopamine rises before taking action, immediately after a cue is recognized. This spike leads to a feeling of desire and a craving to take action whenever the cue is spotted. Once a habit is learned, dopamine will not rise when a reward is experienced because you already expect the reward. However, if you see a cue and expect a reward, but do not get one, then dopamine will drop in disappointment (C). The sensitivity of the dopamine response can clearly be seen when a reward is provided late (D). First, the cue is identified and dopamine rises as a craving builds. Next, a response is taken but the reward does not come as quickly as expected and dopamine begins to drop. Finally, when the reward comes a little later than you had hoped, dopamine spikes again. It is as if the brain is saying, See! I knew I was right. Dont forget to repeat this action next time.   Your brain has far more neural circuitry allocated for wanting rewards than for liking them. The wanting centers in the brain are large: the brain stem, the nucleus accumbens, the ventral tegmental area, the dorsal striatum, the amygdala, and portions of the prefrontal cortex. By comparison, the liking centers of the brain are much smaller. They are often referred to as hedonic hot spots and are distributed like tiny islands throughout the brain. For instance, researchers have found that 100 percent of the nucleus accumbens is activated during wanting. Meanwhile, only 10 percent of the structure is activated during liking. The fact that the brain allocates so much precious space to the regions responsible for craving and desire provides further evidence of the crucial role these processes play. Desire is the engine that drives behavior. Every action is taken because of the anticipation that precedes it. It is the craving that leads to the response. These insights reveal the importance of the 2nd Law of Behavior Change. We need to make
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the role of dopamine in habit formation and the brain's response to rewards. Dopamine levels rise when a cue is recognized, leading to a desire to take action. Once a habit is formed, dopamine doesn't increase when a reward is received, but drops if an expected reward doesn't materialize. The brain's response to delayed rewards also involves dopamine fluctuations. The text also highlights that the brain has more neural circuitry dedicated to wanting rewards than liking them, with larger areas involved in desire and smaller 'hedonic hot spots' associated with pleasure. This underlines the importance of anticipation in driving behavior and the crucial role of craving in leading to a response, reinforcing the 2nd Law of Behavior Change.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Be Working: A Conversation with Neuroscientist Jaak Panksepp, Huffington Post, December 6, 2017, http://www.huffingtonpost.com/karin-badt/depressed-your-seekingsy_b_3616967.html. the reward system that is activated in the brain: Wolfram Schultz, Multiple Reward Signals in the Brain, Nature Reviews Neuroscience 1, no. 3 (2000), doi:10.1038/35044563.     100 percent of the nucleus accumbens is activated during wanting: Kent Berridge, conversation with author, March 8, 2017. Byrne hacked his stationary bike: Hackster Staff, Netflix and Cycle!, Hackster, July 12, 2017, https://blog.hackster.io/netflix-and-cycle-1734d0179deb. eliminating obesity one Netflix binge at a time: Cycflix: Exercise Powered Entertainment, Roboro, July 8, 2017, https://www.youtube.com/watch?v=-nc0irLBiY. We see Thursday night as a viewership opportunity: Jeanine Poggi, Shonda Rhimes Looks Beyond ABCs Nighttime Soaps, AdAge, May 16, 2016, http://adage.com/article/special-report-tv-upfront/shonda-rhimes-abc-soaps/303996. more probable behaviors will reinforce less probable behaviors: Jon E. Roeckelein, Dictionary of Theories, Laws, and Concepts in Psychology (Westport, CT: Greenwood Press, 1998), 384. CHAPTER 9 A genius is not born, but is educated and trained: Harold Lundstrom, Father of 3 Prodigies Says Chess Genius Can Be Taught, Deseret News, December 25, 1992, https://www.deseretnews.com/article/266378/FATHER-OF-3-PRODIGIES-SAYSCHESS-GENIUS-CAN-BE-TAUGHT.html?pg=all. We imitate the habits of three groups: Peter J. Richerson and Robert Boyd, Not by Genes Alone: How Culture Transformed Human Evolution (Chicago: University of Chicago Press, 2006). a persons chances of becoming obese increased by 57 percent: Nicholas A. Christakis and James H. Fowler, The Spread of Obesity in a Large Social Network over 32 Years, New England Journal of Medicine 357, no. 4 (2007), doi:10.1056/nejmsa066082. J. A. Stockman, The Spread of Obesity in a Large Social Network over 32 Years,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various aspects of neuroscience, psychology, and social behavior. It highlights the brain's reward system, specifically the activation of the nucleus accumbens during desire. It also mentions a unique approach to combating obesity by combining exercise with Netflix binging. The text further discusses the concept of viewership opportunities on Thursday nights and the reinforcement of less probable behaviors by more probable ones. It emphasizes that genius is not innate but can be nurtured through education and training, and that people often imitate the habits of three groups. Lastly, it notes a study that found a person's chances of becoming obese increase by 57% due to social influences.

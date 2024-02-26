@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+build better habits is to join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group. The normal behavior of the tribe often overpowers the desired behavior of the individual. Most days, wed rather be wrong with the crowd than be right by ourselves. If a behavior can get us approval, respect, and praise, we find it attractive.   10 How to Find and Fix the Causes of Your Bad Habits  I  N LATE 2012, I was sitting in an old apartment just a few blocks from  Istanbuls most famous street, Istiklal Caddesi. I was in the middle of a four-day trip to Turkey and my guide, Mike, was relaxing in a wornout armchair a few feet away. Mike wasnt really a guide. He was just a guy from Maine who had been living in Turkey for five years, but he offered to show me around while I was visiting the country and I took him up on it. On this particular night, I had been invited to dinner with him and a handful of his Turkish friends. There were seven of us, and I was the only one who hadnt, at some point, smoked at least one pack of cigarettes per day. I asked one of the Turks how he got started. Friends, he said. It always starts with your friends. One friend smokes, then you try it. What was truly fascinating was that half of the people in the room had managed to quit smoking. Mike had been smoke-free for a few years at that point, and he swore up and down that he broke the habit because of a book called Allen Carrs Easy Way to Stop Smoking. It frees you from the mental burden of smoking, he said. It tells you: Stop lying to yourself. You know you dont actually want to smoke. You know you dont really enjoy this. It helps you feel like youre not the victim anymore. You start to realize that you dont need to smoke. I had never tried a cigarette, but I took a look at the book afterward out of curiosity. The author employs an interesting strategy to help     smokers eliminate their cravings. He
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the influence of social groups on individual behavior, particularly in forming habits. It suggests that joining a group where the desired behavior is the norm can help in developing better habits. The text also highlights the power of social approval in shaping behavior. It shares a personal anecdote about a trip to Turkey, where the author observed the impact of peer influence on smoking habits. The story also introduces the book "Allen Carr's Easy Way to Stop Smoking" as a tool that helped some individuals quit smoking by changing their mindset and eliminating their cravings.

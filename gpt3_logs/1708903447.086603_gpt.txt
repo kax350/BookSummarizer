@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+learn, one of the most consistent findings is that the way to maintain motivation and achieve peak levels of desire is to work on tasks of just manageable difficulty. The human brain loves a challenge, but only if it is within an optimal zone of difficulty. If you love tennis and try to play a serious match against a four-year-old, you will quickly become bored. Its too easy. Youll win every point. In contrast, if you play a professional tennis player like Roger Federer or Serena Williams, you will quickly lose motivation because the match is too difficult. Now consider playing tennis against someone who is your equal. As the game progresses, you win a few points and you lose a few. You have a good chance of winning, but only if you really try. Your focus narrows, distractions fade away, and you find yourself fully invested in the task at hand. This is a challenge of just manageable difficulty and it is a prime example of the Goldilocks Rule.     The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right.  THE GOLDILOCKS RULE  FIGURE 15: Maximum motivation occurs when facing a challenge of just manageable difficulty. In psychology research this is known as the Yerkes Dodson law, which describes the optimal level of arousal as the midpoint between boredom and anxiety.  Martins comedy career is an excellent example of the Goldilocks Rule in practice. Each year, he expanded his comedy routinebut only by a minute or two. He was always adding new material, but he also kept a few jokes that were guaranteed to get laughs. There were just enough victories to keep him motivated and just enough mistakes to keep him working hard. When youre starting a new habit, its important to keep the behavior as easy as possible so you can stick with it even when conditions arent perfect. This is an idea we covered in detail while discussing the 3rd Law of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of the Goldilocks Rule, which states that humans are most motivated when working on tasks that are neither too easy nor too hard, but just at the edge of their current abilities. This principle, also known as the Yerkes Dodson law in psychology, suggests that the optimal level of arousal lies between boredom and anxiety. The text uses the example of a tennis match and a comedian's career to illustrate this rule. When starting a new habit, it's important to keep the task manageable to maintain motivation and progress, even under imperfect conditions.

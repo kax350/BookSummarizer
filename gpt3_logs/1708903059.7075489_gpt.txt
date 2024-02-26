@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+you need to make sales calls: 1. After I get back from my lunch break, I will call three potential clients (need). 2. After I call three potential clients, I will check ESPN (want). If you want to check Facebook, but you need to exercise more: 1. After I pull out my phone, I will do ten burpees (need). 2. After I do ten burpees, I will check Facebook (want). The hope is that eventually youll look forward to calling three clients or doing ten burpees because it means you get to read the latest sports news or check Facebook. Doing the thing you need to do means you get to do the thing you want to do. We began this chapter by discussing supernormal stimuli, which are heightened versions of reality that increase our desire to take action. Temptation bundling is one way to create a heightened version of any habit by connecting it with something you already want. Engineering a truly irresistible habit is a hard task, but this simple strategy can be     employed to make nearly any habit more attractive than it would be otherwise.    Chapter Summary The 2nd Law of Behavior Change is make it attractive. The more attractive an opportunity is, the more likely it is to become habit-forming. Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.  It is the anticipation of a rewardnot the fulfillment of itthat gets us to take action. The greater the anticipation, the greater the dopamine spike. Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.   9 The Role of Family and Friends in Shaping Your Habits  I  N 1965, a Hungarian man named Laszlo Polgar wrote a series of  strange letters to a woman named Klara.  Laszlo was a firm believer in hard work. In fact, it was all he believed in: he completely rejected the idea of innate talent. He claimed that with deliberate practice and the development of good habits, a child could become a genius in
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of 'temptation bundling', a strategy to make habits more attractive by pairing an action you want to do with an action you need to do. This is based on the 2nd Law of Behavior Change, which states that the more attractive an opportunity is, the more likely it is to become habit-forming. Habits are driven by a dopamine feedback loop, with anticipation of a reward, not the fulfillment of it, driving action. The greater the anticipation, the greater the dopamine spike. The text also introduces the story of Laszlo Polgar, who believed in the power of hard work and good habits over innate talent.

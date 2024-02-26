@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+writing about why avoiding stupidity is easier than seeking brilliance. Shane Parrish, Avoiding Stupidity Is Easier Than Seeking Brilliance, Farnam Street, June 2014, https://www.fs.blog/2014/06/avoiding-stupidity. those percentage points represent millions in tax revenue: Owain Service et al., East: Four Simple Ways to Apply Behavioural Insights, Behavioural Insights Team, 2015, http://38r8om2xjhhl25mw24492dir.wpengine.netdna-cdn.com/wpcontent/uploads/2015/07/BIT-Publication-EAST_FA_WEB.pdf. Nuckols dialed in his cleaning habits: Oswald Nuckols is an alias, used by request. perfect time to clean the toilet: Saul_Panzer_NY, [Question] What One Habit Literally Changed Your Life? Reddit, June 5, 2017, https://www.reddit.com/r/get disciplined/comments/6fgqbv/question_what_one_habit_literally_changed_your/diieswq. CHAPTER 13 arsenal of routines: Twyla Tharp and Mark Reiter, The Creative Habit: Learn It and Use It for Life: A Practical Guide (New York: Simon and Schuster, 2006). 40 to 50 percent of our actions on any given day are done out of habit: Wendy Wood, Habits Across the Lifespan, 2006, https://www.researchgate.net/publication/315552294_Habits_Across_the_Lifespan. habits you follow without thinking: Benjamin Gardner, A Review and Analysis of the Use of Habit in Understanding, Predicting and Influencing Health-Related Behaviour, Health Psychology Review 9, no. 3 (2014), doi:10.1080/17437199.2013.876238.  decisive moments: Shoutout to Henri Cartier-Bresson, one of the greatest street photographers of all time, who coined the term decisive moment, but for an entirely different purpose: capturing amazing images at just the right time. the Two-Minute Rule: Hat tip to David Allen, whose version of the Two-Minute Rule states, If it takes less than two minutes, then do it now. For more, see David Allen, Getting Things Done (New York: Penguin, 2015). power-down habit: Author Cal Newport uses a shutdown ritual in which he does a last email inbox check,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of avoiding stupidity over seeking brilliance, as suggested by Shane Parrish. It also highlights the significance of behavioral insights in generating tax revenue. The text mentions a life-changing habit of cleaning, shared by an individual under the alias Oswald Nuckols. It further discusses the concept of routines and habits, stating that 40 to 50 percent of our daily actions are habitual. The text also introduces the term "decisive moments" coined by street photographer Henri Cartier-Bresson, and the "Two-Minute Rule" by David Allen, which suggests accomplishing tasks that take less than two minutes immediately. Lastly, it mentions the power-down habit used by author Cal Newport, which involves a final email check.

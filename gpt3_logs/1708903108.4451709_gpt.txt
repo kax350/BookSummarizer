@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+experience, and determine the appropriate response. This all happens in an instant, but it plays a crucial role in your habits because every action is preceded by a prediction. Life feels reactive, but it is actually predictive. All day long, you are making your best guess of how to act given what youve just seen and what has worked for you in the past. You are endlessly predicting what will happen in the next moment. Our behavior is heavily dependent on these predictions. Put another way, our behavior is heavily dependent on how we interpret the events that happen to us, not necessarily the objective reality of the events themselves. Two people can look at the same cigarette, and one feels the urge to smoke while the other is repulsed by the smell. The same cue can spark a good habit or a bad habit depending on your prediction. The cause of your habits is actually the prediction that precedes them. These predictions lead to feelings, which is how we typically describe a cravinga feeling, a desire, an urge. Feelings and emotions transform the cues we perceive and the predictions we make into a signal that we can apply. They help explain what we are currently sensing. For instance, whether or not you realize it, you are noticing how warm or cold you feel right now. If the temperature drops by one degree, you probably wont do anything. If the temperature drops ten degrees, however, youll feel cold and put on another layer of clothing. Feeling cold was the signal that prompted you to act. You have been sensing the cues the entire time, but it is only when you predict that you would be better off in a different state that you take action.     A craving is the sense that something is missing. It is the desire to change your internal state. When the temperature falls, there is a gap between what your body is currently sensing and what it wants to be sensing. This gap between your current state and your desired state provides a reason to act. Desire is the difference
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the predictive nature of human behavior and its influence on habits. It explains that our actions are based on predictions made from past experiences and current observations. These predictions, which can vary from person to person, lead to feelings or cravings that prompt us to act. For instance, the same cue can trigger different reactions in different people based on their individual interpretations. The text also introduces the concept of a craving as a sense of something missing, a desire to change one's internal state. This gap between the current and desired state provides a reason to act.

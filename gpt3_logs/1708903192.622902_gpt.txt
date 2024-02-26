@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+driving your car or riding your bike. The moment you decide between starting your homework or grabbing the video game controller. These choices are a fork in the road.    DECISIVE MOMENTS   FIGURE 14: The difference between a good day and a bad day is often a few productive and healthy choices made at decisive moments. Each one is like a fork in the road, and these choices stack up throughout the day and can ultimately lead to very different outcomes.  Decisive moments set the options available to your future self. For instance, walking into a restaurant is a decisive moment because it determines what youll be eating for lunch. Technically, you are in control of what you order, but in a larger sense, you can only order an item if it is on the menu. If you walk into a steakhouse, you can get a sirloin or a rib eye, but not sushi. Your options are constrained by whats available. They are shaped by the first choice. We are limited by where our habits lead us. This is why mastering the decisive moments throughout your day is so important. Each day is made up of many moments, but it is really a few habitual choices that determine the path you take. These little choices stack up, each one setting the trajectory for how you spend the next chunk of time.     Habits are the entry point, not the end point. They are the cab, not the gym.  THE TWO-MINUTE RULE Even when you know you should start small, its easy to start too big. When you dream about making a change, excitement inevitably takes over and you end up trying to do too much too soon. The most effective way I know to counteract this tendency is to use the Two-Minute Rule, which states, When you start a new habit, it should take less than two minutes to do. Youll find that nearly any habit can be scaled down into a twominute version: Read before bed each night becomes Read one page. Do thirty minutes of yoga becomes Take out my yoga mat. Study for class becomes Open my notes.  Fold the laundry
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of decisive moments and their impact on our daily lives. These moments, often involving small, habitual choices, can significantly influence the trajectory of our day and our overall productivity. The choices we make can limit our future options, as they are constrained by what's available at the time. The text also introduces the "Two-Minute Rule" as a strategy to counteract the tendency to take on too much when starting a new habit. This rule suggests that any new habit should take less than two minutes to do, thereby making it easier to start and maintain.

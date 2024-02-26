@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and Peter Milner, two neuroscientists at McGill University, decided to implant an electrode deep into the center of a rats brain. The precise placement of the electrode was largely happenstance; at the time, the geography of the mind remained a mystery. But Olds and Milner got lucky. They inserted the needle right next to the nucleus accumbens (NAcc), a part of the brain that generates pleasurable feelings. Whenever you eat a piece of chocolate cake, or listen to a favorite pop song, or watch your favorite team win the World Series, it is your NAcc that helps you feel so happy. But Olds and Milner quickly discovered that too much pleasure can be fatal. They placed the electrodes in several rodents brains and then ran a small current into each wire,     making the NAccs continually excited. The scientists noticed that the rodents lost interest in everything. They stopped eating and drinking. All courtship behavior ceased. The rats would just huddle in the corners of their cages, transfixed by their bliss. Within days, all of the animals had perished. They died of thirst. For more, see Jonah Lehrer, How We Decide (Boston: Houghton Mifflin Harcourt, 2009). neurological processes behind craving and desire: James Olds and Peter Milner, Positive Reinforcement Produced by Electrical Stimulation of Septal Area and Other Regions of Rat Brain, Journal of Comparative and Physiological Psychology 47, no. 6 (1954), doi:10.1037/h0058775. rats lost all will to live: Qun-Yong Zhou and Richard D. Palmiter, Dopamine-Deficient Mice Are Severely Hypoactive, Adipsic, and Aphagic, Cell 83, no. 7 (1995), doi:10.1016/00928674(95)901450. without desire, action stopped: Kent C. Berridge, Isabel L. Venier, and Terry E. Robinson, Taste Reactivity Analysis of 6-Hydroxydopamine-Induced Aphagia: Implications for Arousal and Anhedonia Hypotheses of Dopamine Function, Behavioral Neuroscience 103, no. 1 (1989), doi:10.1037//07357044.103.1.36. the mice developed a craving so strong: Ross
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Neuroscientists James Olds and Peter Milner from McGill University conducted an experiment where they implanted electrodes into the brains of rats, specifically near the nucleus accumbens (NAcc), a region associated with pleasure. When they stimulated the NAcc, the rats experienced continuous pleasure, which led to them losing interest in all other activities, including eating and drinking. This resulted in the rats' death from thirst. The experiment demonstrated that an overload of pleasure can be detrimental, leading to a lack of desire for essential survival activities.

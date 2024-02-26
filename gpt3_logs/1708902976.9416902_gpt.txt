@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+certain actions because there is no obvious cue to trigger the behavior. Its easy not to practice the guitar when its tucked away in the closet. Its easy not to read a book when the bookshelf is in the corner of the guest room. Its easy not to take your vitamins when they are out of sight in the pantry. When the cues that spark a habit are subtle or hidden, they are easy to ignore. By comparison, creating obvious visual cues can draw your attention toward a desired habit. In the early 1990s, the cleaning staff at Schiphol Airport in Amsterdam installed a small sticker that looked like a fly near the center of each urinal. Apparently, when men stepped     up to the urinals, they aimed for what they thought was a bug. The stickers improved their aim and significantly reduced spillage around the urinals. Further analysis determined that the stickers cut bathroom cleaning costs by 8 percent per year. Ive experienced the power of obvious cues in my own life. I used to buy apples from the store, put them in the crisper in the bottom of the refrigerator, and forget all about them. By the time I remembered, the apples would have gone bad. I never saw them, so I never ate them. Eventually, I took my own advice and redesigned my environment. I bought a large display bowl and placed it in the middle of the kitchen counter. The next time I bought apples, that was where they wentout in the open where I could see them. Almost like magic, I began eating a few apples each day simply because they were obvious rather than out of sight. Here are a few ways you can redesign your environment and make the cues for your preferred habits more obvious: If you want to remember to take your medication each night, put your pill bottle directly next to the faucet on the bathroom counter. If you want to practice guitar more frequently, place your guitar stand in the middle of the living room. If you want to remember to send more thank-you notes, keep a stack of stationery on your desk.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of visual cues in habit formation and maintenance. It suggests that habits are easier to ignore when their triggers are subtle or hidden, and conversely, more likely to be followed when cues are obvious and visible. This is illustrated with examples such as the use of stickers in urinals at Schiphol Airport, which improved cleanliness and reduced cleaning costs, and the author's personal experience of eating more apples by placing them in a visible location. The text concludes by offering suggestions on how to make cues for preferred habits more obvious, such as placing medication next to the bathroom faucet, keeping a guitar in the living room, or keeping stationery on the desk to remember to send thank-you notes.

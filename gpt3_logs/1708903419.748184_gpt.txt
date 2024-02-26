@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+wrong habit and life is a struggle. How do you pick the right habit? The first step is something we covered in the 3rd Law: make it easy. In many cases, when people pick the wrong habit, it simply means they picked a habit that was too     difficult. When a habit is easy, you are more likely to be successful. When you are successful, you are more likely to feel satisfied. However, there is another level to consider. In the long-run, if you continue to advance and improve, any area can become challenging. At some point, you need to make sure youre playing the right game for your skillset. How do you figure that out? The most common approach is trial and error. Of course, theres a problem with this strategy: life is short. You dont have time to try every career, date every eligible bachelor, or play every musical instrument. Thankfully, there is an effective way to manage this conundrum, and it is known as the explore/exploit trade-off. In the beginning of a new activity, there should be a period of exploration. In relationships, its called dating. In college, its called the liberal arts. In business, its called split testing. The goal is to try out many possibilities, research a broad range of ideas, and cast a wide net. After this initial period of exploration, shift your focus to the best solution youve foundbut keep experimenting occasionally. The proper balance depends on whether youre winning or losing. If you are currently winning, you exploit, exploit, exploit. If you are currently losing, you continue to explore, explore, explore. In the long-run it is probably most effective to work on the strategy that seems to deliver the best results about 80 to 90 percent of the time and keep exploring with the remaining 10 to 20 percent. Google famously asks employees to spend 80 percent of the workweek on their official job and 20 percent on projects of their choice, which has led to the creation of blockbuster products like AdWords and Gmail. The optimal
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of choosing the right habits and how to navigate this process. It suggests that the first step is to make the habit easy, as this increases the likelihood of success and satisfaction. However, as one continues to improve, challenges may arise, necessitating the selection of habits that align with one's skillset. The text proposes the explore/exploit trade-off as a solution to this issue. Initially, one should explore various possibilities, akin to dating in relationships, liberal arts in college, or split testing in business. After identifying the best solution, the focus should shift to exploiting it while still occasionally exploring. The balance between exploration and exploitation depends on whether one is succeeding or failing. The text recommends focusing 80-90% of the time on the most effective strategy and spending the remaining 10-20% on exploration, citing Google's 80/20 workweek policy as an example.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+are walking around with the same hardware as your Paleolithic ancestors. It is only recentlyduring the last five hundred years or sothat society has shifted to a predominantly delayed-return environment.*     Compared to the age of the brain, modern society is brand-new. In the last one hundred years, we have seen the rise of the car, the airplane, the television, the personal computer, the internet, the smartphone, and Beyonc. The world has changed much in recent years, but human nature has changed little. Similar to other animals on the African savannah, our ancestors spent their days responding to grave threats, securing the next meal, and taking shelter from a storm. It made sense to place a high value on instant gratification. The distant future was less of a concern. And after thousands of generations in an immediate-return environment, our brains evolved to prefer quick payoffs to long-term ones. Behavioral economists refer to this tendency as time inconsistency. That is, the way your brain evaluates rewards is inconsistent across time.* You value the present more than the future. Usually, this tendency serves us well. A reward that is certain right now is typically worth more than one that is merely possible in the future. But occasionally, our bias toward instant gratification causes problems. Why would someone smoke if they know it increases the risk of lung cancer? Why would someone overeat when they know it increases their risk of obesity? Why would someone have unsafe sex if they know it can result in sexually transmitted disease? Once you understand how the brain prioritizes rewards, the answers become clear: the consequences of bad habits are delayed while the rewards are immediate. Smoking might kill you in ten years, but it reduces stress and eases your nicotine cravings now. Overeating is harmful in the long run but appetizing in the moment. Sexsafe or notprovides pleasure right away. Disease and infection wont show up for days or weeks, even
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The human brain, largely unchanged from our Paleolithic ancestors, is wired to prioritize immediate rewards over long-term ones, a phenomenon known as time inconsistency. This preference for instant gratification, while beneficial in certain situations, can lead to harmful behaviors when the negative consequences are delayed. Examples include smoking, which provides immediate stress relief but increases the risk of lung cancer, overeating, which is immediately satisfying but can lead to obesity, and unsafe sex, which offers immediate pleasure but can result in sexually transmitted diseases. Understanding this bias towards immediate rewards can help explain why people engage in behaviors that they know are harmful in the long run.

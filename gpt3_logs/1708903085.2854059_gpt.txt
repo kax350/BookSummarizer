@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+research subjects would often change their minds and go with the crowd rather than believe their own eyes.  The experiment always began the same. First, there would be some easy trials where everyone agreed on the correct line. After a few rounds, the participants were shown a test that was just as obvious as the previous ones, except the actors in the room would select an intentionally incorrect answer. For example, they would respond A to the comparison shown in Figure 10. Everyone would agree that the lines were the same even though they were clearly different. The subject, who was unaware of the ruse, would immediately become bewildered. Their eyes would open wide. They would laugh nervously to themselves. They would double-check the reactions of other participants. Their agitation would grow as one person after another delivered the same incorrect response. Soon, the subject began to doubt their own eyes. Eventually, they delivered the answer they knew in their heart to be incorrect.     Asch ran this experiment many times and in many different ways. What he discovered was that as the number of actors increased, so did the conformity of the subject. If it was just the subject and one actor, then there was no effect on the persons choice. They just assumed they were in the room with a dummy. When two actors were in the room with the subject, there was still little impact. But as the number of people increased to three actors and four and all the way to eight, the subject became more likely to second-guess themselves. By the end of the experiment, nearly 75 percent of the subjects had agreed with the group answer even though it was obviously incorrect. Whenever we are unsure how to act, we look to the group to guide our behavior. We are constantly scanning our environment and wondering, What is everyone else doing? We check reviews on Amazon or Yelp or TripAdvisor because we want to imitate the best buying, eating, and travel habits. Its usually a smart
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses an experiment conducted by Asch, which revealed that individuals often conform to group opinions, even when they contradict their own observations. The experiment involved actors intentionally choosing incorrect answers in a simple line comparison task, leading to the test subject doubting their own perception and eventually agreeing with the group's incorrect consensus. Asch found that the level of conformity increased with the number of actors present. The experiment highlights the human tendency to look to the group for guidance, especially in uncertain situations, a behavior that extends to everyday activities like checking online reviews before making decisions.

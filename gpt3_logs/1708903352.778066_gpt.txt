@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+soon as actions incur an immediate consequence, behavior begins to change. Customers pay their bills on time when they are charged a late fee. Students show up to class when their grade is linked to attendance. Well jump through a lot of hoops to avoid a little bit of immediate pain. There is, of course, a limit to this. If youre going to rely on punishment to change behavior, then the strength of the punishment must match the relative strength of the behavior it is trying to correct. To be productive, the cost of procrastination must be greater than the cost of action. To be healthy, the cost of laziness must be greater than the cost of exercise. Getting fined for smoking in a restaurant or failing     to recycle adds consequence to an action. Behavior only shifts if the punishment is painful enough and reliably enforced. In general, the more local, tangible, concrete, and immediate the consequence, the more likely it is to influence individual behavior. The more global, intangible, vague, and delayed the consequence, the less likely it is to influence individual behavior. Thankfully, there is a straightforward way to add an immediate cost to any bad habit: create a habit contract.  THE HABIT CONTRACT The first seat belt law was passed in New York on December 1, 1984. At the time, just 14 percent of people in the United States regularly wore a seat beltbut that was all about to change. Within five years, over half of the nation had seat belt laws. Today, wearing a seat belt is enforceable by law in forty-nine of the fifty states. And its not just the legislation, the number of people wearing seat belts has changed dramatically as well. In 2016, over 88 percent of Americans buckled up each time they got in a car. In just over thirty years, there was a complete reversal in the habits of millions of people. Laws and regulations are an example of how government can change our habits by creating a social contract. As a society, we collectively agree to abide by
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Behavior change is often driven by immediate consequences. For instance, customers pay bills on time to avoid late fees, and students attend class when grades are tied to attendance. The strength of the punishment should match the strength of the behavior it aims to correct. For example, the cost of procrastination should be greater than the cost of action for productivity to increase. The more immediate and tangible the consequence, the more likely it is to influence behavior. One way to add an immediate cost to a bad habit is through a habit contract. This is exemplified by the seat belt law passed in New York in 1984, which led to a dramatic increase in seat belt usage across the United States, demonstrating how laws and regulations can effectively change societal habits.

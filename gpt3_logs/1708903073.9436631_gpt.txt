@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+you follow the habits of your culture without thinking, without questioning, and sometimes without remembering. As the French philosopher Michel de Montaigne wrote, The customs and practices of life in society sweep us along. Most of the time, going along with the group does not feel like a burden. Everyone wants to belong. If you grow up in a family that rewards you for your chess skills, playing chess will seem like a very attractive thing to do. If you work in a job where everyone wears expensive suits, then youll be inclined to splurge on one as well. If all of your friends are sharing an inside joke or using a new phrase, youll want to do it, too, so they know that you get it. Behaviors are attractive when they help us fit in. We imitate the habits of three groups in particular: 1. The close. 2. The many. 3. The powerful. Each group offers an opportunity to leverage the 2nd Law of Behavior Change and make our habits more attractive.  1. Imitating the Close Proximity has a powerful effect on our behavior. This is true of the physical environment, as we discussed in Chapter 6, but it is also true of the social environment. We pick up habits from the people around us. We copy the way our parents handle arguments, the way our peers flirt with one another,     the way our coworkers get results. When your friends smoke pot, you give it a try, too. When your wife has a habit of double-checking that the door is locked before going to bed, you pick it up as well. I find that I often imitate the behavior of those around me without realizing it. In conversation, Ill automatically assume the body posture of the other person. In college, I began to talk like my roommates. When traveling to other countries, I unconsciously imitate the local accent despite reminding myself to stop. As a general rule, the closer we are to someone, the more likely we are to imitate some of their habits. One groundbreaking study tracked twelve thousand people for thirty-two years and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the influence of societal norms and close relationships on our habits and behaviors. It suggests that we often unconsciously adopt the habits of our culture, family, and peers, driven by a desire to fit in. The author identifies three groups we particularly imitate: those close to us, the majority, and the powerful. This imitation can be seen in various aspects of life, from language and body posture to lifestyle choices. The proximity of individuals, both in a physical and social sense, significantly impacts our behavior. The text also references the 2nd Law of Behavior Change, suggesting that these imitations can be leveraged to make our habits more attractive.

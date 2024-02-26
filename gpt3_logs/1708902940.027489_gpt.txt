@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+new behavior on top. This is called habit stacking. Habit stacking is a special form of an implementation intention. Rather than pairing your new habit with a particular time and location, you pair it with a current habit. This method, which was created by BJ Fogg as part of his Tiny Habits program, can be used to design an obvious cue for nearly any habit.* The habit stacking formula is: After [CURRENT HABIT], I will [NEW HABIT]. For example: Meditation. After I pour my cup of coffee each morning, I will meditate for one minute. Exercise. After I take off my work shoes, I will immediately change into my workout clothes.  Gratitude. After I sit down to dinner, I will say one thing Im grateful for that happened today. Marriage. After I get into bed at night, I will give my partner a kiss. Safety. After I put on my running shoes, I will text a friend or family member where I am running and how long it will take. The key is to tie your desired behavior into something you already do each day. Once you have mastered this basic structure, you can begin to create larger stacks by chaining small habits together. This allows you to take advantage of the natural momentum that comes from one behavior leading into the nexta positive version of the Diderot Effect.       HABIT STACKING  FIGURE 7: Habit stacking increases the likelihood that youll stick with a habit by stacking your new behavior on top of an old one. This process can be repeated to chain numerous habits together, each one acting as the cue for the next.  Your morning routine habit stack might look like this: 1. After I pour my morning cup of coffee, I will meditate for sixty seconds. 2. After I meditate for sixty seconds, I will write my to-do list for the day. 3. After I write my to-do list for the day, I will immediately begin my first task. Or, consider this habit stack in the evening:   1. After I finish eating dinner, I will put my plate directly into the dishwasher. 2. After I put my dishes away, I will
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Habit stacking, a concept developed by BJ Fogg, involves pairing a new habit with an existing one to create an obvious cue for the new behavior. The formula is: After [CURRENT HABIT], I will [NEW HABIT]. Examples include meditating after pouring morning coffee, or exercising after removing work shoes. The key is to link the desired behavior to a daily routine. This method can be expanded by chaining small habits together, creating a momentum of positive behaviors. Habit stacking increases the likelihood of maintaining a habit by integrating it into an existing routine, and can be used to create complex chains of habits.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Seinfeld, Jerry, 19697 self-control controlling the environment to achieve, 9293 cue-induced wanting, 9394  difficulty of, 262 riding and smoking example of controlling your environment, 93 as a short-term strategy, 95 the senses Safeguard soap example, 18485 toothpaste example of a satisfying behavior change, 186  vision, 84, 8587 Wrigley chewing gum example, 185 showing up, mastering the art of, 16364, 201202, 236 Skinner, B. F., 910, 235n smoking, quitting, 32, 12526 social media, 17475  social norms    Aschs social conformity line experiments, 11820 downside of going along with the group, 12021 herd mentality, 115 imitation of others habits the close, 11618 the many, 11821 the powerful, 12122   solution phase of a habit loop, 5153 Sorites Paradox, 25152 starting a habit, 7172 Steele, Robert, 91  Stern, Hawkins, 83 success accepting where your strengths are, 21819 importance of feeling successful, 190 suffering, 262 suggestion impulse buying, 83 supernormal stimuli, 102 Suroweicki, James, 154 System 1 vs. System 2 thinking, 232n, 261  systems changes to solve problems, 25 as a cycle of continuous improvement, 2627  vs. goals, 2324 technology for automating a habit, 17375 social media, 17475 temptation bundling, 10811 3rd Law of Behavior Change (Make It Easy) agricultural expansion example of using the least effort, 14951  energy requirements and likelihood of action, 15152 friction associated with a behavior, 15258 garden hose example of reducing friction, 153 gateway habit, 163 Japanese factory example of addition by subtraction, 15455 making the cues of bad habits difficult, 16970 onetime actions that lead to better habits, 17274 Principle of Least Action, 151n  repetition as the key to habit formation, 14647 Two-Minute Rule, 16267 Twyla Tharp example of a daily ritual, 15960  Thorndike, Anne, 8182 Thorndike, Edward, 4344 time inconsistency, 18889 Tinbergen, Niko, 101102     toothpaste example of a satisfying behavior
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various aspects of habit formation and behavior change, referencing theories and examples from psychology and social science. It emphasizes the importance of self-control, environment manipulation, and cue-induced wanting in behavior modification. The text also discusses social norms and their influence on behavior, referencing Asch's social conformity experiments and the concept of herd mentality. The solution phase of a habit loop and the Sorites Paradox are also mentioned. The text further explores the role of success, suffering, and suggestion in habit formation, and contrasts System 1 and System 2 thinking. It highlights the importance of systems over goals, and the use of technology in automating habits. The concept of temptation bundling is introduced, along with the 3rd Law of Behavior Change, which suggests making habits easy to adopt. The text also discusses the role of repetition in habit formation and introduces the Two-Minute Rule.

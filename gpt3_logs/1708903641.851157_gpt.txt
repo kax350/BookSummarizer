@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+You have our permission to reprint any or all of the ceramics passage in your forthcoming book. In the end, I settled on publishing an adapted version, which combines their telling of the ceramics story with facts from the original source of Uelsmanns photography students. David Bayles and Ted Orland, Art & Fear: Observations on the Perils (and Rewards) of Artmaking (Santa Cruz, CA: Image Continuum Press, 1993), 29. As Voltaire once wrote: Voltaire, La Bgueule. Conte Moral (1772). long-term potentiation: Long-term potentiation was discovered by Terje Lmo in 1966. More precisely, he discovered that when a series of signals was repeatedly transmitted by the brain, there was a persistent effect that lasted afterward that made it easier for those signals to be transmitted in the future. Neurons that fire together wire together: Donald O. Hebb, The Organization of Behavior: A Neuropsychological Theory (New York: Wiley, 1949). In musicians, the cerebellum: S. Hutchinson, Cerebellar Volume of Musicians, Cerebral Cortex 13, no. 9 (2003), doi:10.1093/cercor/13.9.943.  Mathematicians, meanwhile, have increased gray matter: A. Verma, Increased Gray Matter Density in the Parietal Cortex of Mathematicians: A Voxel-Based Morphometry Study, Yearbook of Neurology and Neurosurgery 2008 (2008), doi:10.1016/s0513 5117(08)790835. When scientists analyzed the brains of taxi drivers in London: Eleanor A. Maguire et al., Navigation-Related Structural Change in the Hippocampi of Taxi Drivers, Proceedings of the National Academy of Sciences 97, no. 8 (2000), doi:10.1073/pnas.070039597; Katherine Woollett and Eleanor A. Maguire, Acquiring the Knowledge of Londons Layout Drives Structural Brain Changes, Current Biology 21, no. 24 (December 2011), doi:10.1016/j.cub.2011.11.018; Eleanor A. Maguire, Katherine Woollett, and Hugo J. Spiers, London Taxi Drivers and Bus Drivers: A Structural MRI and Neuropsychological Analysis, Hippocampus 16, no. 12 (2006),
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the adaptability of the brain, referencing various studies and theories. Terje Lmo discovered long-term potentiation in 1966, which is the brain's ability to strengthen signal transmissions over time. Donald O. Hebb's theory, "Neurons that fire together wire together," supports this. Studies have shown that specific brain areas can develop based on activities; musicians have a larger cerebellum, and mathematicians have increased gray matter in the parietal cortex. Research on London taxi drivers revealed that learning the city's layout led to structural brain changes.

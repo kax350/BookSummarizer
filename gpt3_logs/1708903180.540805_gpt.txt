@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+vegetables on weekends and pack them in containers, so you have easy access to healthy, ready-to-eat options during the week. These are simple ways to make the good habit the path of least resistance. You can also invert this principle and prime the environment to make bad behaviors difficult. If you find yourself watching too much television, for example, then unplug it after each use. Only plug it back     in if you can say out loud the name of the show you want to watch. This setup creates just enough friction to prevent mindless viewing. If that doesnt do it, you can take it a step further. Unplug the television and take the batteries out of the remote after each use, so it takes an extra ten seconds to turn it back on. And if youre really hardcore, move the television out of the living room and into a closet after each use. You can be sure youll only take it out when you really want to watch something. The greater the friction, the less likely the habit. Whenever possible, I leave my phone in a different room until lunch. When its right next to me, Ill check it all morning for no reason at all. But when it is in another room, I rarely think about it. And the friction is high enough that I wont go get it without a reason. As a result, I get three to four hours each morning when I can work without interruption. If sticking your phone in another room doesnt seem like enough, tell a friend or family member to hide it from you for a few hours. Ask a coworker to keep it at their desk in the morning and give it back to you at lunch. It is remarkable how little friction is required to prevent unwanted behavior. When I hide beer in the back of the fridge where I cant see it, I drink less. When I delete social media apps from my phone, it can be weeks before I download them again and log in. These tricks are unlikely to curb a true addiction, but for many of us, a little bit of friction can be the difference between sticking with a good habit or sliding into a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses strategies for promoting good habits and discouraging bad ones by manipulating one's environment. By preparing vegetables on weekends for easy access during the week, healthy eating becomes more convenient. Conversely, making undesirable behaviors more difficult can discourage them. For instance, unplugging the TV after each use or moving it into a closet can deter excessive watching. Similarly, leaving a phone in a different room can reduce unnecessary checking and provide uninterrupted work time. Small changes, like hiding beer in the back of the fridge or deleting social media apps, can also help curb unwanted behaviors. These strategies may not be effective for serious addictions, but they can make a significant difference in promoting healthier habits.

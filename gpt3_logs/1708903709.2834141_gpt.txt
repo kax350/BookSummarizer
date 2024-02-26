@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Research, Neuropsychopharmacology 42, no. 10 (2017), doi:10.1038/npp.2017.108. Google famously asks employees: Bharat Mediratta and Julie Bick, The Google Way: Give Engineers Room, New York Times, October 21, 2007, https://www.nytimes.com/2007/10/21/jobs/21pre.html. Flow is the mental state: Mihaly Csikszentmihalyi, Finding Flow: The Psychology of Engagement with Everyday Life (New York: Basic Books, 2008).     Everyone has at least a few areas: Scott Adams, Career Advice, Dilbert Blog, July 20, 2007, http://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html. CHAPTER 19 most successful comedians: Steve Martin, Born Standing Up: A Comics Life (Leicester, UK: Charnwood, 2008). 4 years as a wild success: Steve Martin, Born Standing Up: A Comics Life (Leicester, UK: Charnwood, 2008), 1. just manageable difficulty: Nicholas Hobbs, The Psychologist as Administrator, Journal of Clinical Psychology 15, no. 3 (1959), doi:10.1002/1097 4679(195907)15:33.0.co; 24; Gilbert Brim, Ambition: How We Manage Success and Failure Throughout Our Lives (Lincoln, NE: IUniverse.com, 2000); Mihaly Csikszentmihalyi, Finding Flow: The Psychology of Engagement with Everyday Life (New York: Basic Books, 2008). In psychology research this is known as the Yerkes-Dodson law: Robert Yerkes and John Dodson, The Relation of Strength of Stimulus to Rapidity of Habit Formation, Journal of Comparative Neurology and Psychology 18 (1908): 459482. 4 percent beyond your current ability: Steven Kotler, The Rise of Superman: Decoding the Science of Ultimate Human Performance (Boston: New Harvest, 2014). In his book, Kotler cites: Chip Conley, AI, September 2013. The real ratio, according to calculations performed by [Mihaly] Csikszentmihalyi, is 1:96. Men desire novelty to such an extent: Niccol Machiavelli, Peter Bondanella, and Mark Musa, The Portable Machiavelli (London: Penguin, 2005). variable reward: C. B. Ferster and B. F. Skinner, Schedules of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various concepts related to psychology and performance. It mentions the concept of 'flow', a mental state of engagement, as described by Mihaly Csikszentmihalyi. It also refers to the idea of 'just manageable difficulty', which is linked to the Yerkes-Dodson law in psychology, suggesting optimal performance occurs at a certain level of stress. The text also mentions a ratio of 1:96, calculated by Csikszentmihalyi, though the context is not clear. The text also refers to the desire for novelty, and the concept of 'variable reward'. It cites various sources, including Steve Martin's autobiography, Google's employee management strategy, and research in neuropsychopharmacology.

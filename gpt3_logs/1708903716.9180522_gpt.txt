@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+notes and adds his thoughts: Yuri Suguiyama, Training Katie Ledecky, American Swimming Coaches Association, November 30, 2016, https://swimmingcoach.org/training-katie-ledecky-by-yuri-suguiyama-curl-burkeswim-club-2012/. When comedian Chris Rock is preparing fresh material: Peter Sims, Innovate Like Chris Rock, Harvard Business Review, January 26, 2009, https://hbr.org/2009/01/innovate-like-chris-rock. Annual Review: Id like to thank Chris Guillebeau, who inspired me to start my own annual review process by publicly sharing his annual review each year at https://chrisguillebeau.com. keep your identity small: Paul Graham, Keep Your Identity Small, February 2009, http://www.paulgraham.com/identity.html.  CONCLUSION No one can be rich unless one coin can make him or her so: Desiderius Erasmus and Van Loon Hendrik Willem, The Praise of Folly (New York: Black, 1942), 31. Hat tip to Gretchen Rubin. I first read about this parable in her book, Better Than Before, and then tracked down the origin story. For more, see Gretchen Rubin, Better Than Before (New York: Hodder, 2016). LITTLE LESSONS FROM THE FOUR LAWS Happiness is the space between one desire: Caed (@caedbudris), Happiness is the space between desire being fulfilled and a new desire forming, Twitter, November 10, 2017, https://twitter.com/caedbudris/status/929042389930594304. happiness cannot be pursued, it must ensue: Frankls full quotation is as follows: Dont aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of ones personal dedication to a cause greater than oneself or as the by-product of ones surrender to a person other than oneself. For more, see Viktor E. Frankl, Mans Search for Meaning: An Introduction to Logotherapy (Boston: Beacon Press, 1962). He who has a why to live for can bear almost any how: Friedrich Nietzsche and Oscar
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various sources of inspiration and wisdom, including Yuri Suguiyama's training of swimmer Katie Ledecky, comedian Chris Rock's innovative approach to creating material, and Chris Guillebeau's public sharing of his annual review process. It also references Paul Graham's advice on keeping one's identity small, a parable from Desiderius Erasmus about wealth, and Gretchen Rubin's book, "Better Than Before". The text concludes with thoughts on happiness and success, citing a tweet by Caed, a quote from Viktor E. Frankl's "Man's Search for Meaning", and a philosophical statement from Friedrich Nietzsche.

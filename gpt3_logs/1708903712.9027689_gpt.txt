@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Reinforcement, 1957, doi:10.1037/10627000. For more, see B. F. Skinner, A Case History in Scientific Method, American Psychologist 11, no. 5 (1956): 226, doi:10.1037/h0047662. This variance leads to the greatest spike of dopamine: Matching Law shows that the rate of the reward schedule impacts behavior: Matching Law, Wikipedia, https://en.wikipedia.org/wiki/Matching_law.  CHAPTER 20 there is usually a slight decline in performance: K. Anders Ericsson and Robert Pool, Peak: Secrets from the New Science of Expertise (Boston: Mariner Books, 2017), 13. The pundits were saying: Pat Riley and Byron Laursen, Temporary Insanity and Other Management Techniques: The Los Angeles Lakers Coach Tells All, Los Angeles Times Magazine, April 19, 1987, http://articles.latimes.com/19870419/magazine/tm1669_1_lakers. a system that he called the Career Best Effort program or CBE: MacMullans book claims that Riley began his CBE program during the 19841985 NBA season. My research shows that the Lakers began tracking statistics of individual players at that time, but the CBE program as it is described here was first used in 19861987. If they succeeded, it would be a CBE: Larry Bird, Earvin Johnson, and Jackie MacMullan, When the Game Was Ours (Boston: Houghton Mifflin Harcourt, 2010). Sustaining an effort: Pat Riley and Byron Laursen, Temporary Insanity and Other Management Techniques: The Los Angeles Lakers Coach Tells All, Los Angeles Times Magazine, April 19, 1987, http://articles.latimes.com/19870419/magazine/tm1669_1_lakers. Eliud Kipchoge: Cathal Dennehy, The Simple Life of One of the Worlds Best Marathoners, Runners World, April 19, 2016, https://www.runnersworld.com/elite-runners/the-     simple-life-of-one-of-the-worlds-best-marathoners. Eliud Kip-choge: Full Training Log Leading Up to Marathon World Record Attempt, Sweat Elite, 2017, http://www.sweatelite.co/eliud-kipchoge-full-training-log-leading-marathon-worldrecord-attempt/. her coach goes over her
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the impact of reward schedules on behavior, referencing the Matching Law, and the decline in performance over time, as noted by K. Anders Ericsson and Robert Pool. It also mentions Pat Riley's Career Best Effort (CBE) program, which was first used in the 1986-1987 NBA season to track individual player statistics. The text also refers to Eliud Kipchoge, one of the world's best marathoners, implying a discussion on sustained effort and performance in sports.

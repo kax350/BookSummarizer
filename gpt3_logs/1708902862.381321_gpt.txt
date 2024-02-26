@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+behind all human behavior: try, fail, learn, try differently. With practice, the useless movements fade away and the useful actions get reinforced. Thats a habit forming. Whenever you face a problem repeatedly, your brain begins to automate the process of solving it. Your habits are just a series of automatic solutions that solve the problems and stresses you face regularly. As behavioral scientist Jason Hreha writes, Habits are, simply, reliable solutions to recurring problems in our environment. As habits are created, the level of activity in the brain decreases. You learn to lock in on the cues that predict success and tune out everything else. When a similar situation arises in the future, you know exactly what to look for. There is no longer a need to analyze every angle of a situation. Your brain skips the process of trial and error and creates a mental rule: if this, then that. These cognitive scripts can be followed automatically whenever the situation is appropriate. Now, whenever you feel stressed, you get the itch to run. As soon as you walk in the door from work, you grab the video game controller. A choice that once required effort is now automatic. A habit has been created. Habits are mental shortcuts learned from experience. In a sense, a habit is just a memory of the steps you previously followed to solve a problem in the past. Whenever the conditions are right, you can draw on this memory and automatically apply the same solution. The primary reason the brain remembers the past is to better predict what will work in the future. Habit formation is incredibly useful because the conscious mind is the bottleneck of the brain. It can only pay attention to one problem at a time. As a result, your brain is always working to preserve your conscious attention for whatever task is most essential. Whenever possible, the conscious mind likes to pawn off tasks to the nonconscious mind to do automatically. This is precisely what happens when a habit is formed.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Habits are formed through a process of trial and error, where ineffective actions are discarded and effective ones are reinforced. This process is automated by the brain to solve recurring problems or stresses. As habits form, brain activity decreases, focusing only on cues predicting success and creating mental rules for future similar situations. These habits, essentially mental shortcuts learned from experience, allow for automatic responses to certain situations. This is beneficial as the conscious mind can only focus on one problem at a time, so offloading tasks to the nonconscious mind through habit formation allows for more efficient use of cognitive resources.

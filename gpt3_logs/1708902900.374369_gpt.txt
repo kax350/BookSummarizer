@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+area where a stroke will develop before any obvious signs are visible to the untrained eye. Ive even heard of hairdressers noticing whether a client is pregnant based only on the feel of her hair. The human brain is a prediction machine. It is continuously taking in your surroundings and analyzing the information it comes across. Whenever you experience something repeatedlylike a paramedic seeing the face of a heart attack patient or a military analyst seeing a missile on a radar screenyour brain begins noticing what is important, sorting through the details and highlighting the relevant cues, and cataloging that information for future use. With enough practice, you can pick up on the cues that predict certain outcomes without consciously thinking about it. Automatically, your brain encodes the lessons learned through experience. We cant always explain what it is we are learning, but learning is happening all along the way, and your ability to notice the relevant cues in a given situation is the foundation for every habit you have. We underestimate how much our brains and bodies can do without thinking. You do not tell your hair to grow, your heart to pump, your lungs to breathe, or your stomach to digest. And yet your body handles all this and more on autopilot. You are much more than your conscious self. Consider hunger. How do you know when youre hungry? You dont necessarily have to see a cookie on the counter to realize that it is time to eat. Appetite and hunger are governed nonconsciously. Your body has a variety of feedback loops that gradually alert you when it is time to eat again and that track what is going on around you and within you. Cravings can arise thanks to hormones and chemicals circulating     through your body. Suddenly, youre hungry even though youre not quite sure what tipped you off. This is one of the most surprising insights about our habits: you dont need to be aware of the cue for a habit to begin. You can notice an opportunity
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The human brain is a powerful prediction machine, continuously analyzing surroundings and experiences to identify important cues and catalog them for future use. This ability to recognize cues that predict certain outcomes forms the basis of our habits. This learning process often happens unconsciously, and we may not always be able to articulate what we've learned. Our bodies also perform numerous functions automatically, such as growth, digestion, and regulation of hunger through nonconscious feedback loops. Interestingly, awareness of a cue is not necessary for a habit to begin.

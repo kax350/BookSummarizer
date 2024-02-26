@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+implementation intentions by answering questions like: What route are you taking to the polling station? At what time are you planning to go? What bus will get you there? Other successful government programs have prompted citizens to make a clear plan to send taxes in on time or provided directions on when and where to pay late traffic bills. The punch line is clear: people who make a specific plan for when and where they will perform a new habit are more likely to follow through. Too many people try to change their habits without these basic details figured out. We tell ourselves, Im going to eat healthier or Im going to write more, but we never say when and where these habits are going to happen. We leave it up to chance and hope that we will just remember to do it or feel motivated at the right time. An implementation intention sweeps away foggy notions like I want to work out more or I want to be more productive or I should vote and transforms them into a concrete plan of action. Many people think they lack motivation when what they really lack is clarity. It is not always obvious when and where to take action. Some people spend their entire lives waiting for the time to be right to make an improvement.     Once an implementation intention has been set, you dont have to wait for inspiration to strike. Do I write a chapter today or not? Do I meditate this morning or at lunch? When the moment of action occurs, there is no need to make a decision. Simply follow your predetermined plan. The simple way to apply this strategy to your habits is to fill out this sentence: I will [BEHAVIOR] at [TIME] in [LOCATION]. Meditation. I will meditate for one minute at 7 a.m. in my kitchen. Studying. I will study Spanish for twenty minutes at 6 p.m. in my bedroom. Exercise. I will exercise for one hour at 5 p.m. in my local gym.  Marriage. I will make my partner a cup of tea at 8 a.m. in the kitchen. If you arent sure when to start your habit, try the first day
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of "implementation intentions," which involves making a specific plan for when and where to perform a new habit. This approach has been successfully used in government programs to encourage citizens to pay taxes or traffic bills on time. The text suggests that many people fail to change their habits because they lack clarity, not motivation. By setting a clear plan of action, individuals can eliminate uncertainty and increase the likelihood of following through with their intentions. The text provides a simple strategy for applying this concept to daily habits, suggesting individuals fill out a sentence specifying the behavior, time, and location of the intended action.

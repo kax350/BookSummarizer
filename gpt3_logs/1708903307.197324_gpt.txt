@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Summary The 4th Law of Behavior Change is make it satisfying. We are more likely to repeat a behavior when the experience is satisfying. The human brain evolved to prioritize immediate rewards over delayed rewards.  The Cardinal Rule of Behavior Change: What is immediately rewarded is repeated. What is immediately punished is avoided. To get a habit to stick you need to feel immediately successful even if its in a small way. The first three laws of behavior changemake it obvious, make it attractive, and make it easyincrease the odds that a behavior will be performed this time. The fourth law of behavior change make it satisfyingincreases the odds that a behavior will be repeated next time.   16 How to Stick with Good Habits Every Day  I  N 1993, a bank in Abbotsford, Canada, hired a twenty-three-year-old  stockbroker named Trent Dyrsmid. Abbotsford was a relatively small suburb, tucked away in the shadow of nearby Vancouver, where most of the big business deals were being made. Given the location, and the fact that Dyrsmid was a rookie, nobody expected too much of him. But he made brisk progress thanks to a simple daily habit. Dyrsmid began each morning with two jars on his desk. One was filled with 120 paper clips. The other was empty. As soon as he settled in each day, he would make a sales call. Immediately after, he would move one paper clip from the full jar to the empty jar and the process would begin again. Every morning I would start with 120 paper clips in one jar and I would keep dialing the phone until I had moved them all to the second jar, he told me. Within eighteen months, Dyrsmid was bringing in $5 million to the firm. By age twenty-four, he was making $75,000 per yearthe equivalent of $125,000 today. Not long after, he landed a six-figure job with another company. I like to refer to this technique as the Paper Clip Strategy and, over the years, Ive heard from readers who have employed it in a variety of ways. One woman shifted a hairpin
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The 4th Law of Behavior Change emphasizes the importance of satisfaction in reinforcing habits. This law suggests that behaviors that are immediately rewarded are more likely to be repeated, while those that are immediately punished are avoided. The first three laws of behavior change - making it obvious, attractive, and easy - increase the likelihood of a behavior being performed, while the fourth law - making it satisfying - increases the likelihood of it being repeated. An example of this is the case of Trent Dyrsmid, a stockbroker who used a simple daily habit of moving paper clips from one jar to another after each sales call, which led to significant career success. This technique, known as the Paper Clip Strategy, demonstrates the power of immediate satisfaction in habit formation.

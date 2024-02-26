@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+D.C., instead of New York. Such a small change is barely noticeable at takeoffthe nose of the airplane moves just a few feet but when magnified across the entire United States, you end up hundreds of miles apart.* Similarly, a slight change in your daily habits can guide your life to a very different destination. Making a choice that is 1 percent better or 1 percent worse seems insignificant in the moment, but over the span of moments that make up a lifetime these choices determine the difference between who you are and who you could be. Success is the product of daily habitsnot once-in-a-lifetime transformations. That said, it doesnt matter how successful or unsuccessful you are right now. What matters is whether your habits are putting you on the path toward success. You should be far more concerned with your current trajectory than with your current results. If youre a millionaire but you spend more than you earn each month, then youre on a bad trajectory. If your spending habits dont change, its not going to end well. Conversely, if youre broke, but you save a little bit every month, then youre on the path toward financial freedomeven if youre moving slower than youd like. Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. Your clutter is a lagging measure of your cleaning habits. You get what you repeat.     If you want to predict where youll end up in life, all you have to do is follow the curve of tiny gains or tiny losses, and see how your daily choices will compound ten or twenty years down the line. Are you spending less than you earn each month? Are you making it into the gym each week? Are you reading books and learning something new each day? Tiny battles like these are the ones that will define your future self. Time magnifies the margin between success and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text emphasizes the significant impact of small daily habits on one's life trajectory. Even seemingly insignificant choices, if consistently made, can lead to substantial differences over time. Success is not a product of once-in-a-lifetime transformations, but rather the accumulation of daily habits. Current results are less important than the trajectory set by these habits. For instance, financial habits determine net worth, eating habits influence weight, and learning habits shape knowledge. Therefore, to predict one's future, it's crucial to consider the cumulative effect of small gains or losses made through daily choices.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the habit linethe behavior can be done more or less without thinking. A new habit has been formed.  On the following page, youll see what it looks like when researchers track the level of automaticity for an actual habit like walking for ten minutes each day. The shape of these charts, which scientists call     learning curves, reveals an important truth about behavior change: habits form based on frequency, not time.  WALKING 10 MINUTES PER DAY  FIGURE 12: This graph shows someone who built the habit of walking for ten minutes after breakfast each day. Notice that as the repetitions increase, so does automaticity, until the behavior is as easy and automatic as it can be.  One of the most common questions I hear is, How long does it take to build a new habit? But what people really should be asking is, How many does it take to form a new habit? That is, how many repetitions are required to make a habit automatic? There is nothing magical about time passing with regard to habit formation. It doesnt matter if its been twenty-one days or thirty days or three hundred days. What matters is the rate at which you perform the behavior. You could do something twice in thirty days, or two hundred times. Its the frequency that makes the difference. Your current habits have been internalized over the course of hundreds, if not thousands, of repetitions. New habits require the same level of frequency. You need to string together enough successful attempts until the behavior is firmly embedded in your mind and you cross the Habit Line.     In practice, it doesnt really matter how long it takes for a habit to become automatic. What matters is that you take the actions you need to take to make progress. Whether an action is fully automatic is of less importance. To build a habit, you need to practice it. And the most effective way to make practice happen is to adhere to the 3rd Law of Behavior Change: make it easy. The chapters that follow will show you how to do exactly
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Habits are formed based on frequency, not time. The level of automaticity in a behavior, such as walking for ten minutes each day, increases with the number of repetitions, until it becomes as easy and automatic as possible. The question isn't how long it takes to build a new habit, but rather how many repetitions are required to make it automatic. It doesn't matter if it's been twenty-one days or three hundred days, what matters is the rate at which you perform the behavior. To build a habit, you need to practice it frequently enough until it is firmly embedded in your mind. The most effective way to make practice happen is to adhere to the 3rd Law of Behavior Change: make it easy.

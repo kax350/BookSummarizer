@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+behavior difficult and you wont be able to do it. And if the reward fails to satisfy your desire, then youll have no reason to do it again in the future. Without the first three steps, a behavior will not occur. Without all four, a behavior will not be repeated.    THE HABIT LOOP   FIGURE 6: The four stages of habit are best described as a feedback loop. They form an endless cycle that is running every moment you are alive. This habit loop is continually scanning the environment, predicting what will happen next, trying out different responses, and learning from the results.*  In summary, the cue triggers a craving, which motivates a response, which provides a reward, which satisfies the craving and, ultimately, becomes associated with the cue. Together, these four steps form a neurological feedback loopcue, craving, response, reward; cue, craving, response, rewardthat ultimately allows you to create automatic habits. This cycle is known as the habit loop. This four-step process is not something that happens occasionally, but rather it is an endless feedback loop that is running and active during every moment you are aliveeven now. The brain is continually scanning the environment, predicting what will happen next, trying out different responses, and learning from the results. The entire process is completed in a split second, and we use it again and again without realizing everything that has been packed into the previous moment. We can split these four steps into two phases: the problem phase and the solution phase. The problem phase includes the cue and the craving, and it is when you realize that something needs to change. The solution phase includes the response and the reward, and it is when you take action and achieve the change you desire.     Problem phase 1. Cue 2. Craving Solution phase 3. Response 4. Reward  All behavior is driven by the desire to solve a problem. Sometimes the problem is that you notice something good and you want to obtain it.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the four stages of habit formation, known as the habit loop: cue, craving, response, and reward. This neurological feedback loop is constantly active, scanning the environment, predicting outcomes, testing responses, and learning from results. The loop can be divided into two phases: the problem phase (cue and craving) where a need for change is recognized, and the solution phase (response and reward) where action is taken to achieve the desired change. All behavior is driven by the desire to solve a problem, often related to obtaining something perceived as good.

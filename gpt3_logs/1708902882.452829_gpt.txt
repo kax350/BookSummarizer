@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Sometimes the problem is that you are experiencing pain and you want to relieve it. Either way, the purpose of every habit is to solve the problems you face. In the table on the following page, you can see a few examples of what this looks like in real life. Imagine walking into a dark room and flipping on the light switch. You have performed this simple habit so many times that it occurs without thinking. You proceed through all four stages in the fraction of a second. The urge to act strikes you without thinking. Problem phase 1. Cue: Your phone buzzes with a new text message. 2. Craving: You want to learn the contents of the message. Solution phase 3. Response: You grab your phone and read the text. 4. Reward: You satisfy your craving to read the message. Grabbing your phone becomes associated with your phone buzzing. Problem phase 1. Cue: You are answering emails. 2. Craving: You begin to feel stressed and overwhelmed by work. You want to feel in control. Solution phase 3. Response: You bite your nails. 4. Reward: You satisfy your craving to reduce stress. Biting your nails becomes associated with answering email. Problem phase 1. Cue: You wake up. 2. Craving: You want to feel alert.    Solution phase   3. Response: You drink a cup of coffee. 4. Reward: You satisfy your craving to feel alert. Drinking coffee becomes associated with waking up. Problem phase 1. Cue: You smell a doughnut shop as you walk down the street near your office. 2. Craving: You begin to crave a doughnut. Solution phase 3. Response: You buy a doughnut and eat it. 4. Reward: You satisfy your craving to eat a doughnut. Buying a doughnut becomes associated with walking down the street near your office. Problem phase 1. Cue: You hit a stumbling block on a project at work. 2. Craving: You feel stuck and want to relieve your frustration. Solution phase 3. Response: You pull out your phone and check social media. 4. Reward: You satisfy your craving to feel relieved. Checking social media becomes
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of habits as problem-solving mechanisms, which typically follow a four-stage process: cue, craving, response, and reward. Examples include turning on a light when entering a dark room, checking a text message when the phone buzzes, biting nails when feeling stressed, drinking coffee upon waking up, eating a doughnut when passing a doughnut shop, and checking social media when facing a work challenge. These actions are performed to satisfy a craving and provide a reward, which then associates the response with the initial cue, reinforcing the habit.

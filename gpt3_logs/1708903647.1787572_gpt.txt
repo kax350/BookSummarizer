@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+doi:10.1002/hipo.20233. the actions become so automatic: George Henry Lewes, The Physiology of Common Life (Leipzig: Tauchnitz, 1860). repetition is a form of change: Apparently, Brian Eno says the same thing in his excellent, creatively inspiring Oblique Strategies card set, which I didnt know when I wrote this line! Great minds and all that. Automaticity is the ability to perform a behavior: Phillippa Lally et al., How Are Habits Formed: Modelling Habit Formation in the Real World, European Journal of Social Psychology 40, no. 6 (2009), doi:10.1002/ejsp.674. habits form based on frequency, not time: Hermann Ebbinghaus was the first person to describe learning curves in his 1885 book ber das Gedchtnis. Hermann Ebbinghaus,     Memory: A Contribution to Experimental Psychology (United States: Scholar Select, 2016). CHAPTER 12 this difference in shape played a significant role in the spread of agriculture: Jared Diamond, Guns, Germs, and Steel: The Fates of Human Societies (New York: Norton, 1997). It is human nature to follow the Law of Least Effort: Deepak Chopra uses the phrase law of least effort to describe one of his Seven Spiritual Laws of Yoga. This concept is not related to the principle I am discussing here. a garden hose that is bent in the middle: This analogy is a modified version of an idea Josh Waitzkin mentioned in his interview with Tim Ferriss. The Tim Ferriss Show, Episode 2: Josh Waitzkin, May 2, 2014, audio, https://soundcloud.com/timferriss/the-tim-ferriss-show-episode-2-josh-waitzkin. it took American workers three times as long to assemble their sets: James Surowiecki, Better All the Time, New Yorker, November 10, 2014, https://www.newyorker.com/magazine/2014/11/10/better-time. addition by subtraction: Addition by subtraction is an example of a larger principle known as inversion, which I have written about previously at https://jamesclear.com/inversion. Im indebted to Shane Parrish for priming my thoughts on this topic by
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of automaticity, the ability to perform a behavior without thinking, and how habits are formed based on frequency rather than time, referencing the work of Phillippa Lally and Hermann Ebbinghaus. It also mentions the significant role of geographical shape in the spread of agriculture, as discussed by Jared Diamond, and the human tendency to follow the Law of Least Effort. The text also refers to the concept of 'addition by subtraction', an example of inversion, and how it took American workers three times as long to assemble their sets, as reported by James Surowiecki.

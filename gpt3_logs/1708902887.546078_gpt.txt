@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+associated with feeling stalled at work. Problem phase 1. Cue: You walk into a dark room. 2. Craving: You want to be able to see. Solution phase 3. Response: You flip the light switch. 4. Reward: You satisfy your craving to see. Turning on the light switch becomes associated with being in a dark room.  By the time we become adults, we rarely notice the habits that are running our lives. Most of us never give a second thought to the fact that we tie the same shoe first each morning, or unplug the toaster after each use, or always change into comfortable clothes after getting home from work. After decades of mental programming, we automatically slip into these patterns of thinking and acting.  THE FOUR LAWS OF BEHAVIOR CHANGE In the following chapters, we will see time and again how the four stages of cue, craving, response, and reward influence nearly everything we do each day. But before we do that, we need to     transform these four steps into a practical framework that we can use to design good habits and eliminate bad ones. I refer to this framework as the Four Laws of Behavior Change, and it provides a simple set of rules for creating good habits and breaking bad ones. You can think of each law as a lever that influences human behavior. When the levers are in the right positions, creating good habits is effortless. When they are in the wrong positions, it is nearly impossible. How to Create a Good Habit The 1st law (Cue): Make it obvious. The 2nd law (Craving): Make it attractive. The 3rd law (Response): Make it easy. The 4th law (Reward): Make it satisfying.  We can invert these laws to learn how to break a bad habit. How to Break a Bad Habit Inversion of the 1st law (Cue): Make it invisible. Inversion of the 2nd law (Craving): Make it unattractive. Inversion of the 3rd law (Response): Make it difficult. Inversion of the 4th law (Reward): Make it unsatisfying.  It would be irresponsible for me to claim that these four laws are an exhaustive framework for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of habits and introduces the Four Laws of Behavior Change, a framework for creating good habits and eliminating bad ones. The four stages of cue, craving, response, and reward are fundamental to our daily actions. To form a good habit, the first law suggests making the cue obvious, the second law advises making the craving attractive, the third law recommends making the response easy, and the fourth law proposes making the reward satisfying. Conversely, to break a bad habit, these laws are inverted: make the cue invisible, the craving unattractive, the response difficult, and the reward unsatisfying.

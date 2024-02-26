@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+wallets at home during the week before weigh-in so they wont be tempted to buy fast food. As another example, my friend and fellow habits expert Nir Eyal purchased an outlet timer, which is an adapter that he plugged in between his internet router and the power outlet. At 10 p.m. each night, the outlet timer cuts off the power to the router. When the internet goes off, everyone knows it is time to go to bed. Commitment devices are useful because they enable you to take advantage of good intentions before you can fall victim to temptation. Whenever Im looking to cut calories, for example, I will ask the waiter to split my meal and box half of it to go before the meal is served. If I waited until the meal came out and told myself Ill just eat half, it would never work. The key is to change the task such that it requires more work to get out of the good habit than to get started on it. If youre feeling motivated to get in shape, schedule a yoga session and pay ahead of time. If youre excited about the business you want to start, email an entrepreneur you respect and set up a consulting call. When the time comes to act, the only way to bail is to cancel the meeting, which requires effort and may cost money. Commitment devices increase the odds that youll do the right thing in the future by making bad habits difficult in the present. However, we can do even better. We can make good habits inevitable and bad habits impossible.  HOW TO AUTOMATE A HABIT AND NEVER THINK ABOUT IT AGAIN John Henry Patterson was born in Dayton, Ohio, in 1844. He spent his childhood doing chores on the family farm and working shifts at his fathers sawmill. After attending college at Dartmouth, Patterson returned to Ohio and opened a small supply store for coal miners.     It seemed like a good opportunity. The store faced little competition and enjoyed a steady stream of customers, but still struggled to make money. That was when Patterson discovered his employees were stealing from
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of "commitment devices," tools that help individuals stick to good habits and avoid bad ones by making it more difficult to break the habit than to start it. Examples include leaving wallets at home to avoid fast food purchases, using an outlet timer to cut off internet access at a certain time, or asking a waiter to box half a meal before it's served to control portion sizes. The text suggests that these devices can increase the likelihood of maintaining good habits by making it harder to fall into bad ones. It also introduces the idea of automating habits to make good ones inevitable and bad ones impossible, using the example of John Henry Patterson, who struggled with employee theft in his small supply store.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and-cracking-ofspurs-majesty-in-game-7. Inspiration for this drawing came from a tweet titled Deception of linear vs exponential by @MlichaelW. May 19, 2018. https://twitter.com/MlichaelW/status/997878086132817920. The seed of every habit: This paragraph was inspired by a quote from Mr. Mircea, an account on Twitter, who wrote, each habit began its life as a single decision. https://twitter.com/mistermircea. the goal cannot be what differentiates the winners from the losers: Hat tip to CrossFit coach Ben Bergeron for inspiring this quote during a conversation I had with him on February 28, 2017. You fall to the level of your systems: This line was inspired by the following quote from Archilochus: We dont rise to the level of our expectations, we fall to the level of our training. CHAPTER 2 You can imagine them like the layers of an onion: Hat tip to Simon Sinek. His Golden Circle framework is similar in design, but discusses different topics. For more, see Simon Sinek, Start with Why: How Great Leaders Inspire Everyone to Take Action (London: Portfolio/Penguin, 2013), 37.  I resolved to stop chewing my nails: The quotes used in this section are presented as a conversation for reading clarity, but were originally written by Clark. See: Brian Clark, The Powerful Psychological Boost that Helps You Make and Break Habits, Further, November 14, 2017, https://further.net/pride-habits. Research has shown that once a person: Christopher J. Bryan et al., Motivating Voter Turnout by Invoking the Self, Proceedings of the National Academy of Sciences 108, no. 31 (2011): 1265312656. There is internal pressure: Leon Festinger, A Theory of Cognitive Dissonance (Stanford, CA: Stanford University Press, 1957). Your identity is literally your repeated beingness: Technically, identidem is a word belonging to the Late Latin language. Also, thanks to Tamar Shippony, a reader of jamesclear.com, who originally told me about the etymology of the word identity, which she
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various inspirations and sources for ideas about habits, goals, and identity. The author draws from a range of sources, including tweets, conversations, and published works. Key points include the idea that every habit starts as a single decision, the importance of systems over goals in determining success, and the concept that our identity is shaped by our repeated actions. The author also references the Golden Circle framework by Simon Sinek and theories on cognitive dissonance and voter turnout.

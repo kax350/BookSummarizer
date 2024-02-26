@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+meditation into your morning routine but mornings are chaotic and your kids keep running into the room, then that may be the wrong place and time. Consider when you are most likely to be successful. Dont ask yourself to do a habit when youre likely to be occupied with something else. Your cue should also have the same frequency as your desired habit. If you want to do a habit every day, but you stack it on top of a habit that only happens on Mondays, thats not a good choice. One way to find the right trigger for your habit stack is by brainstorming a list of your current habits. You can use your Habits Scorecard from the last chapter as a starting point. Alternatively, you can create a list with two columns. In the first column, write down the habits you do each day without fail.*    For example: Get out of bed. Take a shower.  Brush your teeth. Get dressed. Brew a cup of coffee. Eat breakfast. Take the kids to school. Start the work day. Eat lunch. End the work day.  Change out of work clothes. Sit down for dinner.   Turn off the lights. Get into bed. Your list can be much longer, but you get the idea. In the second column, write down all of the things that happen to you each day without fail. For example: The sun rises.  You get a text message. The song you are listening to ends. The sun sets. Armed with these two lists, you can begin searching for the best place to layer your new habit into your lifestyle. Habit stacking works best when the cue is highly specific and immediately actionable. Many people select cues that are too vague. I made this mistake myself. When I wanted to start a push-up habit, my habit stack was When I take a break for lunch, I will do ten push-ups. At first glance, this sounded reasonable. But soon, I realized the trigger was unclear. Would I do my push-ups before I ate lunch? After I ate lunch? Where would I do them? After a few inconsistent days, I changed my habit stack to: When I close my laptop for lunch, I will do ten push-ups
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of habit stacking, which involves adding a new habit to an existing routine. The success of this method depends on choosing the right time and trigger for the new habit. The trigger should match the frequency of the desired habit and be specific and actionable. The author suggests brainstorming a list of daily habits and events to find the best place to incorporate the new habit. The author shares a personal example of adjusting a habit stack for doing push-ups, emphasizing the importance of a clear and specific trigger.

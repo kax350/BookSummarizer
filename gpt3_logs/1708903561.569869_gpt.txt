@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Transform, Tim Harford, April 2017, http://timharford.com/2017/04/marginal-gains-matter-but-gamechangers-transform. they even painted the inside of the team truck white: Eben Harrell, How 1% Performance Improvements Led to Olympic Gold, Harvard Business Review, October 30, 2015, https://hbr.org/2015/10/how-1-performance-improvements-led-to-olympicgold; Kevin Clark, How a Cycling Team Turned the Falcons Into NFC Champions, The Ringer, September 12, 2017, https://www.theringer.com/nfl/2017/9/12/16293216/atlanta-falcons-thomasdimitroff-cycling-team-sky. Just five years after Brailsford took over: Technically, the British riders won 57 percent of the road and track cycling medals at the 2008 Olympics. Fourteen gold medals were available in road and track cycling events. The Brits won eight of them.  the Brits raised the bar: World and Olympic Records Set at the 2012 Summer Olympics, Wikipedia, December 8, 2017, https://en.wikipedia.org/wiki/World_and_Olympic_records_set_at_the_2012_Summer_Olympics#C Bradley Wiggins became the first British cyclist: Andrew Longmore, Bradley Wiggins, Encyclopaedia Britannica, https://www.britannica.com/biography/BradleyWiggins, last modified April 21, 2018. Chris Froome won: Karen Sparks, Chris Froome, Encyclopaedia Britannica, https://www.britannica.com/biography/Chris-Froome, last modified October 23, 2017. During the ten-year span from 2007 to 2017: Medals won by the Great Britain Cycling Team at world championships, Olympic Games and Paralympic Games since 2000, British Cycling, https://www.britishcycling.org.uk/gbcyclingteam/article/Gbrst_gbcyclingteam-GB-Cycling-Team-Medal-History0?c=EN#K0dWAPjq84CV8Wzw.99, accessed June 8, 2018. youll end up thirty-seven times better: Jason Shen, an entrepreneur and writer, received an early look at this book. After reading this chapter, he remarked: If the gains were linear, youd predict to be 3.65x better off. But because it is exponential, the improvement is actually 10x
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The British cycling team achieved significant success from 2007 to 2017, including winning 57% of the road and track cycling medals at the 2008 Olympics and setting world records at the 2012 Summer Olympics. This success was attributed to a strategy of making 1% performance improvements in various areas. Notable British cyclists during this period include Bradley Wiggins, the first British cyclist to win the Tour de France, and Chris Froome, another Tour de France winner. The strategy of small, incremental improvements led to exponential growth in performance, resulting in the team being 37 times better off at the end of the ten-year period.

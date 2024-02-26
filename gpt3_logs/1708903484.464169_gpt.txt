@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+assembled, but they are rarely remembered that way. The team started the 19851986 NBA season with an astounding 295 record. The pundits were saying that we might be the best team in the history of basketball, head coach Pat Riley said after the season. Surprisingly, the Lakers stumbled in the 1986 playoffs and suffered a season-ending defeat in the Western Conference Finals. The best team in the history of basketball didnt even play for the NBA championship. After that blow, Riley was tired of hearing about how much talent his players had and about how much promise his team held. He didnt want to see flashes of brilliance followed by a gradual fade in performance. He wanted the Lakers to play up to their potential, night after night. In the summer of 1986, he created a plan to do exactly that, a system that he called the Career Best Effort program or CBE. When players first join the Lakers, Riley explained, we track their basketball statistics all the way back to high school. I call this Taking Their Number. We look for an accurate gauge of what a player can do, then build him into our plan for the team, based on the notion that he will maintain and then improve upon his averages. After determining a players baseline level of performance, Riley added a key step. He asked each player to improve their output by at least 1 percent over the course of the season. If they succeeded, it would be a CBE, or Career Best Effort. Similar to the British Cycling team that we discussed in Chapter 1, the Lakers sought peak performance by getting slightly better each day. Riley was careful to point out that CBE was not merely about points or statistics but about giving your best effort spiritually and mentally and physically. Players got credit for allowing an opponent to run into you when you know that a foul will be called against him, diving for loose balls, going after rebounds whether you are likely to get them     or not, helping a teammate when the player
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The 1985-1986 Los Angeles Lakers, despite a strong start to the season, failed to reach the NBA championship, leading coach Pat Riley to develop the Career Best Effort (CBE) program. The CBE program involved tracking a player's performance statistics from high school onwards, establishing a baseline, and then asking each player to improve their performance by at least 1% over the season. The aim was not just to improve points or statistics, but to encourage players to give their best effort in all aspects of the game, including mental and physical effort, teamwork, and strategic play.

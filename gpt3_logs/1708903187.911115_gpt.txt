@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+would skip it or do it differently. It is one more item in my arsenal of routines, and one less thing to think about. Hailing a cab each morning may be a tiny action, but it is a splendid example of the 3rd Law of Behavior Change. Researchers estimate that 40 to 50 percent of our actions on any given day are done out of habit. This is already a substantial percentage, but the true influence of your habits is even greater than these numbers suggest. Habits are automatic choices that influence the     conscious decisions that follow. Yes, a habit can be completed in just a few seconds, but it can also shape the actions that you take for minutes or hours afterward. Habits are like the entrance ramp to a highway. They lead you down a path and, before you know it, youre speeding toward the next behavior. It seems to be easier to continue what you are already doing than to start doing something different. You sit through a bad movie for two hours. You keep snacking even when youre already full. You check your phone for just a second and soon you have spent twenty minutes staring at the screen. In this way, the habits you follow without thinking often determine the choices you make when you are thinking. Each evening, there is a tiny momentusually around 5:15 p.m. that shapes the rest of my night. My wife walks in the door from work and either we change into our workout clothes and head to the gym or we crash onto the couch, order Indian food, and watch The Office.* Similar to Twyla Tharp hailing the cab, the ritual is changing into my workout clothes. If I change clothes, I know the workout will happen. Everything that followsdriving to the gym, deciding which exercises to do, stepping under the baris easy once Ive taken the first step. Every day, there are a handful of moments that deliver an outsized impact. I refer to these little choices as decisive moments. The moment you decide between ordering takeout or cooking dinner. The moment you choose between
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the 3rd Law of Behavior Change, emphasizing the significant role habits play in our daily actions, estimated to be 40 to 50 percent. Habits are automatic choices that not only take a few seconds to complete but also shape subsequent actions, often for extended periods. They are likened to an entrance ramp to a highway, leading us down a path and influencing our behavior. The text also introduces the concept of "decisive moments," small choices that have a significant impact on our actions, such as deciding to work out or relax after work. These moments often set the tone for subsequent actions and decisions.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Dont break the chain of creating every day and you will end up with an impressive portfolio. Habit tracking is powerful because it leverages multiple Laws of Behavior Change. It simultaneously makes a behavior obvious, attractive, and satisfying. Lets break down each one.  Benefit #1: Habit tracking is obvious.     Recording your last action creates a trigger that can initiate your next one. Habit tracking naturally builds a series of visual cues like the streak of Xs on your calendar or the list of meals in your food log. When you look at the calendar and see your streak, youll be reminded to act again. Research has shown that people who track their progress on goals like losing weight, quitting smoking, and lowering blood pressure are all more likely to improve than those who dont. One study of more than sixteen hundred people found that those who kept a daily food log lost twice as much weight as those who did not. The mere act of tracking a behavior can spark the urge to change it. Habit tracking also keeps you honest. Most of us have a distorted view of our own behavior. We think we act better than we do. Measurement offers one way to overcome our blindness to our own behavior and notice whats really going on each day. One glance at the paper clips in the container and you immediately know how much work you have (or havent) been putting in. When the evidence is right in front of you, youre less likely to lie to yourself.  Benefit #2: Habit tracking is attractive. The most effective form of motivation is progress. When we get a signal that we are moving forward, we become more motivated to continue down that path. In this way, habit tracking can have an addictive effect on motivation. Each small win feeds your desire. This can be particularly powerful on a bad day. When youre feeling down, its easy to forget about all the progress you have already made. Habit tracking provides visual proof of your hard worka subtle reminder of how far youve come.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Habit tracking is a powerful tool for behavior change as it makes the behavior obvious, attractive, and satisfying. It provides a visual cue, reminding individuals to repeat their actions, and has been proven to improve progress in goals such as weight loss and quitting smoking. Habit tracking also promotes honesty about one's behavior, preventing self-deception about progress. Furthermore, it enhances motivation by providing a sense of progress, which can be particularly beneficial during challenging times by offering a visual reminder of the hard work already done.

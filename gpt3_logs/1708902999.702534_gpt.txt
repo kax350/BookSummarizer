@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+sixteenth year,  congressmen Robert Steele from Connecticut and Morgan Murphy from Illinois made a discovery that stunned the American public. While visiting the troops, they had learned that over 15 percent of U.S. soldiers stationed there were heroin addicts. Follow-up research revealed that 35 percent of service members in Vietnam had tried heroin and as many as 20 percent were addictedthe problem was even worse than they had initially thought. The discovery led to a flurry of activity in Washington, including the creation of the Special Action Office of Drug Abuse Prevention under President Nixon to promote prevention and rehabilitation and to track addicted service members when they returned home. Lee Robins was one of the researchers in charge. In a finding that completely upended the accepted beliefs about addiction, Robins found that when soldiers who had been heroin users returned home, only 5 percent of them became re-addicted within a year, and just 12 percent relapsed within three years. In other words, approximately nine out of ten soldiers who used heroin in Vietnam eliminated their addiction nearly overnight. This finding contradicted the prevailing view at the time, which considered heroin addiction to be a permanent and irreversible condition. Instead, Robins revealed that addictions could spontaneously dissolve if there was a radical change in the environment. In Vietnam, soldiers spent all day surrounded by cues triggering heroin use: it was easy to access, they were engulfed by the constant stress of war, they built friendships with fellow soldiers who     were also heroin users, and they were thousands of miles from home. Once a soldier returned to the United States, though, he found himself in an environment devoid of those triggers. When the context changed, so did the habit. Compare this situation to that of a typical drug user. Someone becomes addicted at home or with friends, goes to a clinic to get clean which is devoid of all the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In the 16th year of the Vietnam War, Congressmen Robert Steele and Morgan Murphy discovered that a significant percentage of U.S. soldiers stationed in Vietnam were addicted to heroin. This led to the creation of the Special Action Office of Drug Abuse Prevention under President Nixon. Researcher Lee Robins found that upon returning home, only a small percentage of these soldiers relapsed into addiction. This contradicted the prevailing belief that heroin addiction was permanent and irreversible, suggesting instead that addiction could be overcome if the environment radically changed. In Vietnam, soldiers were surrounded by triggers for heroin use, but once they returned to the U.S., these triggers were absent, leading to a change in habit.

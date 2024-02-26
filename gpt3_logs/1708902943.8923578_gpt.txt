@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+immediately wipe down the counter. 3. After I wipe down the counter, I will set out my coffee mug for tomorrow morning. You can also insert new behaviors into the middle of your current routines. For example, you may already have a morning routine that looks like this: Wake up > Make my bed > Take a shower. Lets say you want to develop the habit of reading more each night. You can expand your habit stack and try something like: Wake up > Make my bed > Place a book on my pillow > Take a shower. Now, when you climb into bed each night, a book will be sitting there waiting for you to enjoy. Overall, habit stacking allows you to create a set of simple rules that guide your future behavior. Its like you always have a game plan for which action should come next. Once you get comfortable with this approach, you can develop general habit stacks to guide you whenever the situation is appropriate:    Exercise. When I see a set of stairs, I will take them instead of using the elevator. Social skills. When I walk into a party, I will introduce myself to someone I dont know yet. Finances. When I want to buy something over $100, I will wait twenty-four hours before purchasing.  Healthy eating. When I serve myself a meal, I will always put veggies on my plate first. Minimalism. When I buy a new item, I will give something away. (One in, one out.) Mood. When the phone rings, I will take one deep breath and smile before answering. Forgetfulness. When I leave a public place, I will check the table and chairs to make sure I dont leave anything behind.   No matter how you use this strategy, the secret to creating a successful habit stack is selecting the right cue to kick things off. Unlike an implementation intention, which specifically states the time and location for a given behavior, habit stacking implicitly has the time and location built into it. When and where you choose to insert a habit into your daily routine can make a big difference. If youre trying to add
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of "habit stacking," a strategy for developing new habits by integrating them into existing routines. This method involves creating simple rules that dictate the sequence of actions, effectively providing a game plan for future behavior. Examples include choosing stairs over elevators, introducing oneself at parties, waiting before making large purchases, prioritizing vegetables in meals, maintaining a one-in-one-out policy for possessions, and checking for forgotten items when leaving public places. The key to successful habit stacking is choosing the right cue to initiate the sequence. Unlike implementation intentions, which specify a time and location, habit stacking incorporates these elements implicitly.

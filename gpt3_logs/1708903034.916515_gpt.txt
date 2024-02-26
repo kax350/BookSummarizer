@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+encouraging you to eat more. Ultimately, such strategies enable food scientists to find the bliss point for each productthe precise combination of salt, sugar, and fat that excites your brain and keeps you coming back for more. The result, of course, is that you overeat because hyperpalatable foods are more attractive to the human brain. As Stephan Guyenet, a neuroscientist who specializes in eating behavior and obesity, says, Weve gotten too good at pushing our own buttons. The modern food industry, and the overeating habits it has spawned, is just one example of the 2nd Law of Behavior Change: Make it attractive. The more attractive an opportunity is, the more likely it is to become habit-forming. Look around. Society is filled with highly engineered versions of reality that are more attractive than the world our ancestors evolved in. Stores feature mannequins with exaggerated hips and breasts to sell clothes. Social media delivers more likes and praise in a few minutes than we could ever get in the office or at home. Online porn splices together stimulating scenes at a rate that would be impossible to replicate in real life. Advertisements are created with a combination of ideal lighting, professional makeup, and Photoshopped editseven the model doesnt look like the person in the final image. These are the supernormal stimuli of our modern world. They exaggerate features that are naturally attractive to us, and our instincts go wild as a result, driving us into excessive shopping habits, social media habits, porn habits, eating habits, and many others. If history serves as a guide, the opportunities of the future will be more attractive than those of today. The trend is for rewards to become more concentrated and stimuli to become more enticing. Junk food is a more concentrated form of calories than natural foods. Hard liquor is a more concentrated form of alcohol than beer. Video games are a more     concentrated form of play than board games. Compared
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of 'bliss point' in food science, which is the precise combination of salt, sugar, and fat that makes food irresistible, leading to overeating. This is an example of the 2nd Law of Behavior Change, which states that the more attractive an opportunity is, the more likely it becomes habit-forming. The modern world is filled with 'supernormal stimuli' that exaggerate naturally attractive features, leading to excessive habits such as shopping, social media use, and consumption of pornography. The trend suggests that future opportunities will be even more attractive, with rewards becoming more concentrated and stimuli more enticing. Examples include junk food being a more concentrated form of calories than natural foods, hard liquor being a more concentrated form of alcohol than beer, and video games being a more concentrated form of play than board games.

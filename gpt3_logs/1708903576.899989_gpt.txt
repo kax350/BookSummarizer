@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Anderson, Acquisition of Cognitive Skill, Psychological Review 89, no. 4 (1982), doi:10.1037/0033295X.89.4.369. the brain remembers the past: Shahram Heshmat, Why Do We Remember Certain Things, But Forget Others, Psychology Today, October 8, 2015, https://www.psychologytoday.com/us/blog/science-choice/201510/why-do-weremember-certain-things-forget-others. the conscious mind is the bottleneck: William H. Gladstones, Michael A. Regan, and Robert B. Lee, Division of Attention: The Single-Channel Hypothesis Revisited, Quarterly Journal of Experimental Psychology Section A 41, no. 1 (1989), doi:10.1080/14640748908402350.  the conscious mind likes to pawn off tasks: Daniel Kahneman, Thinking, Fast and Slow (New York: Farrar, Straus and Giroux, 2015). Habits reduce cognitive load: John R. Anderson, Acquisition of Cognitive Skill, Psychological Review 89, no. 4 (1982), doi:10.1037/0033295X.89.4.369. Feelings of pleasure and disappointment: Antonio R. Damasio, The Strange Order of Things: Life, Feeling, and the Making of Cultures (New York: Pantheon Books, 2018); Lisa Feldman Barrett, How Emotions Are Made (London: Pan Books, 2018).  CHAPTER 4 The psychologist Gary Klein: I originally heard about this story from Daniel Kahneman, but it was confirmed by Gary Klein in an email on March 30, 2017. Klein also covers the story in his own book, which uses slightly different quotes: Gary A. Klein, Sources of Power: How People Make Decisions (Cambridge, MA: MIT Press, 1998), 4344.     military analysts can identify which blip on a radar screen: Gary A. Klein, Sources of Power: How People Make Decisions (Cambridge, MA: MIT Press, 1998), 3840. Museum curators have been known to discern: The story of the Getty kouros, covered in Malcolm Gladwells book Blink, is a famous example. The sculpture, initially believed to be from ancient Greece, was purchased for $10 million. The controversy surrounding the sculpture happened later when one expert identified it as a forgery upon
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various aspects of cognitive psychology. Anderson's work suggests that cognitive skills are acquired through memory and habit, which reduce cognitive load. Heshmat's research explores why we remember certain things and forget others. Gladstones, Regan, and Lee revisit the single-channel hypothesis, suggesting that the conscious mind is a bottleneck. Kahneman's work indicates that the conscious mind often delegates tasks. Damasio and Barrett discuss the role of emotions, such as pleasure and disappointment. The text also mentions Gary Klein's research on decision-making, including how military analysts identify radar blips and how museum curators can discern forgeries, as exemplified by the Getty kouros controversy.

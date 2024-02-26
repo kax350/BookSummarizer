@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+working as a paramedic and, upon arriving at the event, took one look at her fatherin-law and got very concerned. I dont like the way you look, she said. Her father-in-law, who was feeling perfectly fine, jokingly replied, Well, I dont like your looks, either. No, she insisted. You need to go to the hospital now. A few hours later, the man was undergoing lifesaving surgery after an examination had revealed that he had a blockage to a major artery and was at immediate risk of a heart attack. Without his daughter-inlaws intuition, he could have died. What did the paramedic see? How did she predict his impending heart attack? When major arteries are obstructed, the body focuses on sending blood to critical organs and away from peripheral locations near the surface of the skin. The result is a change in the pattern of distribution of blood in the face. After many years of working with people with heart failure, the woman had unknowingly developed the ability to recognize this pattern on sight. She couldnt explain what it was that she noticed in her father-in-laws face, but she knew something was wrong. Similar stories exist in other fields. For example, military analysts can identify which blip on a radar screen is an enemy missile and     which one is a plane from their own fleet even though they are traveling at the same speed, flying at the same altitude, and look identical on radar in nearly every respect. During the Gulf War, Lieutenant Commander Michael Riley saved an entire battleship when he ordered a missile shot downdespite the fact that it looked exactly like the battleships own planes on radar. He made the right call, but even his superior officers couldnt explain how he did it. Museum curators have been known to discern the difference between an authentic piece of art and an expertly produced counterfeit even though they cant tell you precisely which details tipped them off. Experienced radiologists can look at a brain scan and predict the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the intuitive abilities of professionals in various fields, such as paramedics, military analysts, museum curators, and radiologists, to make critical decisions based on subtle cues that they may not be able to explicitly explain. The story of a paramedic who saved her father-in-law from a heart attack by noticing a change in his facial appearance serves as an example. Similarly, military analysts can distinguish between enemy missiles and friendly aircraft on radar, and museum curators can identify authentic art from counterfeits. These skills are developed over years of experience and are often crucial in life-saving or high-stakes situations.

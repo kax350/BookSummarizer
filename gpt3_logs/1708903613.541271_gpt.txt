@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+presentations: Sarah E. Jackson, Rebecca J. Beeken, and Jane Wardle, Perceived Weight Discrimination and Changes in Weight, Waist Circumference, and Weight Status, Obesity, 2014, doi:10.1002/oby.20891. Showing pictures of blackened lungs to smokers: Kelly McGonigal, The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It (New York: Avery, 2016), xv. showing addicts a picture of cocaine for just thirty-three milliseconds: Fran Smith, How Science Is Unlocking the Secrets of Addiction, National Geographic, September 2017, https://www.nationalgeographic.com/magazine/2017/09/the-addicted-brain. CHAPTER 8 Niko Tinbergen performed a series of experiments: Nikolaas Tinbergen, The Herring Gulls World (London: Collins, 1953); Nikolaas Tinbergen, New World Encyclopedia, http://www.newworldencyclopedia.org/entry/Nikolaas_Tinbergen, last modified September 30, 2016. the goose will pull any nearby round object: James L. Gould, Ethology: The Mechanisms and Evolution of Behavior (New York: Norton, 1982), 3641. the modern food industry relies on stretching: Steven Witherly, Why Humans Like Junk Food (New York: IUniverse, 2007).  Nearly every food in a bag: Tweaking Tastes and Creating Cravings, 60 Minutes, November 27, 2011. https://www.youtube.com/watch?v=a7Wh3uq1yTc. French fries . . . are a potent combination: Steven Witherly, Why Humans Like Junk Food (New York: IUniverse, 2007). such strategies enable food scientists to find the bliss point: Michael Moss, Salt, Sugar, Fat: How the Food Giants Hooked Us (London: Allen, 2014). Weve gotten too good at pushing our own buttons: This quote originally appeared in Stephan Guyenet, Why Are Some People Carboholics? July 26, 2017, http://www.stephanguyenet.com/why-are-some-people-carboholics. The adapted version is given with permission granted in an email exchange with the author in April 2018. The importance of dopamine: The importance of dopamine was discovered by accident. In 1954, James Olds
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various studies and sources related to health and behavior. It mentions a study by Sarah E. Jackson, Rebecca J. Beeken, and Jane Wardle on perceived weight discrimination and its impact on weight changes. It also refers to Kelly McGonigal's work on the positive aspects of stress and Fran Smith's article on addiction science. The text further discusses Niko Tinbergen's experiments, James L. Gould's work on ethology, and Steven Witherly's insights on why humans like junk food. It also mentions the food industry's strategies to create cravings, as discussed in Michael Moss's book, and Stephan Guyenet's views on carboholics. Lastly, it refers to the discovery of the importance of dopamine in 1954 by James Olds.

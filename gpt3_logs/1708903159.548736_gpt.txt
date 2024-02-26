@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+realized is the one that delivers the most value for the least effort. We are motivated to do what is easy. Every action requires a certain amount of energy. The more energy required, the less likely it is to occur. If your goal is to do a hundred push-ups per day, thats a lot of energy! In the beginning, when youre motivated and excited, you can muster the strength to get started. But after a few days, such a massive effort feels exhausting. Meanwhile, sticking to the habit of doing one push-up per day requires almost no energy to get started. And the less energy a habit requires, the more likely it is to occur. Look at any behavior that fills up much of your life and youll see that it can be performed with very low levels of motivation. Habits like scrolling on our phones, checking email, and watching television steal so much of our time because they can be performed almost without effort. They are remarkably convenient. In a sense, every habit is just an obstacle to getting what you really want. Dieting is an obstacle to getting fit. Meditation is an obstacle to feeling calm. Journaling is an obstacle to thinking clearly. You dont actually want the habit itself. What you really want is the outcome the habit delivers. The greater the obstaclethat is, the more difficult the habitthe more friction there is between you and your desired end state. This is why it is crucial to make your habits so easy that youll do     them even when you dont feel like it. If you can make your good habits more convenient, youll be more likely to follow through on them. But what about all the moments when we seem to do the opposite? If were all so lazy, then how do you explain people accomplishing hard things like raising a child or starting a business or climbing Mount Everest? Certainly, you are capable of doing very hard things. The problem is that some days you feel like doing the hard work and some days you feel like giving in. On the tough days, its crucial to have as
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the relationship between energy, motivation, and habit formation. It suggests that actions requiring less energy are more likely to become habits due to their ease and convenience, such as scrolling on phones or watching television. The text emphasizes that the true aim of a habit is the outcome it delivers, not the habit itself. Therefore, making good habits more convenient increases the likelihood of their continuation. However, it acknowledges that people are capable of accomplishing difficult tasks, implying that motivation levels can fluctuate. The key is to make habits easy enough to maintain even on days when motivation is low.

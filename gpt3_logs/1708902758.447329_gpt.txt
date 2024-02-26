@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Chris Froome won the race, and he would go on to win again in 2015, 2016, and 2017, giving the British team five Tour de France victories in six years. During the ten-year span from 2007 to 2017, British cyclists won 178 world championships and sixty-six Olympic or Paralympic gold medals and captured five Tour de France victories in what is widely regarded as the most successful run in cycling history.* How does this happen? How does a team of previously ordinary athletes transform into world champions with tiny changes that, at first glance, would seem to make a modest difference at best? Why do small improvements accumulate into such remarkable results, and how can you replicate this approach in your own life?    WHY SMALL HABITS MAKE A BIG DIFFERENCE   It is so easy to overestimate the importance of one defining moment and underestimate the value of making small improvements on a daily basis. Too often, we convince ourselves that massive success requires massive action. Whether it is losing weight, building a business, writing a book, winning a championship, or achieving any other goal, we put pressure on ourselves to make some earth-shattering improvement that everyone will talk about. Meanwhile, improving by 1 percent isnt particularly notable sometimes it isnt even noticeablebut it can be far more meaningful, especially in the long run. The difference a tiny improvement can make over time is astounding. Heres how the math works out: if you can get 1 percent better each day for one year, youll end up thirty-seven times better by the time youre done. Conversely, if you get 1 percent worse each day for one year, youll decline nearly down to zero. What starts as a small win or a minor setback accumulates into something much more.    1% BETTER EVERY DAY 1% worse every day for one year. 0.99365 = 00.03 1% better every day for one year. 1.01365 = 37.78   FIGURE 1: The effects of small habits compound over time. For example, if you can get just 1 percent
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Chris Froome's multiple victories in the Tour de France from 2013 to 2017, along with other British cyclists' achievements, are attributed to the power of small, incremental improvements. The text argues that while it's common to overestimate the impact of one defining moment, it's often the small, daily improvements that lead to significant success over time. This principle, referred to as the "1% rule", suggests that improving by just 1% each day can lead to being 37 times better by the end of a year. Conversely, declining by 1% daily can lead to near-zero performance. The text encourages the application of this approach to personal goals and habits.

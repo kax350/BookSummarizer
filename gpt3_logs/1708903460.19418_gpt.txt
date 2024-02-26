@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+variable reward.* Slot machines are the most common real-world example. A gambler hits the jackpot every now and then but not at any predictable interval. The pace of rewards varies. This variance leads to the greatest spike of dopamine, enhances memory recall, and accelerates habit formation. Variable rewards wont create a cravingthat is, you cant take a reward people are uninterested in, give it to them at a variable interval, and hope it will change their mindbut they are a powerful way to amplify the cravings we already experience because they reduce boredom.     The sweet spot of desire occurs at a 50/50 split between success and failure. Half of the time you get what you want. Half of the time you dont. You need just enough winning to experience satisfaction and just enough wanting to experience desire. This is one of the benefits of following the Goldilocks Rule. If youre already interested in a habit, working on challenges of just manageable difficulty is a good way to keep things interesting. Of course, not all habits have a variable reward component, and you wouldnt want them to. If Google only delivered a useful search result some of the time, I would switch to a competitor pretty quickly. If Uber only picked up half of my trips, I doubt Id be using that service much longer. And if I flossed my teeth each night and only sometimes ended up with a clean mouth, I think Id skip it. Variable rewards or not, no habit will stay interesting forever. At some point, everyone faces the same challenge on the journey of selfimprovement: you have to fall in love with boredom. We all have goals that we would like to achieve and dreams that we would like to fulfill, but it doesnt matter what you are trying to become better at, if you only do the work when its convenient or exciting, then youll never be consistent enough to achieve remarkable results. I can guarantee that if you manage to start a habit and keep sticking to it, there will be days when you
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of variable rewards, using slot machines as an example. Variable rewards, which are unpredictable and vary in frequency, can enhance memory recall and accelerate habit formation. However, they don't create cravings but amplify existing ones by reducing boredom. The ideal balance is a 50/50 split between success and failure, which maintains satisfaction and desire. This balance is part of the Goldilocks Rule, which suggests working on manageable challenges to keep a habit interesting. However, not all habits should have a variable reward component, as consistency is also important. The text concludes by emphasizing the need to embrace boredom and maintain consistency in habits to achieve remarkable results.

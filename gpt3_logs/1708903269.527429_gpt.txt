@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+what you were rewarded     for doing (or punished for doing) in the past. Positive emotions cultivate habits. Negative emotions destroy them. The first three laws of behavior changemake it obvious, make it attractive, and make it easyincrease the odds that a behavior will be performed this time. The fourth law of behavior changemake it satisfyingincreases the odds that a behavior will be repeated next time. It completes the habit loop. But there is a trick. We are not looking for just any type of satisfaction. We are looking for immediate satisfaction.  THE MISMATCH BETWEEN IMMEDIATE AND DELAYED REWARDS Imagine youre an animal roaming the plains of Africaa giraffe or an elephant or a lion. On any given day, most of your decisions have an immediate impact. You are always thinking about what to eat or where to sleep or how to avoid a predator. You are constantly focused on the present or the very near future. You live in what scientists call an immediate-return environment because your actions instantly deliver clear and immediate outcomes. Now switch back to your human self. In modern society, many of the choices you make today will not benefit you immediately. If you do a good job at work, youll get a paycheck in a few weeks. If you exercise today, perhaps you wont be overweight next year. If you save money now, maybe youll have enough for retirement decades from now. You live in what scientists call a delayed-return environment because you can work for years before your actions deliver the intended payoff. The human brain did not evolve for life in a delayed-return environment. The earliest remains of modern humans, known as Homo sapiens sapiens, are approximately two hundred thousand years old. These were the first humans to have a brain relatively similar to ours. In particular, the neocortexthe newest part of the brain and the region responsible for higher functions like languagewas roughly the same size two hundred thousand years ago as today. You
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the four laws of behavior change: making it obvious, attractive, easy, and satisfying. The focus is on the fourth law, which emphasizes the need for immediate satisfaction to ensure a behavior is repeated, completing the habit loop. The text also contrasts immediate-return environments, where actions have instant outcomes, with delayed-return environments, where the benefits of actions are not immediately apparent. It suggests that the human brain, which evolved in an immediate-return environment, struggles with the delayed gratification required in modern society.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+certain rules and then enforce them as a group. Whenever a new piece of legislation impacts behaviorseat belt laws, banning smoking inside restaurants, mandatory recyclingit is an example of a social contract shaping our habits. The group agrees to act in a certain way, and if you dont follow along, youll be punished. Just as governments use laws to hold citizens accountable, you can create a habit contract to hold yourself accountable. A habit contract is a verbal or written agreement in which you state your commitment to a particular habit and the punishment that will occur if you dont follow through. Then you find one or two people to act as your accountability partners and sign off on the contract with you. Bryan Harris, an entrepreneur from Nashville, Tennessee, was the first person I saw put this strategy into action. Shortly after the birth of his son, Harris realized he wanted to shed a few pounds. He wrote up a habit contract between himself, his wife, and his personal trainer. The     first version read, Bryans #1 objective for Q1 of 2017 is to start eating correctly again so he feels better, looks better, and is able to hit his long-term goal of 200 pounds at 10% body fat. Below that statement, Harris laid out a road map for achieving his ideal outcome: Phase #1: Get back to a strict slow-carb diet in Q1. Phase #2: Start a strict macronutrient tracking program in Q2. Phase #3: Refine and maintain the details of his diet and workout program in Q3. Finally, he wrote out each of the daily habits that would get him to his goal. For example, Write down all food that he consumes each day and weigh himself each day. And then he listed the punishment if he failed: If Bryan doesnt do these two items then the following consequence will be enforced: He will have to dress up each workday and each Sunday morning for the rest of the quarter. Dress up is defined as not wearing jeans, t-shirts, hoodies, or shorts. He will also give Joey (his trainer) $200
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of a "habit contract" as a tool for personal accountability in achieving goals. This contract is a verbal or written agreement outlining a commitment to a specific habit and the consequences for not adhering to it. The example given is of Bryan Harris, an entrepreneur who created a habit contract to lose weight. His contract detailed his diet and exercise plan, daily habits, and the punishment for non-compliance, which included dressing formally for work and paying his trainer $200. This strategy is likened to societal rules and legislation, where group agreement and enforcement shape behavior.

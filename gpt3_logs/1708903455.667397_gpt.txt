@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+getting amped up to work on their goals. Whether its business or sports or art, you hear people say things like, It all comes down to passion. Or, You have to really want     it. As a result, many of us get depressed when we lose focus or motivation because we think that successful people have some bottomless reserve of passion. But this coach was saying that really successful people feel the same lack of motivation as everyone else. The difference is that they still find a way to show up despite the feelings of boredom. Mastery requires practice. But the more you practice something, the more boring and routine it becomes. Once the beginner gains have been made and we learn what to expect, our interest starts to fade. Sometimes it happens even faster than that. All you have to do is hit the gym a few days in a row or publish a couple of blog posts on time and letting one day slip doesnt feel like much. Things are going well. Its easy to rationalize taking a day off because youre in a good place. The greatest threat to success is not failure but boredom. We get bored with habits because they stop delighting us. The outcome becomes expected. And as our habits become ordinary, we start derailing our progress to seek novelty. Perhaps this is why we get caught up in a never-ending cycle, jumping from one workout to the next, one diet to the next, one business idea to the next. As soon as we experience the slightest dip in motivation, we begin seeking a new strategyeven if the old one was still working. As Machiavelli noted, Men desire novelty to such an extent that those who are doing well wish for a change as much as those who are doing badly. Perhaps this is why many of the most habit-forming products are those that provide continuous forms of novelty. Video games provide visual novelty. Porn provides sexual novelty. Junk foods provide culinary novelty. Each of these experiences offer continual elements of surprise. In psychology, this is known as a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the role of passion and motivation in achieving goals, highlighting that successful people also experience periods of low motivation. However, they continue to work towards their goals despite feelings of boredom. The text suggests that mastery requires practice, which can become routine and boring over time, leading to a decrease in interest. The greatest threat to success is identified as boredom, not failure, as it can lead to the pursuit of novelty and derail progress. This is seen in the constant switching between workouts, diets, or business ideas. The text also notes that habit-forming products often provide continuous novelty, such as video games, pornography, and junk food, which offer elements of surprise.

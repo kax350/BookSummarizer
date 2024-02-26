@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Stop Pointing at Things, Atlas Obscura, March 29, 2017, https://www.atlasobscura.com/articles/pointing-and-calling-japan-trains. CHAPTER 5 researchers in Great Britain began working: Sarah Milne, Sheina Orbell, and Paschal Sheeran, Combining Motivational and Volitional Interventions to Promote Exercise Participation: Protection Motivation Theory and Implementation Intentions, British Journal of Health Psychology 7 (May 2002): 163184. implementation intentions are effective: Peter Gollwitzer and Paschal Sheeran, Implementation Intentions and Goal Achievement: A MetaAnalysis of Effects and Processes, Advances in Experimental Social Psychology 38 (2006): 69119. writing down the exact time and date of when you will get a flu shot: Katherine L. Milkman, John Beshears, James J. Choi, David Laibson, and Brigitte C. Madrian, Using Implementation Intentions Prompts to Enhance Influenza Vaccination Rates, Proceedings of the National Academy of Sciences 108, no. 26 (June 2011): 10415 10420.     recording the time of your colonoscopy appointment: Katherine L. Milkman, John Beshears, James J. Choi, David Laibson, and Brigitte C. Madrian, Planning Prompts as a Means of Increasing Preventive Screening Rates, Preventive Medicine 56, no. 1 (January 2013): 9293. voter turnout increases: David W. Nickerson and Todd Rogers, Do You Have a Voting Plan? Implementation Intentions, Voter Turnout, and Organic Plan Making, Psychological Science 21, no. 2 (2010): 194199. Other successful government programs: Policymakers around the World Are Embracing Behavioural Science, The Economist, May 18, 2017, https://www.economist.com/news/international/21722163-experimental-iterativedata-driven-approach-gaining-ground-policymakers-around. people who make a specific plan for when and where: Edwin Locke and Gary Latham, Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey, American Psychologist 57, no. 9 (2002): 705717, doi:10.1037//0003
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the effectiveness of implementation intentions, a strategy involving making specific plans for when and where to act. Studies have shown that this approach can promote exercise participation, enhance influenza vaccination rates, increase preventive screening rates, and boost voter turnout. The strategy has been successfully adopted in various government programs worldwide. The concept of implementation intentions is part of a broader theory of goal setting and task motivation, which has been developed over a 35-year period.

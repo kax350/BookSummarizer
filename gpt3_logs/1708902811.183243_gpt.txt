@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+changing your identity. This level is concerned with changing your beliefs: your worldview, your self-image, your judgments about yourself and others. Most of the beliefs, assumptions, and biases you hold are associated with this level. Outcomes are about what you get. Processes are about what you do. Identity is about what you believe. When it comes to building habits that lastwhen it comes to building a system of 1 percent improvementsthe problem is not that one level is better or worse than another. All levels of change are useful in their own way. The problem is the direction of change. Many people begin the process of changing their habits by focusing on what they want to achieve. This leads us to outcome-based habits. The alternative is to build identity-based habits. With this approach, we start by focusing on who we wish to become.     OUTCOME-BASED HABITS  IDENTITY-BASED HABITS  FIGURE 4: With outcome-based habits, the focus is on what you want to achieve. With identity-based habits, the focus is on who you wish to become.  Imagine two people resisting a cigarette. When offered a smoke, the first person says, No thanks. Im trying to quit. It sounds like a reasonable response, but this person still believes they are a smoker who is trying to be something else. They are hoping their behavior will change while carrying around the same beliefs. The second person declines by saying, No thanks. Im not a smoker. Its a small difference, but this statement signals a shift in identity. Smoking was part of their former life, not their current one. They no longer identify as someone who smokes. Most people dont even consider identity change when they set out to improve. They just think, I want to be skinny (outcome) and if I stick to this diet, then Ill be skinny (process). They set goals and determine the actions they should take to achieve those goals without considering the beliefs that drive their actions. They never shift the     way they look at
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses two types of habit formation: outcome-based and identity-based. Outcome-based habits focus on what one wants to achieve, while identity-based habits focus on who one wishes to become. The problem with habit change isn't about which level is better, but rather the direction of change. Many people focus on their desired outcomes without considering the underlying beliefs that drive their actions. The text suggests that a more effective approach might be to change one's identity or self-perception first. For instance, instead of a smoker saying they're trying to quit (outcome-based), they could say they're not a smoker (identity-based), signaling a shift in identity and potentially making the habit change more successful.

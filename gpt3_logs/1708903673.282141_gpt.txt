@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Philip K. Peake, The Nature of Adolescent Competencies Predicted by Preschool Delay of Gratification, Journal of Personality and Social Psychology 54, no. 4 (1988), doi:10.1037//0022 3514.54.4.687; Yuichi Shoda, Walter Mischel, and Philip K. Peake, Predicting Adolescent Cognitive and Self-Regulatory Competencies from Preschool Delay of Gratification: Identifying Diagnostic Conditions, Developmental Psychology 26, no. 6 (1990), doi:10.1037//00121649.26.6.978. CHAPTER 16 I would start with 120 paper clips in one jar: Trent Dyrsmid, email to author, April 1, 2015. Benjamin Franklin: Benjamin Franklin and Frank Woodworth Pine, Autobiography of Benjamin Franklin (New York: Holt, 1916), 148. Dont break the chain of creating every day: Shout-out to my friend Nathan Barry, who originally inspired me with the mantra, Create Every Day. people who track their progress on goals like losing weight: Benjamin Harkin et al., Does Monitoring Goal Progress Promote Goal Attainment? A Meta-analysis of the Experimental Evidence, Psychological Bulletin 142, no. 2 (2016), doi:10.1037/bul0000025. those who kept a daily food log lost twice as much weight as those who did not: Miranda Hitti, Keeping Food Diary Helps Lose Weight, WebMD, July 8, 2008, http://www.webmd.com/diet/news/20080708/keeping-food-diary-helps-lose-weight; Kaiser Permanente, Keeping a Food Diary Doubles Diet Weight Loss, Study Suggests, Science Daily, July 8, 2008, https://www.sciencedaily.com/releases/2008/07/080708080738.htm; Jack F. Hollis et al., Weight Loss during the Intensive Intervention Phase of the Weight-Loss Maintenance Trial, American Journal of Preventive Medicine 35, no. 2 (2008), doi:10.1016/j.amepre.2008.04.013; Lora E. Burke, Jing Wang, and Mary Ann Sevick, Self-Monitoring in Weight Loss: A Systematic Review of the Literature, Journal of the American Dietetic Association 111, no. 1 (2011), doi:10.1016/j.jada.2010.10.008.     The most effective form of motivation is progress: This
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of self-monitoring and progress tracking in achieving goals, particularly in weight loss. It cites studies by Philip K. Peake and Yuichi Shoda, which suggest that the ability to delay gratification in preschool predicts adolescent competencies. The text also references a study by Benjamin Harkin et al., which supports the idea that monitoring goal progress promotes goal attainment. Furthermore, it mentions a study that found individuals who kept a daily food log lost twice as much weight as those who did not. The text concludes by stating that the most effective form of motivation is progress.

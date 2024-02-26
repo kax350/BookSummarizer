@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+clutter when you fail to tidy up.     * Interested readers can find a habit tracker template at atomichabits.com/tracker.     * You can see the actual Habit Contracts used by Bryan Harris and get a blank template at atomichabits.com/contract.     * If you are interested in taking a personality test, you can find links to the most reliable tests here: atomichabits.com/personality.     * If its Harry Potter on repeat, I feel you.     * I have a pet theory about what happens when we achieve a flow state. This isnt confirmed. Its just my guess. Psychologists commonly refer to the brain as operating in two modes: System 1 and System 2. System 1 is fast and instinctual. Generally speaking, processes you can perform very quickly (like habits) are governed by System 1. Meanwhile, System 2 controls thinking processes that are more effortful and slowlike calculating the answer to a difficult math problem. With regard to flow, I like to imagine System 1 and System 2 as residing on opposite ends of the spectrum of thinking. The more automatic a cognitive process is, the more it slides toward the System 1 side of the spectrum. The more effortful a task is, the more it slides toward System 2. Flow, I believe, resides on the razors edge between System 1 and System 2. You are fully using all of your automatic and implicit knowledge related to the task while also working hard to rise to a challenge beyond your ability. Both brain modes are fully engaged. The conscious and nonconscious are working perfectly in sync.     * The discovery of variable rewards happened by accident. One day in the lab, the famous Harvard psychologist B. F. Skinner was running low on food pellets during one experiment and making more was a time-consuming process because he had to manually press the pellets in a machine. This situation led him to ask myself why every press of the lever had to be reinforced. He decided to only give treats to the rats intermittently and, to his surprise, varying the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of flow state, which is theorized to exist between the brain's System 1 and System 2. System 1 is fast and instinctual, governing quick processes like habits, while System 2 controls more effortful and slow thinking processes. Flow state is believed to occur when both systems are fully engaged, using all automatic and implicit knowledge while also working hard to meet a challenge. The text also mentions the discovery of variable rewards by psychologist B.F. Skinner, who found that giving treats to rats intermittently during an experiment led to unexpected results. The text provides links to resources such as a habit tracker, a habit contract, and a personality test.

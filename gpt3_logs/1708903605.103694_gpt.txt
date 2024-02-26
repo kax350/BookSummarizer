@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+it became almost automatic to fall asleep in their bed because a successful trigger had been created. For more, see Charles M. Morin et al., Psychological and Behavioral Treatment of Insomnia: Update of the Recent Evidence (19982004), Sleep 29, no. 11 (2006), doi:10.1093/sleep/29.11.1398; and Gregory Ciotti, The Best Way to Change Your Habits? Control Your Environment, Sparring Mind, https://www.sparringmind.com/changing-habits. habits can be easier to change in a new environment: S. Thompson, J. Michaelson, S. Abdallah, V. Johnson, D. Morris, K. Riley, and A. Simms, Moments of Change as Opportunities for Influencing Behaviour: A Report to the Department for Environment, Food and Rural Affairs (London: Defra, 2011), http://randd.defra.gov.uk/Document.aspx? Document=MomentsofChangeEV0506FinalReport Nov2011(2).pdf. when you step outside your normal environment: Various research studies have found that it is easier to change your behavior when your environment changes. For example, students change their television watching habits when they transfer schools. Wendy Wood and David T. Neal, Healthy through Habit: Interventions for Initiating and Maintaining Health Behavior Change, Behavioral Science and Policy 2, no. 1 (2016), doi:10.1353/bsp.2016.0008; W. Wood, L. Tam, and M. G. Witt, Changing Circumstances, Disrupting Habits, Journal of Personality and Social Psychology 88, no. 6 (2005), doi:10.1037/00223514.88.6.918 You arent battling old environmental cues: Perhaps this is why 36 percent of successful changes in behavior were associated with a move to a new place. Melissa Guerrero-Witt, Wendy Wood, and Leona Tam, Changing Circumstances, Disrupting Habits, PsycEXTRA Dataset 88, no. 6 (2005), doi:10.1037/e529412014144. CHAPTER 7 Follow-up research revealed that 35 percent of service members: Lee N. Robins et al., Vietnam Veterans Three Years after Vietnam: How Our Study Changed Our View of Heroin, American Journal on Addictions 19, no. 3 (2010),
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the influence of environment on habit formation and change. It suggests that creating successful triggers, such as associating sleep with a specific bed, can help in forming habits. The text also highlights that changing habits can be easier in a new environment, as demonstrated by students altering their TV watching habits when they switch schools. Furthermore, it notes that 36% of successful behavioral changes were linked to moving to a new place, indicating that new environments can disrupt old habits. The text also mentions a study on Vietnam veterans, suggesting further research on the topic.

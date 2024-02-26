@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+nontaxi drivers. Even more fascinating, the hippocampus decreased in size when a driver retired. Like the muscles of the body responding to regular weight training, particular regions of the brain adapt as they are used and atrophy as they are abandoned. Of course, the importance of repetition in establishing habits was recognized long before neuroscientists began poking around. In 1860, the English philosopher George H. Lewes noted, In learning to speak a new language, to play on a musical instrument, or to perform unaccustomed movements, great difficulty is felt, because the channels through which each sensation has to pass have not become established; but no sooner has frequent repetition cut a pathway, than this difficulty vanishes; the actions become so automatic that they can be performed while the mind is otherwise engaged. Both common sense and scientific evidence agree: repetition is a form of change. Each time you repeat an action, you are activating a particular neural circuit associated with that habit. This means that simply putting in your reps is one of the most critical steps you can take to     encoding a new habit. It is why the students who took tons of photos improved their skills while those who merely theorized about perfect photos did not. One group engaged in active practice, the other in passive learning. One in action, the other in motion. All habits follow a similar trajectory from effortful practice to automatic behavior, a process known as automaticity. Automaticity is the ability to perform a behavior without thinking about each step, which occurs when the nonconscious mind takes over. It looks something like this:  THE HABIT LINE  FIGURE 11: In the beginning (point A), a habit requires a good deal of effort and concentration to perform. After a few repetitions (point B), it gets easier, but still requires some conscious attention. With enough practice (point C), the habit becomes more automatic than conscious. Beyond this threshold
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the importance of repetition in forming habits and how it impacts the brain. It uses the example of London taxi drivers, whose hippocampus, a brain region associated with spatial memory, grows larger with experience and shrinks upon retirement. This demonstrates how the brain adapts and atrophies based on use and disuse, respectively. The text also emphasizes that active practice is crucial for encoding a new habit, as opposed to passive learning. This process, known as automaticity, allows a behavior to be performed without conscious thought after sufficient repetition.

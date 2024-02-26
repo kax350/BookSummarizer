@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+you optimize. You cant improve a habit that doesnt exist.   14 How to Make Good Habits Inevitable and Bad Habits Impossible  I  N THE SUMMER OF 1830, Victor Hugo was facing an impossible deadline.  Twelve months earlier, the French author had promised his publisher a new book. But instead of writing, he spent that year pursuing other projects, entertaining guests, and delaying his work. Frustrated, Hugos publisher responded by setting a deadline less than six months away. The book had to be finished by February 1831. Hugo concocted a strange plan to beat his procrastination. He collected all of his clothes and asked an assistant to lock them away in a large chest. He was left with nothing to wear except a large shawl. Lacking any suitable clothing to go outdoors, he remained in his study and wrote furiously during the fall and winter of 1830. The Hunchback of Notre Dame was published two weeks early on January 14, 1831.* Sometimes success is less about making good habits easy and more about making bad habits hard. This is an inversion of the 3rd Law of Behavior Change: make it difficult. If you find yourself continually struggling to follow through on your plans, then you can take a page from Victor Hugo and make your bad habits more difficult by creating what psychologists call a commitment device. A commitment device is a choice you make in the present that controls your actions in the future. It is a way to lock in future behavior, bind you to good habits, and restrict you from bad ones. When Victor Hugo shut his clothes away so he could focus on writing, he was creating a commitment device.*     There are many ways to create a commitment device. You can reduce overeating by purchasing food in individual packages rather than in bulk size. You can voluntarily ask to be added to the banned list at casinos and online poker sites to prevent future gambling sprees. Ive even heard of athletes who have to make weight for a competition choosing to leave their
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In 1830, French author Victor Hugo faced a challenging deadline for his new book. Instead of writing, he had spent the year on other activities. To overcome his procrastination, Hugo had all his clothes locked away, leaving him with only a shawl. This forced him to stay indoors and focus on writing, resulting in the early completion of "The Hunchback of Notre Dame". This strategy is an example of a commitment device, a choice made in the present to control future actions. It's a method to enforce good habits and restrict bad ones. Other examples of commitment devices include buying food in individual packages to prevent overeating, or voluntarily banning oneself from gambling sites to avoid future gambling.

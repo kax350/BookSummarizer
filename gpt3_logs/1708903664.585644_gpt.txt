@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Encyclopdia Britannica, https://www.britannica.com/biography/William-Wrigley-Jr, accessed June 8, 2018. Toothpaste had a similar trajectory: Charles Duhigg, The Power of Habit: Why We Do What We Do in Life and Business (New York: Random House, 2014), chap. 2.  he started avoiding her: Sparkly_alpaca, What Are the Coolest Psychology Tricks That You Know or Have Used? Reddit, November 11, 2016, https://www.reddit.com/r/AskReddit/comments/5cgqbj/what_are_the_coolest_psychology_tricks_th The earliest remains of modern humans: Ian Mcdougall, Francis H. Brown, and John G. Fleagle, Stratigraphic Placement and Age of Modern Humans from Kibish, Ethiopia, Nature 433, no. 7027 (2005), doi:10.1038/nature03258. the neocortex . . . was roughly the same: Some research indicates that the size of the human brain reached modern proportions around three hundred thousand years ago. Evolution never stops, of course, and the shape of the structure appears to have continued to evolve in meaningful ways until it reached both modern size and shape sometime between one hundred thousand and thirty-five thousand years ago. Simon Neubauer, Jean-Jacques Hublin, and Philipp Gunz, The Evolution of Modern Human Brain Shape, Science Advances 4, no. 1 (2018): eaao5961. society has shifted to a predominantly delayed-return environment: The original research on this topic used the terms delayed-return societies and immediate-return societies. James Woodburn, Egalitarian Societies, Man 17, no. 3 (1982), doi:10.2307/2801707. I first heard of the difference between immediate-return environments and delayed-return environments in a lecture from Mark Leary. Mark Leary, Understanding the Mysteries of Human Behavior (Chantilly, VA: Teaching, 2012).  The world has changed much in recent years: The rapid environmental changes of recent centuries have far outpaced our biological ability to adapt. On average, it takes about twenty-five thousand years for meaningful genetic changes to be selected for in a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various topics including the history of toothpaste, human behavior, and the evolution of the human brain. It mentions that the human brain reached its modern proportions around 300,000 years ago, with the structure continuing to evolve until it achieved its modern size and shape between 100,000 and 35,000 years ago. The text also discusses the shift in society to a predominantly delayed-return environment, a concept first introduced by James Woodburn. Lastly, it highlights the rapid environmental changes in recent centuries, which have outpaced our biological ability to adapt, noting that it takes about 25,000 years for meaningful genetic changes to occur.

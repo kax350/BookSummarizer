@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+our habits attractive because it is the expectation of a rewarding experience that motivates us to act in the first place. This is where a strategy known as temptation bundling comes into play.  HOW TO USE TEMPTATION BUNDLING TO MAKE YOUR HABITS MORE ATTRACTIVE Ronan Byrne, an electrical engineering student in Dublin, Ireland, enjoyed watching Netflix, but he also knew that he should exercise more often than he did. Putting his engineering skills to use, Byrne hacked his stationary bike and connected it to his laptop and television. Then he wrote a computer program that would allow Netflix to run only if he was cycling at a certain speed. If he slowed down for too long, whatever show he was watching would pause until he started pedaling again. He was, in the words of one fan, eliminating obesity one Netflix binge at a time. He was also employing temptation bundling to make his exercise habit more attractive. Temptation bundling works by linking an action you want to do with an action you need to do. In Byrnes case, he bundled watching Netflix (the thing he wanted to do) with riding his stationary bike (the thing he needed to do).     Businesses are masters at temptation bundling. For instance, when the American Broadcasting Company, more commonly known as ABC, launched its Thursday-night television lineup for the 20142015 season, they promoted temptation bundling on a massive scale. Every Thursday, the company would air three shows created by screenwriter Shonda RhimesGreys Anatomy, Scandal, and How to Get Away with Murder. They branded it as TGIT on ABC (TGIT stands for Thank God Its Thursday). In addition to promoting the shows, ABC encouraged viewers to make popcorn, drink red wine, and enjoy the evening. Andrew Kubitz, head of scheduling for ABC, described the idea behind the campaign: We see Thursday night as a viewership opportunity, with either couples or women by themselves who want to sit down and escape and have fun and drink their red wine and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Temptation bundling is a strategy that makes habits more attractive by linking an action you want to do with an action you need to do. An example is Ronan Byrne, an engineering student who connected his stationary bike to his Netflix account, allowing the program to run only if he was cycling at a certain speed. This made his exercise habit more appealing. Businesses also use temptation bundling, such as the American Broadcasting Company (ABC) promoting a Thursday-night television lineup with activities like making popcorn and drinking wine, creating an enjoyable evening for viewers.

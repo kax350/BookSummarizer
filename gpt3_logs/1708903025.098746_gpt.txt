@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+birds would reject them altogether. However, when the tiny gulls saw the red spot on the cardboard beak, they pecked away just as if it were attached to their own mother. They had a clear preference for those red spotsas if they had been genetically programmed at birth. Soon Tinbergen discovered that the bigger the red spot, the faster the chicks pecked. Eventually, he created a beak with three large red dots on it. When he placed it over the nest, the baby birds went crazy with delight. They pecked at the little red patches as if it was the greatest beak they had ever seen. Tinbergen and his colleagues discovered similar behavior in other animals. For example, the greylag goose is a ground-nesting bird. Occasionally, as the mother moves around on the nest, one of the eggs will roll out and settle on the grass nearby. Whenever this happens, the goose will waddle over to the egg and use its beak and neck to pull it back into the nest.     Tinbergen discovered that the goose will pull any nearby round object, such as a billiard ball or a lightbulb, back into the nest. The bigger the object, the greater their response. One goose even made a tremendous effort to roll a volleyball back and sit on top. Like the baby gulls automatically pecking at red dots, the greylag goose was following an instinctive rule: When I see a round object nearby, I must roll it back into the nest. The bigger the round object, the harder I should try to get it. Its like the brain of each animal is preloaded with certain rules for behavior, and when it comes across an exaggerated version of that rule, it lights up like a Christmas tree. Scientists refer to these exaggerated cues as supernormal stimuli. A supernormal stimulus is a heightened version of realitylike a beak with three red dots or an egg the size of a volleyballand it elicits a stronger response than usual. Humans are also prone to fall for exaggerated versions of reality. Junk food, for example, drives our reward systems into a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of 'supernormal stimuli', a term used to describe exaggerated versions of reality that elicit stronger responses in animals and humans. The concept is illustrated through the experiments of Tinbergen, who found that baby gulls pecked more at a cardboard beak with large red spots, and greylag geese tried harder to roll larger round objects back into their nests. These behaviors suggest that animals are instinctively programmed to respond to certain cues, and these responses are amplified when the cues are exaggerated. The text also suggests that humans are susceptible to supernormal stimuli, as seen in our reactions to things like junk food.

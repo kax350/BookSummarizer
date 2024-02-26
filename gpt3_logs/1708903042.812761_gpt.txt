@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+minutes, the mice developed a craving so strong they began poking their nose into the box eight hundred times per hour. (Humans are not so     different: the average slot machine player will spin the wheel six hundred times per hour.) Habits are a dopamine-driven feedback loop. Every behavior that is highly habit-formingtaking drugs, eating junk food, playing video games, browsing social mediais associated with higher levels of dopamine. The same can be said for our most basic habitual behaviors like eating food, drinking water, having sex, and interacting socially. For years, scientists assumed dopamine was all about pleasure, but now we know it plays a central role in many neurological processes, including motivation, learning and memory, punishment and aversion, and voluntary movement. When it comes to habits, the key takeaway is this: dopamine is released not only when you experience pleasure, but also when you anticipate it. Gambling addicts have a dopamine spike right before they place a bet, not after they win. Cocaine addicts get a surge of dopamine when they see the powder, not after they take it. Whenever you predict that an opportunity will be rewarding, your levels of dopamine spike in anticipation. And whenever dopamine rises, so does your motivation to act. It is the anticipation of a rewardnot the fulfillment of itthat gets us to take action. Interestingly, the reward system that is activated in the brain when you receive a reward is the same system that is activated when you anticipate a reward. This is one reason the anticipation of an experience can often feel better than the attainment of it. As a child, thinking about Christmas morning can be better than opening the gifts. As an adult, daydreaming about an upcoming vacation can be more enjoyable than actually being on vacation. Scientists refer to this as the difference between wanting and liking.    THE DOPAMINE SPIKE     FIGURE 9: Before a habit is learned (A), dopamine is released when
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Habits are a dopamine-driven feedback loop, with dopamine being associated with both pleasurable and habitual behaviors. Previously thought to be solely about pleasure, dopamine is now understood to play a role in motivation, learning, memory, punishment, aversion, and voluntary movement. Crucially, dopamine is released not only when pleasure is experienced, but also when it is anticipated. This anticipation often motivates action more than the actual fulfillment of the reward. This is why the anticipation of an event can often feel better than the event itself, a phenomenon scientists refer to as the difference between wanting and liking.

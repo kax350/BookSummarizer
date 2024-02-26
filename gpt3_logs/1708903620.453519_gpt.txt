@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+A. Mcdevitt et al., Serotonergic versus Nonserotonergic Dorsal Raphe Projection Neurons: Differential Participation in Reward Circuitry, Cell Reports 8, no. 6 (2014), doi:10.1016/j.cel rep.2014.08.037.  the average slot machine player: Natasha Dow Schll, Addiction by Design: Machine Gambling in Las Vegas (Princeton, NJ: Princeton University Press, 2014), 55. Habits are a dopamine-driven feedback loop: I first heard the term dopamine-driven feedback loop from Chamath Palihapitiya. For more, see Chamath Palihapitiya, Founder and CEO Social Capital, on Money as an Instrument of Change, Stanford Graduate School of Business, November 13, 2017, https://www.youtube.com/watch? v=PMotykw0SIk. dopamine . . . plays a central role in many neurological processes: Researchers later discovered that endorphins and opioids were responsible for pleasure responses. For more, see V. S. Chakravarthy, Denny Joseph, and Raju S. Bapi, What Do the Basal Ganglia Do? A Modeling Perspective, Biological Cybernetics 103, no. 3 (2010), doi:10.1007/s004220100401-y. dopamine is released not only when you experience pleasure: Wolfram Schultz, Neuronal Reward and Decision Signals: From Theories to Data, Physiological Reviews 95, no. 3 (2015), doi:10.1152/physrev.00023.2014, fig. 8; Fran Smith, How Science Is Unlocking the Secrets of Addiction, National Geographic, September 2017, https://www.nationalgeographic.com/magazine/2017/09/the-addicted-brain. whenever dopamine rises, so does your motivation: Dopamine compels you to seek, explore, and take action: Dopamine-energized, this mesolimbic SEEKING system, arising from the ventral tegmental area (VTA), encourages foraging, exploration, investigation, curiosity, interest and expectancy. Dopamine fires each time the rat (or human) explores its environment. . . . I can look at the animal and tell when I am tickling its SEEKING system because it is exploring and sniffing. For more, see Karin Badt, Depressed? Your SEEKING System Might Not
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the role of dopamine in neurological processes and its impact on human behavior. Dopamine, a neurotransmitter, is not only released during pleasurable experiences but also influences motivation, compelling individuals to seek, explore, and take action. This dopamine-driven feedback loop is a key component in reward circuitry and can lead to habitual behaviors. The text also references the work of various researchers and experts, including A. Mcdevitt, Natasha Dow Schll, and Chamath Palihapitiya, who have contributed to the understanding of dopamine's role in the brain and its impact on behavior.

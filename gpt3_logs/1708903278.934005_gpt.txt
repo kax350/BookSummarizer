@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+years. Every habit produces multiple outcomes across time. Unfortunately, these outcomes are often misaligned. With our bad habits, the immediate outcome usually feels good, but the ultimate outcome feels bad. With good habits, it is the reverse: the immediate outcome is unenjoyable, but the ultimate outcome feels good. The French economist Frdric Bastiat explained the problem clearly when he wrote, It almost always happens that when the immediate consequence is favorable, the later consequences are disastrous, and vice versa. . . . Often, the sweeter the first fruit of a habit, the more bitter are its later fruits.     Put another way, the costs of your good habits are in the present. The costs of your bad habits are in the future. The brains tendency to prioritize the present moment means you cant rely on good intentions. When you make a planto lose weight, write a book, or learn a languageyou are actually making plans for your future self. And when you envision what you want your life to be like, it is easy to see the value in taking actions with long-term benefits. We all want better lives for our future selves. However, when the moment of decision arrives, instant gratification usually wins. You are no longer making a choice for Future You, who dreams of being fitter or wealthier or happier. You are choosing for Present You, who wants to be full, pampered, and entertained. As a general rule, the more immediate pleasure you get from an action, the more strongly you should question whether it aligns with your long-term goals.* With a fuller understanding of what causes our brain to repeat some behaviors and avoid others, lets update the Cardinal Rule of Behavior Change: What is immediately rewarded is repeated. What is immediately punished is avoided. Our preference for instant gratification reveals an important truth about success: because of how we are wired, most people will spend all day chasing quick hits of satisfaction. The road less traveled is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the dichotomy between good and bad habits, and their respective immediate and ultimate outcomes. Bad habits often provide immediate satisfaction but lead to negative long-term consequences, while good habits may be initially unenjoyable but yield positive ultimate outcomes. This is due to the brain's tendency to prioritize immediate gratification over long-term benefits. Despite planning for future improvements, when the decision-making moment arrives, people often choose what benefits their present selves over their future selves. This highlights the importance of questioning actions that provide immediate pleasure to ensure they align with long-term goals. The text concludes by stating that most people chase quick satisfaction due to their wiring, making the path of delayed gratification less traveled.

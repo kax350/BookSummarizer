@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+a broken nose, multiple skull fractures, and two shattered eye sockets. When I opened my eyes, I saw people staring at me and running over to help. I looked down and noticed spots of red on my clothes. One of my classmates took the shirt off his back and handed it to me. I used it to plug the stream of blood rushing from my broken nose. Shocked and confused, I was unaware of how seriously I had been injured. My teacher looped his arm around my shoulder and we began the long walk to the nurses office: across the field, down the hill, and back into school. Random hands touched my sides, holding me upright. We took our time and walked slowly. Nobody realized that every minute mattered. When we arrived at the nurses office, she asked me a series of questions.    What year is it? 1998, I answered. It was actually 2002. Who is the president of the United States? Bill Clinton, I said. The correct answer was George W. Bush.   What is your moms name? Uh. Um. I stalled. Ten seconds passed. Patti, I said casually, ignoring the fact that it had taken me ten seconds to remember my own mothers name. That is the last question I remember. My body was unable to handle the rapid swelling in my brain and I lost consciousness before the ambulance arrived. Minutes later, I was carried out of school and taken to the local hospital. Shortly after arriving, my body began shutting down. I struggled with basic functions like swallowing and breathing. I had my first seizure of the day. Then I stopped breathing entirely. As the doctors hurried to supply me with oxygen, they also decided the local hospital was unequipped to handle the situation and ordered a helicopter to fly me to a larger hospital in Cincinnati. I was rolled out of the emergency room doors and toward the helipad across the street. The stretcher rattled on a bumpy sidewalk as one nurse pushed me along while another pumped each breath into me by hand. My mother, who had arrived at the hospital a few moments
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text describes a severe accident where the narrator sustains serious injuries including a broken nose, skull fractures, and shattered eye sockets. Initially unaware of the severity of their condition, they are helped to the nurse's office. However, their confusion and incorrect answers to basic questions reveal a significant head injury. They lose consciousness before an ambulance arrives and are taken to a local hospital. There, they experience a seizure and stop breathing, leading doctors to realize the local hospital is ill-equipped to handle their condition. They are then prepared for a helicopter transfer to a larger hospital in Cincinnati.

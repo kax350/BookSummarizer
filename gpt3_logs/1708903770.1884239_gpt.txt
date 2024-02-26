@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+can get a template to create their own Habits Scorecard at atomichabits.com/scorecard.     * In addition to her payment for the library, Catherine the Great asked Diderot to keep the books until she needed them and offered to pay him a yearly salary to act as her librarian.     * Fogg refers to this strategy as the Tiny Habits recipe, but Ill call it the habit stacking formula throughout the book.     * If youre looking for more examples and guidance, you can download a Habit Stacking template at atomichabits.com/habitstacking.     * Dopamine is not the only chemical that influences your habits. Every behavior involves multiple brain regions and neurochemicals, and anyone who claims that habits are all about dopamine is skipping over major portions of the process. It is just one of the important role players in habit formation. However, I will single out the dopamine circuit in this chapter because it provides a window into the biological underpinnings of desire, craving, and motivation that are behind every habit.     * Im so happy I was able to fit a Game of Thrones reference into this book.     * This is just a partial list of underlying motives. I offer a more complete list and more examples of how to apply them to business at atomichabits.com/business.     * A similar story is told in the book Art & Fear by David Bayles and Ted Orland. It has been adapted here with permission. See the endnotes for a full explanation.     * This is a foundational principle in physics, where it is known as the Principle of Least Action. It states that the path followed between any two points will always be the path requiring the least energy. This simple principle underpins the laws of the universe. From this one idea, you can describe the laws of motion and relativity.     * The phrase addition by subtraction is also used by teams and businesses to describe removing people from a group in order to make the team stronger overall.     * To be fair, this still sounds like an
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various aspects of habit formation, referencing resources available at atomichabits.com. It mentions the Habits Scorecard and Habit Stacking template, tools for understanding and building habits. The text also discusses the role of dopamine in habit formation, emphasizing that it's not the only factor, but it's significant due to its influence on desire, craving, and motivation. The text also refers to the Principle of Least Action in physics, which suggests that the path requiring the least energy is always followed, a concept that can be applied to habit formation. The phrase "addition by subtraction" is also mentioned, a strategy used by teams and businesses to strengthen their overall performance by removing certain members.

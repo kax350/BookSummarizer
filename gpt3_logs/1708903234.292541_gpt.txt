@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+this book, I experimented with a new time management strategy. Every Monday, my assistant would reset the passwords on all my social media accounts, which logged me out on each device. All week I worked without distraction. On Friday, she would send me the new passwords. I had the entire weekend to enjoy what social media had to offer until Monday morning when she would do it again. (If you dont have an assistant, team up with a friend or family member and reset each others passwords each week.) One of the biggest surprises was how quickly I adapted. Within the first week of locking myself out of social media, I realized that I didnt need to check it nearly as often as I had been, and I certainly didnt need it each day. It had simply been so easy that it had become the default. Once my bad habit became impossible, I discovered that I did actually have the motivation to work on more meaningful tasks. After I removed the mental candy from my environment, it became much easier to eat the healthy stuff. When working in your favor, automation can make your good habits inevitable and your bad habits impossible. It is the ultimate way to lock in future behavior rather than relying on willpower in the moment. By utilizing commitment devices, strategic onetime decisions, and technology, you can create an environment of inevitabilitya space where good habits are not just an outcome you hope for but an outcome that is virtually guaranteed.    Chapter Summary The inversion of the 3rd Law of Behavior Change is make it difficult. A commitment device is a choice you make in the present that locks in better behavior in the future. The ultimate way to lock in future behavior is to automate your habits.   Onetime choiceslike buying a better mattress or enrolling in an automatic savings planare single actions that automate your future habits and deliver increasing returns over time. Using technology to automate your habits is the most reliable and effective way to guarantee the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The author experimented with a time management strategy where his assistant would reset his social media passwords every Monday, effectively locking him out for the week, and then provide them on Friday. This strategy helped him realize he didn't need to check social media as frequently as he had been. The author suggests that automation can make good habits inevitable and bad habits impossible, creating an environment where good habits are virtually guaranteed. This can be achieved through commitment devices, strategic one-time decisions, and technology. The author emphasizes that one-time choices, like buying a better mattress or enrolling in an automatic savings plan, can automate future habits and deliver increasing returns over time.

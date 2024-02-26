@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Guerrouj would be at a severe disadvantage before he ever touched the pool. The secret to maximizing your odds of success is to choose the right field of competition. This is just as true with habit change as it is with sports and business. Habits are easier to perform, and more satisfying to stick with, when they align with your natural inclinations and abilities. Like Michael Phelps in the pool or Hicham El Guerrouj on the track, you want to play a game where the odds are in your favor. Embracing this strategy requires the acceptance of the simple truth that people are born with different abilities. Some people dont like to discuss this fact. On the surface, your genes seem to be fixed, and its no fun to talk about things you cannot control. Plus, phrases like biological determinism makes it sound like certain individuals are destined for success and others doomed to failure. But this is a shortsighted view of the influence of genes on behavior. The strength of genetics is also their weakness. Genes cannot be easily changed, which means they provide a powerful advantage in favorable circumstances and a serious disadvantage in unfavorable circumstances. If you want to dunk a basketball, being seven feet tall is very useful. If you want to perform a gymnastics routine, being seven feet tall is a great hindrance. Our environment determines the suitability of our genes and the utility of our natural talents. When our environment changes, so do the qualities that determine success. This is true not just for physical characteristics but for mental ones as well. Im smart if you ask me about habits and human behavior; not     so much when it comes to knitting, rocket propulsion, or guitar chords. Competence is highly dependent on context. The people at the top of any competitive field are not only well trained, they are also well suited to the task. And this is why, if you want to be truly great, selecting the right place to focus is crucial. In short: genes do not
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text emphasizes the importance of choosing the right field of competition to maximize success, whether in sports, business, or habit change. It argues that habits are easier to maintain when they align with one's natural abilities and inclinations. The text acknowledges the role of genetics in determining abilities, but also highlights the influence of environment on the utility of these genetic traits. It suggests that competence is context-dependent, and those who excel in any field are not only well-trained but also well-suited to the task. Therefore, selecting the right focus area is crucial for achieving greatness.

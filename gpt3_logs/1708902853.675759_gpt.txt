@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and expand your identity. The real reason habits matter is not because they can get you better results (although they can do that), but because they can change your beliefs about yourself.   3 How to Build Better Habits in 4 Simple Steps  I  N 1898, A psychologist named Edward Thorndike conducted an  experiment that would lay the foundation for our understanding of how habits form and the rules that guide our behavior. Thorndike was interested in studying the behavior of animals, and he started by working with cats. He would place each cat inside a device known as a puzzle box. The box was designed so that the cat could escape through a door by some simple act, such as pulling at a loop of cord, pressing a lever, or stepping on a platform. For example, one box contained a lever that, when pressed, would open a door on the side of the box. Once the door had been opened, the cat could dart out and run over to a bowl of food. Most cats wanted to escape as soon as they were placed inside the box. They would poke their nose into the corners, stick their paws through openings, and claw at loose objects. After a few minutes of exploration, the cats would happen to press the magical lever, the door would open, and they would escape. Thorndike tracked the behavior of each cat across many trials. In the beginning, the animals moved around the box at random. But as soon as the lever had been pressed and the door opened, the process of learning began. Gradually, each cat learned to associate the action of pressing the lever with the reward of escaping the box and getting to the food. After twenty to thirty trials, this behavior became so automatic and habitual that the cat could escape within a few seconds. For example,     Thorndike noted, Cat 12 took the following times to perform the act. 160 seconds, 30 seconds, 90 seconds, 60, 15, 28, 20, 30, 22, 11, 15, 20, 12, 10, 14, 10, 8, 8, 5, 10, 8, 6, 6, 7. During the first three trials, the cat escaped in an average of 1.5
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In 1898, psychologist Edward Thorndike conducted an experiment that laid the groundwork for understanding how habits form and influence behavior. He placed cats in a puzzle box that could be escaped by performing a simple action, like pressing a lever. Initially, the cats moved randomly, but over time, they learned to associate pressing the lever with the reward of escape and food. After twenty to thirty trials, this behavior became automatic and habitual, demonstrating that habits can be formed through repeated association of actions with rewards. This experiment underscores the importance of habits in shaping beliefs about oneself.

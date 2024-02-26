@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+systematically reframes each cue associated with smoking and gives it a new meaning. He says things like: You think you are quitting something, but youre not quitting anything because cigarettes do nothing for you. You think smoking is something you need to do to be social, but its not. You can be social without smoking at all. You think smoking is about relieving stress, but its not. Smoking does not relieve your nerves, it destroys them. Over and over, he repeats these phrases and others like them. Get it clearly into your mind, he says. You are losing nothing and you are making marvelous positive gains not only in health, energy and money but also in confidence, self-respect, freedom and, most important of all, in the length and quality of your future life. By the time you get to the end of the book, smoking seems like the most ridiculous thing in the world to do. And if you no longer expect smoking to bring you any benefits, you have no reason to smoke. It is an inversion of the 2nd Law of Behavior Change: make it unattractive. Now, I know this idea might sound overly simplistic. Just change your mind and you can quit smoking. But stick with me for a minute.  WHERE CRAVINGS COME FROM Every behavior has a surface level craving and a deeper, underlying motive. I often have a craving that goes something like this: I want to eat tacos. If you were to ask me why I want to eat tacos, I wouldnt say, Because I need food to survive. But the truth is, somewhere deep down, I am motivated to eat tacos because I have to eat to survive. The underlying motive is to obtain food and water even if my specific craving is for a taco.    Some of our underlying motives include:*  Conserve energy Obtain food and water   Find love and reproduce Connect and bond with others Win social acceptance and approval Reduce uncertainty  Achieve status and prestige A craving is just a specific manifestation of a deeper underlying motive. Your brain did not evolve with a desire to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses a method of reframing the perception of smoking to help individuals quit. It emphasizes that smoking is not necessary for socializing, stress relief, or any perceived benefits, but rather it harms health and quality of life. The text also explores the concept of cravings, explaining that they are manifestations of deeper, underlying motives such as conserving energy, obtaining food and water, finding love, connecting with others, winning social acceptance, reducing uncertainty, and achieving status. The idea is to understand these motives and manage cravings effectively.

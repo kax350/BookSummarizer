@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Habits Shape Your Identity (and Vice Versa)  W  HY IS IT so easy to repeat bad habits and so hard to form good  ones? Few things can have a more powerful impact on your life than improving your daily habits. And yet it is likely that this time next year youll be doing the same thing rather than something better. It often feels difficult to keep good habits going for more than a few days, even with sincere effort and the occasional burst of motivation. Habits like exercise, meditation, journaling, and cooking are reasonable for a day or two and then become a hassle. However, once your habits are established, they seem to stick around foreverespecially the unwanted ones. Despite our best intentions, unhealthy habits like eating junk food, watching too much television, procrastinating, and smoking can feel impossible to break. Changing our habits is challenging for two reasons: (1) we try to change the wrong thing and (2) we try to change our habits in the wrong way. In this chapter, Ill address the first point. In the chapters that follow, Ill answer the second. Our first mistake is that we try to change the wrong thing. To understand what I mean, consider that there are three levels at which change can occur. You can imagine them like the layers of an onion.    THREE LAYERS OF BEHAVIOR CHANGE   FIGURE 3: There are three layers of behavior change: a change in your outcomes, a change in your processes, or a change in your identity.  The first layer is changing your outcomes. This level is concerned with changing your results: losing weight, publishing a book, winning a championship. Most of the goals you set are associated with this level of change. The second layer is changing your process. This level is concerned with changing your habits and systems: implementing a new routine at the gym, decluttering your desk for better workflow, developing a meditation practice. Most of the habits you build are associated with this level. The third and deepest layer is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the difficulty of forming good habits and breaking bad ones, despite their significant impact on our lives. It suggests that the challenge in changing habits stems from two main issues: trying to change the wrong thing and using the wrong method to change habits. The text introduces the concept of three layers of behavior change: changing outcomes (results), changing processes (habits and systems), and changing identity. The failure to effectively change habits is often due to focusing on the wrong layer of behavior change.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the response. The response is the actual habit you perform, which can take the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior. If a particular action requires more physical or mental effort than you are willing to expend, then you wont do it. Your response also depends on your ability. It sounds simple, but a habit can occur only if you are capable of doing it. If you     want to dunk a basketball but cant jump high enough to reach the hoop, well, youre out of luck. Finally, the response delivers a reward. Rewards are the end goal of every habit. The cue is about noticing the reward. The craving is about wanting the reward. The response is about obtaining the reward. We chase rewards because they serve two purposes: (1) they satisfy us and (2) they teach us. The first purpose of rewards is to satisfy your craving. Yes, rewards provide benefits on their own. Food and water deliver the energy you need to survive. Getting a promotion brings more money and respect. Getting in shape improves your health and your dating prospects. But the more immediate benefit is that rewards satisfy your craving to eat or to gain status or to win approval. At least for a moment, rewards deliver contentment and relief from craving. Second, rewards teach us which actions are worth remembering in the future. Your brain is a reward detector. As you go about your life, your sensory nervous system is continuously monitoring which actions satisfy your desires and deliver pleasure. Feelings of pleasure and disappointment are part of the feedback mechanism that helps your brain distinguish useful actions from useless ones. Rewards close the feedback loop and complete the habit cycle. If a behavior is insufficient in any of the four stages, it will not become a habit. Eliminate the cue and your habit will never start. Reduce the craving and you wont experience enough motivation to act. Make the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of habits, focusing on the response stage. A response, either a thought or action, depends on motivation and the effort required. A habit can only occur if one is capable of performing it. The response leads to a reward, which serves two purposes: satisfying cravings and teaching us which actions are worth repeating. Rewards provide immediate benefits and help distinguish useful actions from useless ones. If any stage of the habit cycle (cue, craving, response, reward) is insufficient, the behavior will not become a habit.

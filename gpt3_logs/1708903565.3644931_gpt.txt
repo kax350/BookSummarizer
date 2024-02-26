@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+greater. April 3, 2018. Habits are the compound interest: Many people have noted how habits multiply over time. Here are some of my favorite articles and books on the subject: Leo Babauta, The Power of Habit Investments, Zen Habits, January 28, 2013, https://zenhabits.net/bank; Morgan Housel, The Freakishly Strong Base, Collaborative Fund, October 31, 2017, http://www.collaborativefund.com/blog/thefreakishly-strong-base; Darren Hardy, The Compound Effect (New York: Vanguard Press, 2012). Accomplishing one extra task: As Sam Altman says, A small productivity gain, compounded over 50 years, is worth a lot. Productivity, Sam Altman. April 10, 2018, http://blog.samaltman.com/productivity. Habits are a double-edged sword: Id like to credit Jason Hreha with originally describing habits to me in this way. Jason Hreha (@jhreha), Theyre a double edged sword, Twitter, February 21, 2018, https://twitter.com/jhreha/status/966430907371433984.  The more tasks you can handle without thinking: Michael (@mmay3r), The foundation of productivity is habits. The more you do automatically, the more youre     subsequently freed to do. This effect compounds, Twitter, April 10, 2018, https://twitter.com/mmay3r/status/983837519274889216. each book you read not only teaches: This ideathat learning new ideas increases the value of your old ideasis something I first heard about from Patrick OShaughnessy, who writes, This is why knowledge compounds. Old stuff that was a 4/10 in value can become a 10/10, unlocked by another book in the future. http://investorfieldguide.com/reading-tweet-storm. Cancer spends 80 percent of its life undetectable: How to Live a Longer, Higher Quality Life, with Peter Attia, M.D., Investors Field Guide, March 7, 2017, http://investorfieldguide.com/attia. The San Antonio Spurs: Matt Moore, NBA Finals: A Rock, Hammer and Cracking of Spurs Majesty in Game 7, CBS Sports, June 21, 2013, https://www.cbssports.com/nba/news/nba-finals-a-rock-hammer-
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the power of habits and their compounding effect over time. It highlights how small productivity gains can accumulate significantly over a long period, as stated by Sam Altman. The text also mentions the dual nature of habits, as described by Jason Hreha, and emphasizes the role of habits in enhancing productivity, as suggested by Michael. Furthermore, it underscores the idea that learning new concepts can enhance the value of previously acquired knowledge, a concept introduced by Patrick O'Shaughnessy. The text also briefly refers to the growth of cancer and the performance of the San Antonio Spurs.

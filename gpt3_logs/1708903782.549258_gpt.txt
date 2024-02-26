@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+delivery of food did not decrease behavior, but actually increased it.     * I created a template for readers interested in keeping a decision journal. It is included as part of the habit journal at atomichabits.com/journal.     * You can see my previous Annual Reviews at jamesclear.com/annual-review.     * You can see my previous Integrity Reports at jamesclear.com/integrity.     * Sorites is derived from the Greek word sors, which means heap or pile.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the unexpected increase in behavior following food delivery. It also mentions the creation of a decision journal template, available on the Atomic Habits website. The author's previous Annual Reviews and Integrity Reports can be found on his personal website. Lastly, the term 'Sorites' is explained, originating from the Greek word 'sors', meaning heap or pile.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+real me? No internal judgments or people-pleasing. No second-guessing or self-criticism. Just feelings of engagement and enjoyment. Whenever you feel authentic and genuine, you are headed in the right direction. To be honest, some of this process is just luck. Michael Phelps and Hicham El Guerrouj were lucky to be born with a rare set of abilities that are highly valued by society and to be placed in the ideal environment for those abilities. We all have limited time on this planet, and the truly great among us are the ones who not only work hard but also have the good fortune to be exposed to opportunities that favor us. But what if you dont want to leave it up to luck? If you cant find a game where the odds are stacked in your favor, create one. Scott Adams, the cartoonist behind Dilbert, says, Everyone has at least a few areas in which they could be in the top 25% with some effort. In my case, I can draw better than most people, but Im hardly an artist. And Im not any funnier than the average     standup comedian who never makes it big, but Im funnier than most people. The magic is that few people can draw well and write jokes. Its the combination of the two that makes what I do so rare. And when you add in my business background, suddenly I had a topic that few cartoonists could hope to understand without living it. When you cant win by being better, you can win by being different. By combining your skills, you reduce the level of competition, which makes it easier to stand out. You can shortcut the need for a genetic advantage (or for years of practice) by rewriting the rules. A good player works hard to win the game everyone else is playing. A great player creates a new game that favors their strengths and avoids their weaknesses. In college, I designed my own major, biomechanics, which was a combination of physics, chemistry, biology, and anatomy. I wasnt smart enough to stand out among the top physics or biology majors, so I created my own game.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text emphasizes the importance of authenticity and leveraging one's unique abilities to succeed. It acknowledges that some successful individuals, like Michael Phelps and Hicham El Guerrouj, are born with rare abilities and placed in ideal environments, but it also suggests that success isn't solely reliant on luck. The author encourages creating one's own path by combining unique skills to stand out and reduce competition. This approach allows individuals to bypass the need for genetic advantages or years of practice by rewriting the rules. The author uses their own experience of designing a unique college major, biomechanics, as an example of this strategy.

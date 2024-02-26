@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+writing was read by over eight million people that year. Coaches in the NFL, NBA, and MLB began reading my work and sharing it with their teams.     At the start of 2017, I launched the Habits Academy, which became the premier training platform for organizations and individuals interested in building better habits in life and work.* Fortune 500 companies and growing start-ups began to enroll their leaders and train their staff. In total, over ten thousand leaders, managers, coaches, and teachers have graduated from the Habits Academy, and my work with them has taught me an incredible amount about what it takes to make habits work in the real world. As I put the finishing touches on this book in 2018, jamesclear.com is receiving millions of visitors per month and nearly five hundred thousand people subscribe to my weekly email newslettera number that is so far beyond my expectations when I began that Im not even sure what to think of it.  HOW THIS BOOK WILL BENEFIT YOU The entrepreneur and investor Naval Ravikant has said, To write a great book, you must first become the book. I originally learned about the ideas mentioned here because I had to live them. I had to rely on small habits to rebound from my injury, to get stronger in the gym, to perform at a high level on the field, to become a writer, to build a successful business, and simply to develop into a responsible adult. Small habits helped me fulfill my potential, and since you picked up this book, Im guessing youd like to fulfill yours as well. In the pages that follow, I will share a step-by-step plan for building better habitsnot for days or weeks, but for a lifetime. While science supports everything Ive written, this book is not an academic research paper; its an operating manual. Youll find wisdom and practical advice front and center as I explain the science of how to create and change your habits in a way that is easy to understand and apply. The fields I draw onbiology, neuroscience,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The author's writing gained significant popularity, being read by over eight million people and utilized by coaches in major sports leagues. In 2017, the author launched the Habits Academy, a training platform for individuals and organizations aiming to build better habits. The academy has graduated over ten thousand leaders, managers, coaches, and teachers. The author's website, jamesclear.com, receives millions of visitors per month and has nearly half a million subscribers to its weekly newsletter. The author's book aims to provide a practical, science-backed guide to creating and changing habits for lifelong improvement, drawing from fields such as biology and neuroscience.

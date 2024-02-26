@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+human population. For more, see Edward O. Wilson, Sociobiology (Cambridge, MA: Belknap Press, 1980), 151. our brains evolved to prefer quick payoffs to long-term ones: Daniel Gilbert, Humans Wired to Respond to Short-Term Problems, interview by Neal Conan, Talk of the Nation, NPR, July 3, 2006, https://www.npr.org/templates/story/story.php? storyId=5530483.     Disease and infection wont show up for days or weeks, even years: The topics of irrational behavior and cognitive biases have become quite popular in recent years. However, many actions that seem irrational on the whole have rational origins if you consider their immediate outcome. Frdric Bastiat: Frdric Bastiat and W. B. Hodgson, What Is Seen and What Is Not Seen: Or Political Economy in One Lesson (London: Smith, 1859). Future You: Hat tip to behavioral economist Daniel Goldstein, who said, Its an unequal battle between the present self and the future self. I mean, lets face it, the present self is present. Its in control. Its in power right now. It has these strong, heroic arms that can lift doughnuts into your mouth. And the future self is not even around. Its off in the future. Its weak. It doesnt even have a lawyer present. Theres nobody to stick up for the future self. And so the present self can trounce all over its dreams. For more, see Daniel Goldstein, The Battle between Your Present and Future Self, TEDSalon NY2011, November 2011, video, https://www.ted.com/talks/daniel_goldstein_the_battle_between_your_present_and_future_self People who are better at delaying gratification have higher SAT scores: Walter Mischel, Ebbe B. Ebbesen, and Antonette Raskoff Zeiss, Cognitive and Attentional Mechanisms in Delay of Gratification, Journal of Personality and Social Psychology 21, no. 2 (1972), doi:10.1037/h0032198; W. Mischel, Y. Shoda, and M. Rodriguez, Delay of Gratification in Children, Science 244, no. 4907 (1989), doi:10.1126/science.2658056; Walter Mischel, Yuichi Shoda, and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The human brain has evolved to prioritize immediate rewards over long-term benefits, a trait that can lead to seemingly irrational behavior. This preference for short-term payoffs can be seen in how we respond to potential threats, such as disease or infection, which may not manifest for days, weeks, or even years. This concept is also reflected in the struggle between our present and future selves, with the present self often overpowering the future self's needs and goals due to its immediate presence and control. However, research has shown that individuals who are better at delaying gratification tend to achieve higher SAT scores, indicating a potential benefit to overcoming this inherent bias towards immediate rewards.

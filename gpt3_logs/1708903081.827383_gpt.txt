@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+want to get in shape. Many people feel out of place the first time they go to the gym or try to change their diet, but if you are already similar to the other members of the group in some waysay, your mutual love of Star Warschange becomes more appealing because it feels like something people like you already do. Nothing sustains motivation better than belonging to the tribe. It transforms a personal quest into a shared one. Previously, you were on your own. Your identity was singular. You are a reader. You are a musician. You are an athlete. When you join a book club or a band or a cycling group, your identity becomes linked to those around you. Growth and change is no longer an individual pursuit. We are readers. We are musicians. We are cyclists. The shared identity begins to reinforce your personal identity. This is why remaining part of a group after achieving a goal is crucial to maintaining your habits. Its friendship and community that embed a new identity and help behaviors last over the long run.  2. Imitating the Many In the 1950s, psychologist Solomon Asch conducted a series of experiments that are now taught to legions of undergrads each year. To begin each experiment, the subject entered the room with a group of strangers. Unbeknownst to them, the other participants were actors planted by the researcher and instructed to deliver scripted answers to certain questions. The group would be shown one card with a line on it and then a second card with a series of lines. Each person was asked to select the line on the second card that was similar in length to the line on the first card. It was a very simple task. Here is an example of two cards used in the experiment:    CONFORMING TO SOCIAL NORMS   FIGURE 10: This is a representation of two cards used by Solomon Asch in his famous social conformity experiments. The length of the line on the first card (left) is obviously the same as line C, but when a group of actors claimed it was a different length the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the power of group identity and social norms in influencing personal behavior and achieving goals. It suggests that people are more likely to adopt new habits or changes if they feel a sense of belonging to a group that shares similar interests or goals. This shared identity not only makes the change more appealing but also reinforces personal identity, making it crucial for maintaining new habits in the long run. The text also references Solomon Asch's 1950s experiments on social conformity, illustrating how individuals often conform to group opinions, even when they contradict obvious facts.

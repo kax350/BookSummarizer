@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+between where you are now and where you want to be in the future. Even the tiniest action is tinged with the motivation to feel differently than you do in the moment. When you binge-eat or light up or browse social media, what you really want is not a potato chip or a cigarette or a bunch of likes. What you really want is to feel different. Our feelings and emotions tell us whether to hold steady in our current state or to make a change. They help us decide the best course of action. Neurologists have discovered that when emotions and feelings are impaired, we actually lose the ability to make decisions. We have no signal of what to pursue and what to avoid. As the neuroscientist Antonio Damasio explains, It is emotion that allows you to mark things as good, bad, or indifferent. To summarize, the specific cravings you feel and habits you perform are really an attempt to address your fundamental underlying motives. Whenever a habit successfully addresses a motive, you develop a craving to do it again. In time, you learn to predict that checking social media will help you feel loved or that watching YouTube will allow you to forget your fears. Habits are attractive when we associate them with positive feelings, and we can use this insight to our advantage rather than to our detriment.  HOW TO REPROGRAM YOUR BRAIN TO ENJOY HARD HABITS You can make hard habits more attractive if you can learn to associate them with a positive experience. Sometimes, all you need is a slight mind-set shift. For instance, we often talk about everything we have to do in a given day. You have to wake up early for work. You have to make another sales call for your business. You have to cook dinner for your family. Now, imagine changing just one word: You dont have to. You get to.     You get to wake up early for work. You get to make another sales call for your business. You get to cook dinner for your family. By simply changing one word, you shift the way you view each event. You
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the role of emotions and feelings in decision-making and habit formation. It suggests that our actions are motivated by a desire to change our current emotional state. When habits successfully address these emotional needs, we develop cravings to repeat them. Neurologists have found that impaired emotions and feelings can hinder decision-making. The text also suggests a strategy to make difficult habits more attractive by associating them with positive experiences. This can be achieved through a simple mindset shift, such as changing the phrase "you have to" to "you get to", thereby altering the perception of daily tasks.

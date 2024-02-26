@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+first glance. Experienced radiologists can look at a brain scan: Siddhartha Mukherjee, The Algorithm Will See You Now, New Yorker, April 3, 2017, https://www.newyorker.com/magazine/2017/04/03/ai-versus-md. The human brain is a prediction machine: The German physician Hermann von Helmholtz developed the idea of the brain being a prediction machine.  the clerk swiped the customers actual credit card: Helix van Boron, Whats the Dumbest Thing Youve Done While Your Brain Is on Autopilot, Reddit, August 21, 2017, https://www.reddit.com/r/AskReddit/comments/6v1t91/whats_the_dumbest_thing_youve_done_wh  she kept asking coworkers if they had washed their hands: SwordOfTheLlama, What Strange Habits Have You Picked Up from Your Line of Work, Reddit, January 4, 2016, https://www.reddit.com/r/AskReddit/comments/3zckq6/what_strange_habits_have_you_picked_up  story of a man who had spent years working as a lifeguard: SwearImaChick, What Strange Habits Have You Picked Up from Your Line of Work, Reddit, January 4, 2016, https://www.reddit.com/r/AskReddit/comments/3zckq6/what_strange_habits_have_you_picked_up Until you make the unconscious conscious: Although this quote by Jung is popular, I had trouble tracking down the original source. Its probably a paraphrase of this passage: The psychological rule says that when an inner situation is not made conscious, it happens outside, as fate. That is to say, when the individual remains undivided and does not become conscious of his inner opposite, the world must perforce act out the conflict and be torn into opposing halves. For more, see C. G. Jung, Aion: Researches into the Phenomenology of the Self (Princeton, NJ: Princeton University Press, 1959), 71.  Pointing-and-Calling reduces errors: Alice Gordenker, JR Gestures, Japan Times, October 21, 2008, https://www.japantimes.co.jp/news/2008/10/21/reference/jrgestures/#.WvIG49Mvzu1. The MTA subway system in New York City: Allan Richarz, Why Japans Rail Workers Cant
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various aspects of human behavior and cognition. It mentions the ability of experienced radiologists to interpret brain scans and refers to the concept of the brain as a prediction machine, an idea developed by German physician Hermann von Helmholtz. It also highlights some peculiar habits people develop from their jobs, such as a clerk swiping a customer's credit card on autopilot, or a person constantly asking if hands have been washed due to a job in healthcare. The text also references a quote by Jung about making the unconscious conscious to avoid external conflicts. Lastly, it mentions the practice of Pointing-and-Calling to reduce errors, a technique used in Japan's rail system and the MTA subway system in New York City.

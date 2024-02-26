@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+bad one. Imagine the cumulative impact of making dozens of these changes and living in an environment designed to make the good behaviors easier and the bad behaviors harder. Whether we are approaching behavior change as an individual, a parent, a coach, or a leader, we should ask ourselves the same question: How can we design a world where its easy to do whats right? Redesign your life so the actions that matter most are also the actions that are easiest to do.    Chapter Summary Human behavior follows the Law of Least Effort. We will naturally gravitate toward the option that requires the least amount of work.     Create an environment where doing the right thing is as easy as possible. Reduce the friction associated with good behaviors. When friction is low, habits are easy. Increase the friction associated with bad behaviors. When friction is high, habits are difficult. Prime your environment to make future actions easier.   13 How to Stop Procrastinating by Using the Two-Minute Rule  T  WYLA THARP IS widely regarded as one of the greatest dancers and  choreographers of the modern era. In 1992, she was awarded a MacArthur Fellowship, often referred to as the Genius Grant, and she has spent the bulk of her career touring the globe to perform her original works. She also credits much of her success to simple daily habits. I begin each day of my life with a ritual, she writes. I wake up at 5:30 A.M., put on my workout clothes, my leg warmers, my sweat shirt, and my hat. I walk outside my Manhattan home, hail a taxi, and tell the driver to take me to the Pumping Iron gym at 91st Street and First Avenue, where I work out for two hours. The ritual is not the stretching and weight training I put my body through each morning at the gym; the ritual is the cab. The moment I tell the driver where to go I have completed the ritual. Its a simple act, but doing it the same way each morning habitualizes itmakes it repeatable, easy to do. It reduces the chance that I
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of behavior change and the Law of Least Effort, which suggests that humans naturally opt for the path requiring the least amount of work. To encourage positive behavior and discourage negative behavior, one should design an environment that makes good behaviors easy and bad behaviors difficult. This involves reducing the friction associated with good behaviors and increasing it for bad behaviors. The text also introduces the Two-Minute Rule, using the example of renowned dancer Twyla Tharp, who attributes her success to daily habits and rituals that are easy to follow and repeatable.

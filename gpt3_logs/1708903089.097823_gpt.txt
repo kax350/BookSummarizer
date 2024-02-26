@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+strategy. There is evidence in numbers. But there can be a downside. The normal behavior of the tribe often overpowers the desired behavior of the individual. For example, one study found that when a chimpanzee learns an effective way to crack nuts open as a member of one group and then switches to a new group that uses a less effective strategy, it will avoid using the superior nut cracking method just to blend in with the rest of the chimps. Humans are similar. There is tremendous internal pressure to comply with the norms of the group. The reward of being accepted is often greater than the reward of winning an argument, looking smart, or finding truth. Most days, wed rather be wrong with the crowd than be right by ourselves. The human mind knows how to get along with others. It wants to get along with others. This is our natural mode. You can override it you can choose to ignore the group or to stop caring what other people thinkbut it takes work. Running against the grain of your culture requires extra effort. When changing your habits means challenging the tribe, change is unattractive. When changing your habits means fitting in with the tribe, change is very attractive.     3. Imitating the Powerful Humans everywhere pursue power, prestige, and status. We want pins and medallions on our jackets. We want President or Partner in our titles. We want to be acknowledged, recognized, and praised. This tendency can seem vain, but overall, its a smart move. Historically, a person with greater power and status has access to more resources, worries less about survival, and proves to be a more attractive mate. We are drawn to behaviors that earn us respect, approval, admiration, and status. We want to be the one in the gym who can do muscle-ups or the musician who can play the hardest chord progressions or the parent with the most accomplished children because these things separate us from the crowd. Once we fit in, we start looking for ways to stand out. This is one
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the human tendency to conform to group norms and the pursuit of power and status. It highlights that individuals often suppress their own effective strategies to blend in with the group, due to the internal pressure to comply with group norms. This behavior is driven by the desire for acceptance, which often outweighs the rewards of individual success or truth. The text also notes that humans are naturally inclined to imitate the powerful, as power and status historically provide access to resources and increase survival chances. Once individuals fit into a group, they seek ways to stand out, driven by the desire for respect, approval, and status.

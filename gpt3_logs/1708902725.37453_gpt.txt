@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+automatically. As each semester passed, I accumulated small but consistent habits that ultimately led to results that were unimaginable to me when I started. For example, for the first time in my life, I made it a habit to lift weights multiple times per week, and in the years that followed, my six-foot-four-inch frame bulked up from a featherweight 170 to a lean 200 pounds. When my sophomore season arrived, I earned a starting role on the pitching staff. By my junior year, I was voted team captain and at the end of the season, I was selected for the all-conference team. But it was not until my senior season that my sleep habits, study habits, and strength-training habits really began to pay off. Six years after I had been hit in the face with a baseball bat, flown to the hospital, and placed into a coma, I was selected as the top male athlete at Denison University and named to the ESPN Academic AllAmerica Teaman honor given to just thirty-three players across the country. By the time I graduated, I was listed in the school record books in eight different categories. That same year, I was awarded the universitys highest academic honor, the Presidents Medal. I hope youll forgive me if this sounds boastful. To be honest, there was nothing legendary or historic about my athletic career. I never ended up playing professionally. However, looking back on those years, I believe I accomplished something just as rare: I fulfilled my potential. And I believe the concepts in this book can help you fulfill your potential as well. We all face challenges in life. This injury was one of mine, and the experience taught me a critical lesson: changes that seem small and unimportant at first will compound into remarkable results if youre willing to stick with them for years. We all deal with setbacks but in the long run, the quality of our lives often depends on the quality of our     habits. With the same habits, youll end up with the same results. But with better habits,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The author recounts his journey from a severe injury to becoming the top male athlete at Denison University and earning the ESPN Academic All-America Team honor. He attributes his success to the small, consistent habits he developed over time, such as regular weight lifting and improved sleep and study routines. These habits, though seemingly insignificant at first, compounded over the years to yield remarkable results. The author emphasizes that the quality of our lives often depends on the quality of our habits, and that with better habits, one can achieve better results and fulfill their potential.

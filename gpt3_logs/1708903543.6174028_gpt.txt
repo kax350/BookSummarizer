@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+have any experiences to ground our expectations. New strategies seem more appealing than old ones because they can have unbounded hope. As Aristotle noted, Youth is easily deceived because it is quick to hope. Perhaps this can be revised to Youth is easily deceived because it only hopes. There is no experience to root the expectation in. In the beginning, hope is all you have.     How to Apply These Ideas to Business  O  VER THE YEARS, Ive spoken at Fortune 500 companies and growing  start-ups about how to apply the science of small habits to run more effective businesses and build better products. Ive compiled many of the most practical strategies into a short bonus chapter. I think youll find it to be an incredibly useful addition to the main ideas mentioned in Atomic Habits.    You can download this chapter at: atomichabits.com/business   How to Apply These Ideas to Parenting  O  NE OF THE most common questions I hear from readers is  something along the lines of, How can I get my kids to do this stuff? The ideas in Atomic Habits are intended to apply broadly to all of human behavior (teenagers are humans, too), which means you should find plenty of useful strategies in the main text. That said, parenting does face its own set of challenges. As a bonus chapter, Ive put together a brief guide on how to apply these ideas specifically to parenting.    You can download this chapter at: atomichabits.com/parenting   Acknowledgments  I  HAVE RELIED HEAVILY on others during the creation of this book. Before  anyone else, I must thank my wife, Kristy, who has been indispensable throughout this process. She has played every role a person can play in the writing of a book: spouse, friend, fan, critic, editor, researcher, therapist. It is no exaggeration to say this book would not be the same without her. It might not exist at all. Like everything in our life, we did it together. Second, I am grateful to my family, not only for their support and encouragement on
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the application of the principles from the book "Atomic Habits" to business and parenting. The author has spoken at various companies about using the science of small habits to improve business efficiency and product quality. A bonus chapter with practical strategies is available for download. Similarly, the author addresses how these ideas can be applied to parenting, with a specific guide available for download. The author acknowledges the significant support received from his wife and family in the creation of the book.

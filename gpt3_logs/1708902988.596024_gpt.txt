@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+your behavioral biases behind. You arent battling old environmental cues, which allows new habits to form without interruption. Want to think more creatively? Move to a bigger room, a rooftop patio, or a building with expansive architecture. Take a break from the space where you do your daily work, which is also linked to your current thought patterns. Trying to eat healthier? It is likely that you shop on autopilot at your regular supermarket. Try a new grocery store. You may find it easier to avoid unhealthy food when your brain doesnt automatically know where it is located in the store. When you cant manage to get to an entirely new environment, redefine or rearrange your current one. Create a separate space for work, study, exercise, entertainment, and cooking. The mantra I find useful is One space, one use. When I started my career as an entrepreneur, I would often work from my couch or at the kitchen table. In the evenings, I found it very difficult to stop working. There was no clear division between the end of work time and the beginning of personal time. Was the kitchen table my office or the space where I ate meals? Was the couch where I relaxed or where I sent emails? Everything happened in the same place.     A few years later, I could finally afford to move to a home with a separate room for my office. Suddenly, work was something that happened in here and personal life was something that happened out there. It was easier for me to turn off the professional side of my brain when there was a clear dividing line between work life and home life. Each room had one primary use. The kitchen was for cooking. The office was for working. Whenever possible, avoid mixing the context of one habit with another. When you start mixing contexts, youll start mixing habits and the easier ones will usually win out. This is one reason why the versatility of modern technology is both a strength and a weakness. You can use your phone for all sorts of tasks, which
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the impact of environmental cues on behavioral biases and habit formation. It suggests that changing environments can help form new habits and break old ones, such as thinking more creatively or eating healthier. The author also emphasizes the importance of defining separate spaces for different activities, like work, study, and relaxation, to avoid mixing contexts and habits. The author's personal experience of having a separate office space helped create a clear division between work and personal life. The text also mentions the double-edged nature of modern technology's versatility, as it can lead to the blending of different habits.

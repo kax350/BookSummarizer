@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+are big questions, and many people arent sure where to begin but they do know what kind of results they want: to get six-pack abs or to feel less anxious or to double their salary. Thats fine. Start there and work backward from the results you want to the type of person who could get those results. Ask yourself, Who is the type of person that could get the outcome I want? Who is the type of person that could lose forty pounds? Who is the type of person that could learn a new language? Who is the type of person that could run a successful start-up? For example, Who is the type of person who could write a book? Its probably someone who is consistent and reliable. Now your focus shifts from writing a book (outcome-based) to being the type of person who is consistent and reliable (identity-based).    This process can lead to beliefs like:   Im the kind of teacher who stands up for her students. Im the kind of doctor who gives each patient the time and empathy they need. Im the kind of manager who advocates for her employees. Once you have a handle on the type of person you want to be, you can begin taking small steps to reinforce your desired identity. I have a friend who lost over 100 pounds by asking herself, What would a healthy person do? All day long, she would use this question as a guide. Would a healthy person walk or take a cab? Would a healthy person order a burrito or a salad? She figured if she acted like a healthy person long enough, eventually she would become that person. She was right. The concept of identity-based habits is our first introduction to another key theme in this book: feedback loops. Your habits shape your identity, and your identity shapes your habits. Its a two-way street. The formation of all habits is a feedback loop (a concept we will explore in depth in the next chapter), but its important to let your values, principles, and identity drive the loop rather than your results. The focus should always be on becoming
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of identity-based habits, suggesting that individuals should start with the end goal in mind and then identify the type of person who could achieve that goal. This process involves asking questions like "Who is the type of person that could lose forty pounds?" or "Who is the type of person that could run a successful start-up?" The focus then shifts from the outcome to the identity. This approach can lead to beliefs that reinforce the desired identity, such as "I'm the kind of teacher who stands up for her students." The text also introduces the concept of feedback loops, where habits shape identity and vice versa, emphasizing that values, principles, and identity should drive these loops rather than results.

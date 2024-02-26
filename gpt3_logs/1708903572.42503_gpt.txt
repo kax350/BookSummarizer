@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+looked up in the American Heritage Dictionary.  We change bit by bit: This is another reason atomic habits are such an effective form of change. If you change your identity too quickly and become someone radically different overnight, then you feel as if you lose your sense of self. But if you update and expand your identity gradually, you will find yourself reborn into someone totally new and yet     still familiar. Slowlyhabit by habit, vote by voteyou become accustomed to your new identity. Atomic habits and gradual improvement are the keys to identity change without identity loss. CHAPTER 3 Edward Thorndike conducted an experiment: Peter Gray, Psychology, 6th ed. (New York: Worth, 2011), 108109. by some simple act, such as pulling at a loop of cord: Edward L. Thorndike, Animal Intelligence: An Experimental Study of the Associative Processes in Animals, Psychological Review: Monograph Supplements 2, no. 4 (1898), doi:10.1037/h0092987. behaviors followed by satisfying consequences: This is an abbreviated version of the original quote from Thorndike, which reads: responses that produce a satisfying effect in a particular situation become more likely to occur again in that situation, and responses that produce a discomforting effect become less likely to occur again in that situation. For more, see Peter Gray, Psychology, 6th ed. (New York: Worth, 2011), 108109. Neurological activity in the brain is high: Charles Duhigg, The Power of Habit: Why We Do What We Do in Life and Business (New York: Random House, 2014), 15; Ann M. Graybiel, Network-Level Neuroplasticity in Cortico-Basal Ganglia Pathways, Parkinsonism and Related Disorders 10, no. 5 (2004), doi:10.1016/j.parkreldis.2004.03.007.  Habits are, simply, reliable solutions: Jason Hreha, Why Our Conscious Minds Are Suckers for Novelty, Revue, https://www.getrevue.co/profile/jason/issues/why-ourconscious-minds-are-suckers-for-novelty-54131, accessed June 8, 2018. As habits are created: John R.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of atomic habits as an effective method for gradual self-improvement and identity change. It emphasizes that changing one's identity too quickly can lead to a loss of self, whereas gradual change allows for a comfortable transition into a new identity. The text also references Edward Thorndike's experiment, which suggests that behaviors followed by satisfying consequences are more likely to be repeated. It further mentions that neurological activity in the brain is high during habit formation, and habits are reliable solutions to recurring situations.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+066x.57.9.705. hope is usually higher: Hengchen Dai, Katherine L. Milkman, and Jason Riis, The Fresh Start Effect: Temporal Landmarks Motivate Aspirational Behavior, PsycEXTRA Dataset, 2014, doi:10.1037/e513702014058. writer Jason Zweig noted: Jason Zweig, Elevate Your Financial IQ: A Value Packed Discussion with Jason Zweig, interview by Shane Parrish, The Knowledge Project, Farnam Street, audio, https://www.fs.blog/2015/10/jason-zweig-knowledge-project. many ways to use implementation intentions: For the term habit stacking, I am indebted to S. J. Scott, who wrote a book by the same name. From what I understand, his concept is slightly different, but I like the term and thought it appropriate to use in this chapter. Previous writers such as Courtney Carver and Julien Smith have also used the term habit stacking, but in different contexts. The French philosopher Denis Diderot: Denis Diderot, New World Encyclopedia, http://www.newworldencyclopedia.org/entry/Denis_Diderot, last modified October 26, 2017. acquired a scarlet robe: Encyclopdia Britannica, vol. 8 (1911), s.v. Denis Diderot. Diderots scarlet robe is frequently described as a gift from a friend. However, I could find no original source claiming it was a gift nor any mention of the friend who supplied the robe. If you happen to know any historians specializing in robe acquisitions, feel free to point them my way so we can clarify the mystery of the source of Diderots famous scarlet robe. no more coordination, no more unity, no more beauty: Denis Diderot, Regrets for My Old Dressing Gown, trans. Mitchell Abidor, 2005, https://www.marxists.org/reference/archive/diderot/1769/regrets.htm. The Diderot Effect states: Juliet Schor, The Overspent American: Why We Want What We Dont Need (New York: HarperPerennial, 1999). which was created by BJ Fogg: In this chapter, I used the term habit stacking to refer to linking a new habit to an old one. For this idea, I give credit to BJ Fogg. In his work,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various concepts related to aspirational behavior and habit formation. It references a study by Hengchen Dai, Katherine L. Milkman, and Jason Riis on the "Fresh Start Effect," which suggests that hope tends to increase with temporal landmarks. The text also mentions the concept of "habit stacking," a term borrowed from S. J. Scott, Courtney Carver, and Julien Smith, but used in a different context here. The French philosopher Denis Diderot is mentioned in relation to his scarlet robe, which is linked to the "Diderot Effect," a term coined by Juliet Schor to describe the desire for consistency in our possessions. The text also credits BJ Fogg for the idea of linking a new habit to an old one, a concept used in the context of habit stacking.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and take action without dedicating conscious attention to it. This is what makes habits useful. Its also what makes them dangerous. As habits form, your actions come under the direction of your automatic and nonconscious mind. You fall into old patterns before you realize whats happening. Unless someone points it out, you may not notice that you cover your mouth with your hand whenever you laugh, that you apologize before asking a question, or that you have a habit of finishing other peoples sentences. And the more you repeat these patterns, the less likely you become to question what youre doing and why youre doing it. I once heard of a retail clerk who was instructed to cut up empty gift cards after customers had used up the balance on the card. One day, the clerk cashed out a few customers in a row who purchased with gift cards. When the next person walked up, the clerk swiped the customers actual credit card, picked up the scissors, and then cut it in halfentirely on autopilotbefore looking up at the stunned customer and realizing what had just happened. Another woman I came across in my research was a former preschool teacher who had switched to a corporate job. Even though she was now working with adults, her old habits would kick in and she kept asking coworkers if they had washed their hands after going to the bathroom. I also found the story of a man who had spent years working as a lifeguard and would occasionally yell Walk! whenever he saw a child running. Over time, the cues that spark our habits become so common that they are essentially invisible: the treats on the kitchen counter, the remote control next to the couch, the phone in our pocket. Our responses to these cues are so deeply encoded that it may feel like the urge to act comes from nowhere. For this reason, we must begin the process of behavior change with awareness. Before we can effectively build new habits, we need to get a handle on our current ones. This can be more challenging
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Habits are automatic behaviors that are directed by our nonconscious mind, making them both useful and potentially dangerous. These patterns can become so ingrained that we may not question or even notice them, such as a retail clerk cutting up a customer's credit card out of habit or a former preschool teacher asking coworkers if they've washed their hands. The cues that trigger our habits often become invisible over time, such as everyday objects or routines. To effectively change our behavior, we first need to become aware of our existing habits, which can be a challenging process.

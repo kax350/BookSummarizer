@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+ripped trainer at the gym has better genes, but if you havent put in the same reps, its impossible to say if you have been dealt a better or worse genetic hand. Until you work as hard as those you admire, dont explain away their success as luck. In summary, one of the best ways to ensure your habits remain satisfying over the long-run is to pick behaviors that align with your personality and skills. Work hard on the things that come easy.    Chapter Summary The secret to maximizing your odds of success is to choose the right field of competition. Pick the right habit and progress is easy. Pick the wrong habit and life is a struggle. Genes cannot be easily changed, which means they provide a powerful advantage in favorable circumstances and a serious disadvantage in unfavorable circumstances.  Habits are easier when they align with your natural abilities. Choose the habits that best suit you. Play a game that favors your strengths. If you cant find a game that favors you, create one. Genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard on.   19 The Goldilocks Rule: How to Stay Motivated in Life and Work  I  N 1955, Disneyland had just opened in Anaheim, California, when a  ten-year-old boy walked in and asked for a job. Labor laws were loose back then and the boy managed to land a position selling guidebooks for $0.50 apiece. Within a year, he had transitioned to Disneys magic shop, where he learned tricks from the older employees. He experimented with jokes and tried out simple routines on visitors. Soon he discovered that what he loved was not performing magic but performing in general. He set his sights on becoming a comedian. Beginning in his teenage years, he started performing in little clubs around Los Angeles. The crowds were small and his act was short. He was rarely on stage for more than five minutes. Most of the people in the crowd were too busy drinking or talking with friends to pay attention. One night, he
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text emphasizes the importance of aligning habits with personal skills and genetic predispositions for success. It suggests that choosing the right habits and fields of competition can make progress easier and life less of a struggle. While genes provide advantages in favorable circumstances and disadvantages in unfavorable ones, they do not eliminate the need for hard work. Instead, they guide us on what to focus our efforts on. The text also introduces the story of a boy who started working at Disneyland and discovered his passion for performing, leading him to pursue a career as a comedian.

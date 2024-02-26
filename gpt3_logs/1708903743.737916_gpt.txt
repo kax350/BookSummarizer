@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Steve, 11718 Kubitz, Andrew, 109 Lao Tzu, 249 Tao Te Ching, 249 Latimore, Ed, 132 Lewes, George H., 144     long-term potentiation, 143 Los Angeles Lakers example of reflection and review, 24244 Luby, Stephen, 18385 MacMullan, Jackie, 24344  Martin, Steve, 22930, 231 Massachusetts General Hospital cafeteria example of environment design change, 8182 Massimino, Mike, 117 mastery, 24042 Mate, Gabor, 219 McKeown, Greg, 165 measurements usefulness of, 202204  visual, 19596 Mike (Turkish travel guide/ex-smoker), 12526 Milner, Peter, 105  mind-set shifts from have to to get to, 13031 motivation rituals, 13233 reframing habits to highlight their benefits, 13132 motion vs. action, 14243 motivation the Goldilocks Rule, 23133  maximum motivation, 232 rituals, 13233 and taking action, 26061 Murphy, Morgan, 91 negative compounding, 19 Nietzsche, Friedrich, 260 nonconscious activities, 34n nonscale victories, 203204  novelty, 234 Nuckols, Oswald, 156 observations, 260  obstacles to getting what you want, 152 Olds, James, 105 Olwell, Patty, 93 1 percent changes    Career Best Effort program (CBE), 24244   compounding effect of making changes, 1516, 1718 Sorites Paradox, 25152 operant conditioning, 910  opportunities, choosing the right combining your skills to reduce the competition, 22526 explore/exploit trade-off, 22325 importance of, 22223 specialization, 226 outcomes and behavior change, 2931 outcome-based habits, 31 pain, 206207 Paper Clip Strategy of visual progress measurements, 19596  parenting applications of habit strategies, 267 Patterson, John Henry, 17172 Phelps, Michael, 21718, 225 photography class example of active practice, 14142, 144 Plateau of Latent Potential, 2123 pleasure anticipating vs. experiencing, 106108  image of, 260 repeating a behavior when its a satisfying sensory experience, 18486, 264 Safeguard soap example, 18485 Plomin, Robert, 220 Pointing-and-Calling subway safety system, 6263 positive compounding, 19
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses various aspects of habit formation, motivation, and behavior change. It highlights the importance of long-term potentiation, the use of reflection and review as demonstrated by the Los Angeles Lakers, and the role of environment design in behavior change. The text also discusses the concept of mastery, the usefulness of measurements, and the difference between motion and action. It introduces the Goldilocks Rule for maximum motivation and the concept of negative and positive compounding. The text further discusses the importance of choosing the right opportunities by combining skills and specialization, and the role of pain and pleasure in behavior repetition. It also mentions the Paper Clip Strategy for visual progress measurements and the Pointing-and-Calling subway safety system.

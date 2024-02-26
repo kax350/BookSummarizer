@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+only be rational and logical after we have been emotional. The primary mode of the brain is to feel; the secondary mode is to think. Our first responsethe fast, nonconscious portion of the brainis optimized for feeling and anticipating. Our second responsethe slow, conscious portion of the brainis the part that does the thinking. Psychologists refer to this as System 1 (feelings and rapid judgments) versus System 2 (rational analysis). The feeling comes first (System 1); the rationality only intervenes later (System 2). This works great when the two are aligned, but it results in illogical and emotional thinking when they are not. Your response tends to follow your emotions. Our thoughts and actions are rooted in what we find attractive, not necessarily in what is logical. Two people can notice the same set of facts and respond very differently because they run those facts through their unique emotional filter. This is one reason why appealing to emotion is typically more powerful than appealing to reason. If a topic makes someone feel emotional, they will rarely be interested in the data. This is why emotions can be such a threat to wise decision making. Put another way: most people believe that the reasonable response is the one that benefits them: the one that satisfies their desires. To approach a situation from a more neutral emotional position allows you to base your response on the data rather than the emotion. Suffering drives progress. The source of all suffering is the desire for a change in state. This is also the source of all progress. The desire to change your state is what powers you to take action. It is wanting more that pushes humanity to seek improvements, develop new technologies, and reach for a higher level. With craving, we are dissatisfied but driven. Without craving, we are satisfied but lack ambition. Your actions reveal how badly you want something. If you keep saying something is a priority but you never act on it, then you dont
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The human brain primarily operates on emotion, followed by rational thought, referred to as System 1 and System 2 respectively. Emotions often guide our responses and actions, even when they may not align with logic. This emotional bias can lead to different interpretations of the same facts among individuals, and can hinder objective decision-making. However, emotions, specifically the desire for change, also drive progress and ambition. It's important to approach situations from a neutral emotional standpoint to make decisions based on data rather than emotion. Actions, rather than words, truly reveal one's priorities and desires.

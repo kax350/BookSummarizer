@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+will transform your beliefs, but as the votes build up, so does the evidence of your new identity. This is one reason why meaningful change does not require radical change. Small habits can make a meaningful difference by providing evidence of a new identity. And if a change is meaningful, it actually is big. Thats the paradox of making small improvements. Putting this all together, you can see that habits are the path to changing your identity. The most practical way to change who you are is to change what you do.    Each time you write a page, you are a writer. Each time you practice the violin, you are a musician. Each time you start a workout, you are an athlete.  Each time you encourage your employees, you are a leader.   Each habit not only gets results but also teaches you something far more important: to trust yourself. You start to believe you can actually accomplish these things. When the votes mount up and the evidence begins to change, the story you tell yourself begins to change as well. Of course, it works the opposite way, too. Every time you choose to perform a bad habit, its a vote for that identity. The good news is that you dont need to be perfect. In any election, there are going to be votes for both sides. You dont need a unanimous vote to win an election; you just need a majority. It doesnt matter if you cast a few votes for a bad behavior or an unproductive habit. Your goal is simply to win the majority of the time. New identities require new evidence. If you keep casting the same votes youve always cast, youre going to get the same results youve always had. If nothing changes, nothing is going to change. It is a simple two-step process: 1. Decide the type of person you want to be. 2. Prove it to yourself with small wins. First, decide who you want to be. This holds at any levelas an individual, as a team, as a community, as a nation. What do you want to stand for? What are your principles and values? Who do you wish to become? These
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the transformative power of habits in shaping one's identity. It suggests that small, consistent actions can significantly influence one's self-perception and behavior, thereby leading to meaningful change. Each action or habit is seen as a vote towards a particular identity, whether it's being a writer, musician, athlete, or leader. While negative habits can also shape identity, the focus should be on winning the majority of the 'votes' with positive actions. The process involves deciding the type of person one wants to be and then proving it through small victories. This principle applies at all levels, from individuals to nations.

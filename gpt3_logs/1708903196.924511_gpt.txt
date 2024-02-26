@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+becomes Fold one pair of socks. Run three miles becomes Tie my running shoes. The idea is to make your habits as easy as possible to start. Anyone can meditate for one minute, read one page, or put one item of clothing away. And, as we have just discussed, this is a powerful strategy because once youve started doing the right thing, it is much easier to continue doing it. A new habit should not feel like a challenge. The actions that follow can be challenging, but the first two minutes should be easy. What you want is a gateway habit that naturally leads you down a more productive path. You can usually figure out the gateway habits that will lead to your desired outcome by mapping out your goals on a scale from very easy to very hard. For instance, running a marathon is very hard. Running a 5K is hard. Walking ten thousand steps is moderately difficult. Walking ten minutes is easy. And putting on your running shoes is very easy. Your goal might be to run a marathon, but your gateway habit is to put on your running shoes. Thats how you follow the Two-Minute Rule.     Very easy  Easy  Moderate  Hard  Very hard  Put on your running shoes  Walk ten minutes  Walk ten thousand steps  Run a 5K  Run a marathon  Write one sentence  Write one paragraph  Write one thousand words  Write a five-thousandword article  Write a book  Open your notes  Study for ten minutes  Study for three hours  Get straight As  Earn a PhD  People often think its weird to get hyped about reading one page or meditating for one minute or making one sales call. But the point is not to do one thing. The point is to master the habit of showing up. The truth is, a habit must be established before it can be improved. If you cant learn the basic skill of showing up, then you have little hope of mastering the finer details. Instead of trying to engineer a perfect habit from the start, do the easy thing on a more consistent basis. You have to standardize before you can optimize. As you master
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The text discusses the concept of "gateway habits" and the "Two-Minute Rule" as strategies to make habit formation easier and more effective. The idea is to start with a very simple, easy-to-do action that naturally leads to more complex, desired behaviors. For instance, if the goal is to run a marathon, the gateway habit could be as simple as putting on running shoes. The text emphasizes that the initial habit should not be challenging, and the focus should be on consistently showing up rather than perfecting the habit from the start. This approach allows for the habit to be established before it can be improved upon.
