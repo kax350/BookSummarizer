@@ -4,12 +4,11 @@ This project is a tool that summarizes any length of text by recursively calling
 
 ## Features
 - **Text Summarization**: Utilizes the ChatGPT-4 API to recursively process and summarize long texts, ensuring users can get an accurate summary.
-- **Language Support**: Currently supports input and summarization for both Chinese and English texts.
+- **Language Support**: Currently supports input and summarization for any language that OpenAi supported ：）
 
 ## Future Development
-Our team is actively developing more features, including but not limited to:
-- Adding support for additional languages.
+More features developing, including but not limited to:
 - Incorporating text sentiment analysis.
 - Providing more detailed summarization options.
 
-Please note that these features are still under development and will be released in the future.
+Please note that some of these features are still under development and will be released in the future.
